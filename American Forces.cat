@@ -1,0 +1,1707 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue library="false" id="15e3-0c37-1c8d-c126" name="American Forces" gameSystemId="sys-b3a3-585f-272b-852a" gameSystemRevision="1" revision="1" battleScribeVersion="2.03" publicationId="966c-0e9c-72c7-cb80" type="catalogue" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <selectionEntries>
+    <selectionEntry type="unit" import="true" name="T26E5 Assault Pershing HQ" hidden="true" id="e87c-cc15-2be3-5b30">
+      <categoryLinks>
+        <categoryLink targetId="a812-7443-1e32-9656" id="72f5-41d8-a338-09a4" primary="true" name="Headquarters"/>
+      </categoryLinks>
+      <selectionEntryGroups>
+        <selectionEntryGroup name="Configuration" id="4000-0ed9-ab4a-9e83" hidden="false">
+          <entryLinks>
+            <entryLink import="true" name="T26E5 Assault Pershing" hidden="false" id="5eac-7ad4-6ac9-ea95" type="selectionEntry" targetId="ce85-34db-f07f-21e4">
+              <constraints>
+                <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="5d61-d7be-26da-ec7a" includeChildSelections="false"/>
+                <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="675e-5cb9-0864-264d" includeChildSelections="false"/>
+              </constraints>
+              <costs>
+                <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="5"/>
+              </costs>
+            </entryLink>
+            <entryLink import="true" name="Commander Abilities" hidden="false" id="9895-c8a2-99cd-9d96" type="selectionEntryGroup" targetId="bbb5-2553-4bf9-ec5a"/>
+          </entryLinks>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+      <modifiers>
+        <modifier type="set" value="false" field="hidden">
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition type="instanceOf" value="1" field="forces" scope="force" childId="eabb-ab75-efd6-9faf" shared="true" includeChildSelections="true"/>
+                <condition type="instanceOf" value="1" field="forces" scope="force" childId="514b-3158-1404-e7fa" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifier>
+      </modifiers>
+    </selectionEntry>
+    <selectionEntry type="unit" import="true" name="T28 HQ" hidden="true" id="aecb-ab0c-ff4a-74c5">
+      <categoryLinks>
+        <categoryLink targetId="a812-7443-1e32-9656" id="6bef-9f94-5be8-04b8" primary="true" name="Headquarters"/>
+      </categoryLinks>
+      <selectionEntryGroups>
+        <selectionEntryGroup name="Configuration" id="34f9-2784-dfc9-bc16" hidden="false">
+          <entryLinks>
+            <entryLink import="true" name="Commander Abilities" hidden="false" id="86fb-31a8-ccc3-2e5c" type="selectionEntryGroup" targetId="bbb5-2553-4bf9-ec5a"/>
+            <entryLink import="true" name="T28" hidden="false" id="c9b4-eb5f-4946-eb5c" type="selectionEntry" targetId="61ef-ff10-56fe-f284">
+              <costs>
+                <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="8"/>
+              </costs>
+              <constraints>
+                <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="9ea3-8cee-4ab7-ee52" includeChildSelections="false"/>
+                <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="70c5-2f58-38b9-de8b" includeChildSelections="false"/>
+              </constraints>
+            </entryLink>
+          </entryLinks>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+      <modifiers>
+        <modifier type="set" value="false" field="hidden">
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition type="instanceOf" value="1" field="forces" scope="force" childId="eabb-ab75-efd6-9faf" shared="true" includeChildSelections="true"/>
+                <condition type="instanceOf" value="1" field="forces" scope="force" childId="514b-3158-1404-e7fa" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifier>
+      </modifiers>
+    </selectionEntry>
+    <selectionEntry type="unit" import="true" name="T29 HQ" hidden="true" id="76c8-91c7-5b0b-3470">
+      <categoryLinks>
+        <categoryLink targetId="a812-7443-1e32-9656" id="8f34-49bd-1e43-2c30" primary="true" name="Headquarters"/>
+      </categoryLinks>
+      <selectionEntryGroups>
+        <selectionEntryGroup name="Configuration" id="8359-32a7-25b9-f429" hidden="false">
+          <entryLinks>
+            <entryLink import="true" name="Commander Abilities" hidden="false" id="cf54-27a9-8e6b-1123" type="selectionEntryGroup" targetId="bbb5-2553-4bf9-ec5a"/>
+            <entryLink import="true" name="T29" hidden="false" id="2b99-3c45-e848-607b" type="selectionEntry" targetId="8598-bc72-1f2f-c8c5">
+              <costs>
+                <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="9"/>
+              </costs>
+              <constraints>
+                <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="d209-abd5-f253-1cc5" includeChildSelections="false"/>
+                <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="c11b-1a26-c013-2322" includeChildSelections="false"/>
+              </constraints>
+            </entryLink>
+          </entryLinks>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+      <modifiers>
+        <modifier type="set" value="false" field="hidden">
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition type="instanceOf" value="1" field="forces" scope="force" childId="eabb-ab75-efd6-9faf" shared="true" includeChildSelections="true"/>
+                <condition type="instanceOf" value="1" field="forces" scope="force" childId="514b-3158-1404-e7fa" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifier>
+      </modifiers>
+    </selectionEntry>
+    <selectionEntry type="unit" import="true" name="T34 Super-Heavy Platoon" hidden="false" id="ea28-b077-f340-c766">
+      <categoryLinks>
+        <categoryLink targetId="d848-a65e-d12d-753a" id="b811-90ac-c71b-9560" primary="true" name="Support Units"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink import="true" name="T34" hidden="false" id="ac06-30b9-c526-1cb4" type="selectionEntry" targetId="01a6-0aa6-44f7-48d0">
+          <constraints>
+            <constraint type="min" value="2" field="selections" scope="parent" shared="true" id="2f5c-399b-6c26-8498" includeChildSelections="false"/>
+            <constraint type="max" value="5" field="selections" scope="parent" shared="true" id="0039-02ee-f299-3f1b" includeChildSelections="false"/>
+          </constraints>
+        </entryLink>
+      </entryLinks>
+      <modifierGroups>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="set" value="19" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="2" field="selections" scope="self" childId="01a6-0aa6-44f7-48d0" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="28" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="3" field="selections" scope="self" childId="01a6-0aa6-44f7-48d0" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="37" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="4" field="selections" scope="self" childId="01a6-0aa6-44f7-48d0" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="46" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="5" field="selections" scope="self" childId="01a6-0aa6-44f7-48d0" shared="true"/>
+              </conditions>
+            </modifier>
+          </modifiers>
+        </modifierGroup>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="add" value="5d61-0258-0ff7-f8d6" field="category"/>
+            <modifier type="set-primary" value="5d61-0258-0ff7-f8d6" field="category"/>
+            <modifier type="remove" value="d848-a65e-d12d-753a" field="category"/>
+          </modifiers>
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition type="instanceOf" value="1" field="forces" scope="force" childId="514b-3158-1404-e7fa" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifierGroup>
+      </modifierGroups>
+      <costs>
+        <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry type="unit" import="true" name="T57 Heavy Platoon" hidden="false" id="bb90-6d2e-ae38-3214">
+      <categoryLinks>
+        <categoryLink targetId="d848-a65e-d12d-753a" id="7817-6c01-75c2-4cf0" primary="true" name="Support Units"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink import="true" name="T57" hidden="false" id="3a70-0988-e51d-e030" type="selectionEntry" targetId="a5dd-a853-6b09-dccf">
+          <constraints>
+            <constraint type="min" value="2" field="selections" scope="parent" shared="true" id="0372-b45d-cc02-9cf0" includeChildSelections="false"/>
+            <constraint type="max" value="5" field="selections" scope="parent" shared="true" id="7f19-8091-f44a-7696" includeChildSelections="false"/>
+          </constraints>
+        </entryLink>
+      </entryLinks>
+      <modifierGroups>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="set" value="28" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="2" field="selections" scope="self" childId="a5dd-a853-6b09-dccf" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="41" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="3" field="selections" scope="self" childId="a5dd-a853-6b09-dccf" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="55" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="4" field="selections" scope="self" childId="a5dd-a853-6b09-dccf" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="69" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="5" field="selections" scope="self" childId="a5dd-a853-6b09-dccf" shared="true"/>
+              </conditions>
+            </modifier>
+          </modifiers>
+        </modifierGroup>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="add" value="5d61-0258-0ff7-f8d6" field="category"/>
+            <modifier type="set-primary" value="5d61-0258-0ff7-f8d6" field="category"/>
+            <modifier type="remove" value="d848-a65e-d12d-753a" field="category"/>
+          </modifiers>
+          <conditions>
+            <condition type="instanceOf" value="1" field="forces" scope="force" childId="default-force" shared="true" includeChildSelections="true"/>
+          </conditions>
+        </modifierGroup>
+      </modifierGroups>
+      <costs>
+        <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry type="unit" import="true" name="M60 Patton HQ" hidden="true" id="f52f-b455-c61d-643a">
+      <categoryLinks>
+        <categoryLink targetId="a812-7443-1e32-9656" id="c30d-d39b-0283-3d61" primary="true" name="Headquarters"/>
+      </categoryLinks>
+      <selectionEntryGroups>
+        <selectionEntryGroup name="Configuration" id="25f5-ccb0-86e6-2338" hidden="false">
+          <entryLinks>
+            <entryLink import="true" name="Commander Abilities" hidden="false" id="68d7-02c8-7abb-d1ee" type="selectionEntryGroup" targetId="bbb5-2553-4bf9-ec5a"/>
+            <entryLink import="true" name="M60 Patton" hidden="false" id="dcdd-b2c4-709a-4b51" type="selectionEntry" targetId="def3-628c-88f7-49ab">
+              <costs>
+                <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="12"/>
+              </costs>
+              <constraints>
+                <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="4285-b14b-d179-8f11" includeChildSelections="false"/>
+                <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="0525-8b32-df16-d7da" includeChildSelections="false"/>
+              </constraints>
+              <modifiers>
+                <modifier type="set" value="12.5" field="da7c-c0bb-4deb-9f7c">
+                  <conditions>
+                    <condition type="atLeast" value="2" field="selections" scope="parent" childId="def3-628c-88f7-49ab" shared="true"/>
+                  </conditions>
+                </modifier>
+              </modifiers>
+            </entryLink>
+          </entryLinks>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+      <modifiers>
+        <modifier type="set" value="false" field="hidden">
+          <conditions>
+            <condition type="instanceOf" value="1" field="forces" scope="force" childId="default-force" shared="true" includeChildSelections="true"/>
+          </conditions>
+        </modifier>
+      </modifiers>
+    </selectionEntry>
+    <selectionEntry type="unit" import="true" name="T57 HQ" hidden="true" id="eec3-749b-8ef4-7a1d">
+      <categoryLinks>
+        <categoryLink targetId="a812-7443-1e32-9656" id="d48e-3609-aeda-7f2d" primary="true" name="Headquarters"/>
+      </categoryLinks>
+      <selectionEntryGroups>
+        <selectionEntryGroup name="Configuration" id="b33e-1661-7f6d-294a" hidden="false">
+          <entryLinks>
+            <entryLink import="true" name="Commander Abilities" hidden="false" id="69ce-f24a-643f-afcd" type="selectionEntryGroup" targetId="bbb5-2553-4bf9-ec5a"/>
+            <entryLink import="true" name="T57" hidden="false" id="6e29-f345-7db5-55d9" type="selectionEntry" targetId="a5dd-a853-6b09-dccf">
+              <costs>
+                <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="14"/>
+              </costs>
+              <constraints>
+                <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="7bbd-6226-254e-d8cd" includeChildSelections="false"/>
+                <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="39d5-82e9-5b2b-9a8d" includeChildSelections="false"/>
+              </constraints>
+            </entryLink>
+          </entryLinks>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+      <modifiers>
+        <modifier type="set" value="false" field="hidden">
+          <conditions>
+            <condition type="instanceOf" value="1" field="forces" scope="force" childId="default-force" shared="true" includeChildSelections="true"/>
+          </conditions>
+        </modifier>
+      </modifiers>
+    </selectionEntry>
+    <selectionEntry type="unit" import="true" name="M60 Patton Platoon" hidden="false" id="6b98-fbf7-2bfc-272b">
+      <categoryLinks>
+        <categoryLink targetId="d848-a65e-d12d-753a" id="6346-e0c9-920c-b845" primary="true" name="Support Units"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink import="true" name="M60 Patton" hidden="false" id="f89b-d9ad-d8f0-e0a6" type="selectionEntry" targetId="def3-628c-88f7-49ab">
+          <constraints>
+            <constraint type="min" value="2" field="selections" scope="parent" shared="true" id="2051-8cf4-41d0-2911" includeChildSelections="false"/>
+            <constraint type="max" value="5" field="selections" scope="parent" shared="true" id="840b-18ce-abf1-ac8d" includeChildSelections="false"/>
+          </constraints>
+        </entryLink>
+      </entryLinks>
+      <modifierGroups>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="set" value="25" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="2" field="selections" scope="self" childId="def3-628c-88f7-49ab" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="37" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="3" field="selections" scope="self" childId="def3-628c-88f7-49ab" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="50" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="4" field="selections" scope="self" childId="def3-628c-88f7-49ab" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="62" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="5" field="selections" scope="self" childId="def3-628c-88f7-49ab" shared="true"/>
+              </conditions>
+            </modifier>
+          </modifiers>
+        </modifierGroup>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="add" value="5d61-0258-0ff7-f8d6" field="category"/>
+            <modifier type="set-primary" value="5d61-0258-0ff7-f8d6" field="category"/>
+            <modifier type="remove" value="d848-a65e-d12d-753a" field="category"/>
+          </modifiers>
+          <conditions>
+            <condition type="instanceOf" value="1" field="forces" scope="force" childId="default-force" shared="true" includeChildSelections="true"/>
+          </conditions>
+        </modifierGroup>
+      </modifierGroups>
+      <costs>
+        <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry type="unit" import="true" name="M48 Patton HQ" hidden="true" id="1e6f-5aca-8d5a-ff77">
+      <categoryLinks>
+        <categoryLink targetId="a812-7443-1e32-9656" id="3f43-f8e9-bcc9-fa89" primary="true" name="Headquarters"/>
+      </categoryLinks>
+      <selectionEntryGroups>
+        <selectionEntryGroup name="Configuration" id="c611-6090-5a4e-6a6f" hidden="false">
+          <entryLinks>
+            <entryLink import="true" name="Commander Abilities" hidden="false" id="4c92-fec4-feb1-c7f7" type="selectionEntryGroup" targetId="bbb5-2553-4bf9-ec5a"/>
+            <entryLink import="true" name="M48 Patton" hidden="false" id="b9df-217f-2960-c6c8" type="selectionEntry" targetId="7ee3-d064-d08b-4614">
+              <costs>
+                <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="7"/>
+              </costs>
+              <constraints>
+                <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="511d-eb2b-adfe-7eaf" includeChildSelections="false"/>
+                <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="7695-26c0-a077-58a5" includeChildSelections="false"/>
+              </constraints>
+            </entryLink>
+          </entryLinks>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+      <modifiers>
+        <modifier type="set" value="false" field="hidden">
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition type="instanceOf" value="1" field="forces" scope="force" childId="default-force" shared="true" includeChildSelections="true"/>
+                <condition type="instanceOf" value="1" field="forces" scope="force" childId="514b-3158-1404-e7fa" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifier>
+      </modifiers>
+    </selectionEntry>
+    <selectionEntry type="unit" import="true" name="M103 HQ" hidden="true" id="18a9-e4df-fe5a-1e11">
+      <categoryLinks>
+        <categoryLink targetId="a812-7443-1e32-9656" id="df77-e505-7d85-2e6f" primary="true" name="Headquarters"/>
+      </categoryLinks>
+      <selectionEntryGroups>
+        <selectionEntryGroup name="Configuration" id="c493-0d72-91cd-692b" hidden="false">
+          <entryLinks>
+            <entryLink import="true" name="Commander Abilities" hidden="false" id="01e1-3552-0b5e-c6ca" type="selectionEntryGroup" targetId="bbb5-2553-4bf9-ec5a"/>
+            <entryLink import="true" name="M103" hidden="false" id="aa49-b527-fdf8-3f9e" type="selectionEntry" targetId="4a15-f020-2d9e-f6b7">
+              <costs>
+                <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="10"/>
+              </costs>
+              <constraints>
+                <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="238c-6a62-3efd-0c5d" includeChildSelections="false"/>
+                <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="df61-3feb-bb7e-e8bc" includeChildSelections="false"/>
+              </constraints>
+            </entryLink>
+          </entryLinks>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+      <modifiers>
+        <modifier type="set" value="false" field="hidden">
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition type="instanceOf" value="1" field="forces" scope="force" childId="default-force" shared="true" includeChildSelections="true"/>
+                <condition type="instanceOf" value="1" field="forces" scope="force" childId="514b-3158-1404-e7fa" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifier>
+      </modifiers>
+    </selectionEntry>
+    <selectionEntry type="unit" import="true" name="M48 Patton Platoon" hidden="false" id="9ec0-c105-161e-e17b">
+      <categoryLinks>
+        <categoryLink targetId="d848-a65e-d12d-753a" id="b915-c1d9-0a42-5667" primary="true" name="Support Units"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink import="true" name="M48 Patton" hidden="false" id="6b14-5781-de8a-4b35" type="selectionEntry" targetId="7ee3-d064-d08b-4614">
+          <constraints>
+            <constraint type="min" value="3" field="selections" scope="parent" shared="true" id="d6c7-c1ae-4fd6-3c1b" includeChildSelections="false"/>
+            <constraint type="max" value="5" field="selections" scope="parent" shared="true" id="8e61-abd9-0869-085e" includeChildSelections="false"/>
+          </constraints>
+        </entryLink>
+      </entryLinks>
+      <modifierGroups>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="set" value="20" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="3" field="selections" scope="self" childId="7ee3-d064-d08b-4614" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="27" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="4" field="selections" scope="self" childId="7ee3-d064-d08b-4614" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="34" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="5" field="selections" scope="self" childId="7ee3-d064-d08b-4614" shared="true"/>
+              </conditions>
+            </modifier>
+          </modifiers>
+        </modifierGroup>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="add" value="5d61-0258-0ff7-f8d6" field="category"/>
+            <modifier type="set-primary" value="5d61-0258-0ff7-f8d6" field="category"/>
+            <modifier type="remove" value="d848-a65e-d12d-753a" field="category"/>
+          </modifiers>
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition type="instanceOf" value="1" field="forces" scope="force" childId="default-force" shared="true" includeChildSelections="true"/>
+                <condition type="instanceOf" value="1" field="forces" scope="force" childId="514b-3158-1404-e7fa" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifierGroup>
+      </modifierGroups>
+      <costs>
+        <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry type="unit" import="true" name="M4A3E8 Easy Eight Platoon" hidden="false" id="79f8-2ce1-898b-d061">
+      <categoryLinks>
+        <categoryLink targetId="d848-a65e-d12d-753a" id="9817-7234-6bb7-65cd" primary="true" name="Support Units"/>
+      </categoryLinks>
+      <modifierGroups>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="set" value="6" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="3" field="selections" scope="self" childId="1fbd-7425-b8f0-111c" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="8" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="4" field="selections" scope="self" childId="1fbd-7425-b8f0-111c" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="10" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="5" field="selections" scope="self" childId="1fbd-7425-b8f0-111c" shared="true"/>
+              </conditions>
+            </modifier>
+          </modifiers>
+        </modifierGroup>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="add" value="5d61-0258-0ff7-f8d6" field="category"/>
+            <modifier type="set-primary" value="5d61-0258-0ff7-f8d6" field="category"/>
+            <modifier type="remove" value="d848-a65e-d12d-753a" field="category"/>
+          </modifiers>
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition type="instanceOf" value="1" field="forces" scope="force" childId="eabb-ab75-efd6-9faf" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifierGroup>
+      </modifierGroups>
+      <costs>
+        <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="0"/>
+      </costs>
+      <selectionEntryGroups>
+        <selectionEntryGroup name="Tank Selection" id="1fbd-7425-b8f0-111c" hidden="false">
+          <entryLinks>
+            <entryLink import="true" name="M4A3E2 Jumbo" hidden="false" id="6b70-b3e6-cfdf-1a60" type="selectionEntry" targetId="4678-b415-b20b-0b17" defaultAmount="0">
+              <costs>
+                <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="1"/>
+              </costs>
+              <constraints>
+                <constraint type="max" value="3" field="selections" scope="parent" shared="true" id="74b7-8d2a-a910-75ab" includeChildSelections="false"/>
+                <constraint type="min" value="0" field="selections" scope="parent" shared="true" id="ca5d-fdb7-3b64-f012" includeChildSelections="false"/>
+              </constraints>
+              <modifiers>
+                <modifier type="set" value="M1 76mm (Jumbo)" field="name" affects="profiles.Weapon"/>
+              </modifiers>
+            </entryLink>
+            <entryLink import="true" name="M4A3E8 Easy Eight" hidden="false" id="3301-d7fa-b993-fd34" type="selectionEntry" targetId="b669-96be-d19f-4533" defaultAmount="3">
+              <constraints>
+                <constraint type="max" value="5" field="selections" scope="parent" shared="true" id="ca22-2baf-9c3d-42bd" includeChildSelections="false"/>
+                <constraint type="min" value="0" field="selections" scope="parent" shared="true" id="1dda-8355-6130-924b" includeChildSelections="false"/>
+              </constraints>
+              <costs>
+                <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="0"/>
+              </costs>
+              <modifiers>
+                <modifier type="set" value="M1 76mm (Easy Eight)" field="name" affects="profiles.Weapon"/>
+              </modifiers>
+            </entryLink>
+          </entryLinks>
+          <constraints>
+            <constraint type="max" value="5" field="selections" scope="parent" shared="true" id="615e-564d-0a1c-91bd" includeChildSelections="false"/>
+            <constraint type="min" value="3" field="selections" scope="parent" shared="true" id="4ede-5f6a-ce56-1012" includeChildSelections="false"/>
+          </constraints>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+    </selectionEntry>
+    <selectionEntry type="unit" import="true" name="M4A3E8 Easy Eight Recon Platoon" hidden="true" id="4eee-437b-c318-ca0a">
+      <categoryLinks>
+        <categoryLink targetId="d848-a65e-d12d-753a" id="8516-e7bc-8a92-d4d0" primary="true" name="Support Units"/>
+      </categoryLinks>
+      <modifierGroups>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="set" value="7" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="3" field="selections" scope="self" childId="b669-96be-d19f-4533" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="9" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="4" field="selections" scope="self" childId="b669-96be-d19f-4533" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="11" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="5" field="selections" scope="self" childId="b669-96be-d19f-4533" shared="true"/>
+              </conditions>
+            </modifier>
+          </modifiers>
+        </modifierGroup>
+      </modifierGroups>
+      <costs>
+        <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="0"/>
+      </costs>
+      <entryLinks>
+        <entryLink import="true" name="M4A3E8 Easy Eight" hidden="false" id="7edd-7d1d-2074-60f5" type="selectionEntry" targetId="b669-96be-d19f-4533" defaultAmount="3">
+          <constraints>
+            <constraint type="max" value="5" field="selections" scope="parent" shared="true" id="43b2-e59d-d944-92c4" includeChildSelections="false"/>
+            <constraint type="min" value="3" field="selections" scope="parent" shared="true" id="2d1c-c96c-a330-702b" includeChildSelections="false"/>
+          </constraints>
+          <modifiers>
+            <modifier type="set" value="Spearhead" field="32a6-5556-ec1f-4c53" affects="profiles.Movement"/>
+          </modifiers>
+          <infoLinks>
+            <infoLink name="Spearhead" id="2197-4a2d-63ad-c88e" hidden="false" type="rule" targetId="5a50-b216-2180-0137"/>
+          </infoLinks>
+        </entryLink>
+      </entryLinks>
+      <modifiers>
+        <modifier type="set" value="false" field="hidden">
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition type="instanceOf" value="1" field="forces" scope="force" childId="default-force" shared="true" includeChildSelections="true"/>
+                <condition type="instanceOf" value="1" field="forces" scope="force" childId="514b-3158-1404-e7fa" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifier>
+      </modifiers>
+    </selectionEntry>
+    <selectionEntry type="unit" import="true" name="M103 Heavy Platoon" hidden="false" id="f573-34e8-3431-899d">
+      <categoryLinks>
+        <categoryLink targetId="d848-a65e-d12d-753a" id="b59a-52d4-8c37-5274" primary="true" name="Support Units"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink import="true" name="M103" hidden="false" id="daaf-20ae-d85b-f64d" type="selectionEntry" targetId="4a15-f020-2d9e-f6b7">
+          <constraints>
+            <constraint type="min" value="2" field="selections" scope="parent" shared="true" id="1ee8-9fa8-ad2c-bec6" includeChildSelections="false"/>
+            <constraint type="max" value="5" field="selections" scope="parent" shared="true" id="5f0e-bb38-c069-c6f3" includeChildSelections="false"/>
+          </constraints>
+        </entryLink>
+      </entryLinks>
+      <modifierGroups>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="set" value="20" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="2" field="selections" scope="self" childId="4a15-f020-2d9e-f6b7" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="30" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="3" field="selections" scope="self" childId="4a15-f020-2d9e-f6b7" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="41" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="4" field="selections" scope="self" childId="4a15-f020-2d9e-f6b7" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="51" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="5" field="selections" scope="self" childId="4a15-f020-2d9e-f6b7" shared="true"/>
+              </conditions>
+            </modifier>
+          </modifiers>
+        </modifierGroup>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="add" value="5d61-0258-0ff7-f8d6" field="category"/>
+            <modifier type="set-primary" value="5d61-0258-0ff7-f8d6" field="category"/>
+            <modifier type="remove" value="d848-a65e-d12d-753a" field="category"/>
+          </modifiers>
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition type="instanceOf" value="1" field="forces" scope="force" childId="default-force" shared="true" includeChildSelections="true"/>
+                <condition type="instanceOf" value="1" field="forces" scope="force" childId="514b-3158-1404-e7fa" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifierGroup>
+      </modifierGroups>
+      <costs>
+        <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry type="unit" import="true" name="T26E5 Assault Pershing Platoon" hidden="false" id="7b53-cf61-f88a-2264">
+      <categoryLinks>
+        <categoryLink targetId="d848-a65e-d12d-753a" id="5676-3ff3-d2d7-03ae" primary="true" name="Support Units"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink import="true" name="T26E5 Assault Pershing" hidden="false" id="f3d8-72fc-3318-ddec" type="selectionEntry" targetId="ce85-34db-f07f-21e4">
+          <constraints>
+            <constraint type="min" value="3" field="selections" scope="parent" shared="true" id="c040-a5bc-5f8a-72c7" includeChildSelections="false"/>
+            <constraint type="max" value="5" field="selections" scope="parent" shared="true" id="dd49-93e4-3f75-00dc" includeChildSelections="false"/>
+          </constraints>
+        </entryLink>
+      </entryLinks>
+      <modifierGroups>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="set" value="16" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="3" field="selections" scope="self" childId="ce85-34db-f07f-21e4" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="21" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="4" field="selections" scope="self" childId="ce85-34db-f07f-21e4" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="27" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="5" field="selections" scope="self" childId="ce85-34db-f07f-21e4" shared="true"/>
+              </conditions>
+            </modifier>
+          </modifiers>
+        </modifierGroup>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="add" value="5d61-0258-0ff7-f8d6" field="category"/>
+            <modifier type="set-primary" value="5d61-0258-0ff7-f8d6" field="category"/>
+            <modifier type="remove" value="d848-a65e-d12d-753a" field="category"/>
+          </modifiers>
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition type="instanceOf" value="1" field="forces" scope="force" childId="eabb-ab75-efd6-9faf" shared="true" includeChildSelections="true"/>
+                <condition type="instanceOf" value="1" field="forces" scope="force" childId="514b-3158-1404-e7fa" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifierGroup>
+      </modifierGroups>
+      <costs>
+        <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry type="unit" import="true" name="T28 Assault Platoon" hidden="false" id="fb70-7a7b-69ab-1fb5">
+      <categoryLinks>
+        <categoryLink targetId="d848-a65e-d12d-753a" id="36e9-9ac0-d599-e19d" primary="true" name="Support Units"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink import="true" name="T28" hidden="false" id="2669-7a54-a2d4-3ef8" type="selectionEntry" targetId="61ef-ff10-56fe-f284">
+          <constraints>
+            <constraint type="min" value="2" field="selections" scope="parent" shared="true" id="b99e-ea14-444a-9f23" includeChildSelections="false"/>
+            <constraint type="max" value="5" field="selections" scope="parent" shared="true" id="82f8-f9f1-1b2b-fa09" includeChildSelections="false"/>
+          </constraints>
+        </entryLink>
+      </entryLinks>
+      <modifierGroups>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="set" value="16" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="2" field="selections" scope="self" childId="61ef-ff10-56fe-f284" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="24" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="3" field="selections" scope="self" childId="61ef-ff10-56fe-f284" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="32" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="4" field="selections" scope="self" childId="61ef-ff10-56fe-f284" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="40" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="5" field="selections" scope="self" childId="61ef-ff10-56fe-f284" shared="true"/>
+              </conditions>
+            </modifier>
+          </modifiers>
+        </modifierGroup>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="add" value="5d61-0258-0ff7-f8d6" field="category"/>
+            <modifier type="set-primary" value="5d61-0258-0ff7-f8d6" field="category"/>
+            <modifier type="remove" value="d848-a65e-d12d-753a" field="category"/>
+          </modifiers>
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition type="instanceOf" value="1" field="forces" scope="force" childId="514b-3158-1404-e7fa" shared="true" includeChildSelections="true"/>
+                <condition type="instanceOf" value="1" field="forces" scope="force" childId="eabb-ab75-efd6-9faf" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifierGroup>
+      </modifierGroups>
+      <costs>
+        <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry type="unit" import="true" name="T29 Super-Heavy Platoon" hidden="false" id="3d73-02cd-842f-1a1f">
+      <categoryLinks>
+        <categoryLink targetId="d848-a65e-d12d-753a" id="b3b5-2cc7-6b65-3f3a" primary="true" name="Support Units"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink import="true" name="T29" hidden="false" id="fcbf-1631-608e-8ee5" type="selectionEntry" targetId="8598-bc72-1f2f-c8c5">
+          <constraints>
+            <constraint type="min" value="2" field="selections" scope="parent" shared="true" id="4839-1185-bdb6-6259" includeChildSelections="false"/>
+            <constraint type="max" value="5" field="selections" scope="parent" shared="true" id="e13b-d579-9f46-7c72" includeChildSelections="false"/>
+          </constraints>
+        </entryLink>
+      </entryLinks>
+      <modifierGroups>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="set" value="18" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="2" field="selections" scope="self" childId="8598-bc72-1f2f-c8c5" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="27" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="3" field="selections" scope="self" childId="8598-bc72-1f2f-c8c5" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="35" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="4" field="selections" scope="self" childId="8598-bc72-1f2f-c8c5" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="44" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="5" field="selections" scope="self" childId="8598-bc72-1f2f-c8c5" shared="true"/>
+              </conditions>
+            </modifier>
+          </modifiers>
+        </modifierGroup>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="add" value="5d61-0258-0ff7-f8d6" field="category"/>
+            <modifier type="set-primary" value="5d61-0258-0ff7-f8d6" field="category"/>
+            <modifier type="remove" value="d848-a65e-d12d-753a" field="category"/>
+          </modifiers>
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition type="instanceOf" value="1" field="forces" scope="force" childId="514b-3158-1404-e7fa" shared="true" includeChildSelections="true"/>
+                <condition type="instanceOf" value="1" field="forces" scope="force" childId="eabb-ab75-efd6-9faf" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifierGroup>
+      </modifierGroups>
+      <costs>
+        <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry type="unit" import="true" name="T30 Super-Heavy Platoon" hidden="false" id="9c90-4d12-d3e7-233b">
+      <categoryLinks>
+        <categoryLink targetId="d848-a65e-d12d-753a" id="9fe3-abe4-e1ba-a619" primary="true" name="Support Units"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink import="true" name="T30" hidden="false" id="1cac-691e-042f-28f6" type="selectionEntry" targetId="d5f5-12f1-47b6-86bf">
+          <constraints>
+            <constraint type="min" value="2" field="selections" scope="parent" shared="true" id="c2cb-86f3-fbe9-39e6" includeChildSelections="false"/>
+            <constraint type="max" value="5" field="selections" scope="parent" shared="true" id="7609-4d7d-479c-9696" includeChildSelections="false"/>
+          </constraints>
+        </entryLink>
+      </entryLinks>
+      <modifierGroups>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="set" value="20" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="2" field="selections" scope="self" childId="d5f5-12f1-47b6-86bf" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="30" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="3" field="selections" scope="self" childId="d5f5-12f1-47b6-86bf" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="39" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="4" field="selections" scope="self" childId="d5f5-12f1-47b6-86bf" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="49" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="5" field="selections" scope="self" childId="d5f5-12f1-47b6-86bf" shared="true"/>
+              </conditions>
+            </modifier>
+          </modifiers>
+        </modifierGroup>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="add" value="5d61-0258-0ff7-f8d6" field="category"/>
+            <modifier type="set-primary" value="5d61-0258-0ff7-f8d6" field="category"/>
+            <modifier type="remove" value="d848-a65e-d12d-753a" field="category"/>
+          </modifiers>
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition type="instanceOf" value="1" field="forces" scope="force" childId="514b-3158-1404-e7fa" shared="true" includeChildSelections="true"/>
+                <condition type="instanceOf" value="1" field="forces" scope="force" childId="eabb-ab75-efd6-9faf" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifierGroup>
+      </modifierGroups>
+      <costs>
+        <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry type="unit" import="true" name="T26E4 Super Pershing Platoon" hidden="false" id="0162-6707-77d6-98df">
+      <categoryLinks>
+        <categoryLink targetId="d848-a65e-d12d-753a" id="b9ab-66c6-fcc7-d13a" primary="true" name="Support Units"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink import="true" name="T26E4 Super Pershing" hidden="false" id="e8c8-3882-a9c6-41ce" type="selectionEntry" targetId="c90b-11e4-e7ae-c168">
+          <constraints>
+            <constraint type="min" value="3" field="selections" scope="parent" shared="true" id="cc04-ca37-db00-2137" includeChildSelections="false"/>
+            <constraint type="max" value="5" field="selections" scope="parent" shared="true" id="a849-4763-1db8-43b4" includeChildSelections="false"/>
+          </constraints>
+        </entryLink>
+      </entryLinks>
+      <modifierGroups>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="set" value="14" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="3" field="selections" scope="self" childId="c90b-11e4-e7ae-c168" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="19" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="4" field="selections" scope="self" childId="c90b-11e4-e7ae-c168" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="24" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="5" field="selections" scope="self" childId="c90b-11e4-e7ae-c168" shared="true"/>
+              </conditions>
+            </modifier>
+          </modifiers>
+        </modifierGroup>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="add" value="5d61-0258-0ff7-f8d6" field="category"/>
+            <modifier type="set-primary" value="5d61-0258-0ff7-f8d6" field="category"/>
+            <modifier type="remove" value="d848-a65e-d12d-753a" field="category"/>
+          </modifiers>
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition type="instanceOf" value="1" field="forces" scope="force" childId="eabb-ab75-efd6-9faf" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifierGroup>
+      </modifierGroups>
+      <costs>
+        <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry type="unit" import="true" name="M26 Pershing Platoon" hidden="false" id="394b-e681-dbab-db8d">
+      <categoryLinks>
+        <categoryLink targetId="d848-a65e-d12d-753a" id="a7d0-530b-057d-daab" primary="true" name="Support Units"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink import="true" name="M26 Pershing" hidden="false" id="4b0b-d927-8cc1-03fe" type="selectionEntry" targetId="b72f-d788-ff62-2610">
+          <constraints>
+            <constraint type="min" value="3" field="selections" scope="parent" shared="true" id="c0d5-bac1-52d0-2892" includeChildSelections="false"/>
+            <constraint type="max" value="5" field="selections" scope="parent" shared="true" id="475b-5910-9b23-ebf1" includeChildSelections="false"/>
+          </constraints>
+        </entryLink>
+      </entryLinks>
+      <modifierGroups>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="set" value="8" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="3" field="selections" scope="self" childId="b72f-d788-ff62-2610" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="11" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="4" field="selections" scope="self" childId="b72f-d788-ff62-2610" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="14" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="5" field="selections" scope="self" childId="b72f-d788-ff62-2610" shared="true"/>
+              </conditions>
+            </modifier>
+          </modifiers>
+        </modifierGroup>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="add" value="5d61-0258-0ff7-f8d6" field="category"/>
+            <modifier type="set-primary" value="5d61-0258-0ff7-f8d6" field="category"/>
+            <modifier type="remove" value="d848-a65e-d12d-753a" field="category"/>
+          </modifiers>
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition type="instanceOf" value="1" field="forces" scope="force" childId="eabb-ab75-efd6-9faf" shared="true" includeChildSelections="true"/>
+                <condition type="instanceOf" value="1" field="forces" scope="force" childId="514b-3158-1404-e7fa" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifierGroup>
+      </modifierGroups>
+      <costs>
+        <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry type="unit" import="true" name="M24 Chaffee Recon Platoon" hidden="true" id="6c6c-cdb9-7fac-93bc">
+      <categoryLinks>
+        <categoryLink targetId="d848-a65e-d12d-753a" id="cf59-0c68-128e-0ebe" primary="true" name="Support Units"/>
+      </categoryLinks>
+      <modifierGroups>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="set" value="6" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="3" field="selections" scope="self" childId="b2dd-9b8e-c185-b71c" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="8" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="4" field="selections" scope="self" childId="b2dd-9b8e-c185-b71c" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="10" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="5" field="selections" scope="self" childId="b2dd-9b8e-c185-b71c" shared="true"/>
+              </conditions>
+            </modifier>
+          </modifiers>
+        </modifierGroup>
+      </modifierGroups>
+      <costs>
+        <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="0"/>
+      </costs>
+      <entryLinks>
+        <entryLink import="true" name="M24 Chaffee" hidden="false" id="8c4f-1fec-9daa-e4a4" type="selectionEntry" targetId="b2dd-9b8e-c185-b71c" defaultAmount="3">
+          <constraints>
+            <constraint type="max" value="5" field="selections" scope="parent" shared="true" id="fd39-1b42-72c8-e92c" includeChildSelections="false"/>
+            <constraint type="min" value="3" field="selections" scope="parent" shared="true" id="e465-d1d1-324f-5f47" includeChildSelections="false"/>
+          </constraints>
+          <modifiers>
+            <modifier type="set" value="Spearhead" field="32a6-5556-ec1f-4c53" affects="profiles.Movement"/>
+          </modifiers>
+          <infoLinks>
+            <infoLink name="Spearhead" id="8f7d-8805-5c48-a599" hidden="false" type="rule" targetId="5a50-b216-2180-0137"/>
+          </infoLinks>
+        </entryLink>
+      </entryLinks>
+      <modifiers>
+        <modifier type="set" value="false" field="hidden">
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition type="instanceOf" value="1" field="forces" scope="force" childId="eabb-ab75-efd6-9faf" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifier>
+      </modifiers>
+    </selectionEntry>
+    <selectionEntry type="unit" import="true" name="M18 Hellcat Tank Destroyers" hidden="true" id="f9c5-ac8a-2b9c-0b0c">
+      <categoryLinks>
+        <categoryLink targetId="d848-a65e-d12d-753a" id="2849-efe5-da9e-e35d" primary="true" name="Support Units"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="0"/>
+      </costs>
+      <modifiers>
+        <modifier type="set" value="false" field="hidden">
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition type="instanceOf" value="1" field="forces" scope="force" childId="eabb-ab75-efd6-9faf" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifier>
+      </modifiers>
+      <selectionEntries>
+        <selectionEntry type="model" import="true" name="M18 Hellcat Section" hidden="false" id="01c0-f77e-8d1c-ffdb" defaultAmount="1" subType="mount">
+          <entryLinks>
+            <entryLink import="true" name="M18 Hellcat" hidden="false" id="45b3-2112-94db-6e6a" type="selectionEntry" targetId="0280-a4b1-3955-458e" defaultAmount="0" collective="true" collapsible="true">
+              <constraints>
+                <constraint type="min" value="2" field="selections" scope="parent" shared="true" id="d4ba-911c-8efb-a3b9-min" includeChildSelections="false"/>
+                <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="d4ba-911c-8efb-a3b9-max" includeChildSelections="false"/>
+              </constraints>
+              <modifiers>
+                <modifier type="set" value="Seek, Strike, and Destroy" field="32a6-5556-ec1f-4c53" affects="profiles.Movement"/>
+              </modifiers>
+              <infoLinks>
+                <infoLink name="Seek, Strike, and Destroy" id="0485-50b0-e651-ea23" hidden="false" type="rule" targetId="27f7-8da7-dc54-823f"/>
+              </infoLinks>
+              <costs>
+                <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="1.5"/>
+              </costs>
+            </entryLink>
+          </entryLinks>
+          <constraints>
+            <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="f12b-655a-1ff6-18ce" includeChildSelections="false"/>
+            <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="b852-4558-b5de-4555" includeChildSelections="false"/>
+          </constraints>
+        </selectionEntry>
+      </selectionEntries>
+    </selectionEntry>
+    <selectionEntry type="unit" import="true" name="M36 Jackson Tank Destroyers" hidden="true" id="f7b7-7ed8-8064-48f7">
+      <categoryLinks>
+        <categoryLink targetId="d848-a65e-d12d-753a" id="8a9d-0f42-838d-196c" primary="true" name="Support Units"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="0"/>
+      </costs>
+      <modifiers>
+        <modifier type="set" value="false" field="hidden">
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition type="instanceOf" value="1" field="forces" scope="force" childId="eabb-ab75-efd6-9faf" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifier>
+      </modifiers>
+      <selectionEntries>
+        <selectionEntry type="model" import="true" name="M36 Jackson Section" hidden="false" id="0e08-d1b1-9e6b-6da6" defaultAmount="1" subType="mount">
+          <entryLinks>
+            <entryLink import="true" name="M36 Jackson" hidden="false" id="918d-4290-3658-04e8" type="selectionEntry" targetId="e08b-d5a4-de8c-2052" defaultAmount="0" collective="true" collapsible="true">
+              <constraints>
+                <constraint type="min" value="2" field="selections" scope="parent" shared="true" id="127e-1167-8999-b27c-min" includeChildSelections="false"/>
+                <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="127e-1167-8999-b27c-max" includeChildSelections="false"/>
+              </constraints>
+              <modifiers>
+                <modifier type="set" value="Seek, Strike, and Destroy" field="32a6-5556-ec1f-4c53" affects="profiles.Movement"/>
+              </modifiers>
+              <infoLinks>
+                <infoLink name="Seek, Strike, and Destroy" id="61f8-d1ec-0bbf-60d8" hidden="false" type="rule" targetId="27f7-8da7-dc54-823f"/>
+              </infoLinks>
+              <costs>
+                <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="2"/>
+              </costs>
+            </entryLink>
+          </entryLinks>
+          <constraints>
+            <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="f6d5-9031-beb9-b1cf" includeChildSelections="false"/>
+            <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="9ce3-31b4-c45b-1c30" includeChildSelections="false"/>
+          </constraints>
+        </selectionEntry>
+      </selectionEntries>
+    </selectionEntry>
+  </selectionEntries>
+  <sharedProfiles>
+    <profile name="M3 90mm" typeId="ad40-0c46-5bb9-f1b5" typeName="Weapon" hidden="false" id="7a26-ff06-7bf8-e412" publicationId="966c-0e9c-72c7-cb80">
+      <characteristics>
+        <characteristic name="Range" typeId="4ad2-407c-646a-1592">36&quot;</characteristic>
+        <characteristic name="Halted RoF" typeId="a9b6-c303-dc35-1266">2</characteristic>
+        <characteristic name="Moving RoF" typeId="b9d1-a349-a72a-91c6">1</characteristic>
+        <characteristic name="Anti-Tank" typeId="cdbe-98f7-65a7-594b">14</characteristic>
+        <characteristic name="Firepower" typeId="7652-d756-e787-4570">3+</characteristic>
+        <characteristic name="Rules" typeId="714d-f3d8-725d-ce79"/>
+      </characteristics>
+    </profile>
+    <profile name="T5E1 105mm" typeId="ad40-0c46-5bb9-f1b5" typeName="Weapon" hidden="false" id="9138-1abb-02ef-a4af">
+      <characteristics>
+        <characteristic name="Range" typeId="4ad2-407c-646a-1592">48&quot;</characteristic>
+        <characteristic name="Halted RoF" typeId="a9b6-c303-dc35-1266">2</characteristic>
+        <characteristic name="Moving RoF" typeId="b9d1-a349-a72a-91c6">1</characteristic>
+        <characteristic name="Anti-Tank" typeId="cdbe-98f7-65a7-594b">19</characteristic>
+        <characteristic name="Firepower" typeId="7652-d756-e787-4570">2+</characteristic>
+        <characteristic name="Rules" typeId="714d-f3d8-725d-ce79"/>
+      </characteristics>
+    </profile>
+    <profile name="T7 155mm" typeId="ad40-0c46-5bb9-f1b5" typeName="Weapon" hidden="false" id="7c8b-5d86-5dc1-2cee">
+      <characteristics>
+        <characteristic name="Range" typeId="4ad2-407c-646a-1592">36&quot;</characteristic>
+        <characteristic name="Halted RoF" typeId="a9b6-c303-dc35-1266">2</characteristic>
+        <characteristic name="Moving RoF" typeId="b9d1-a349-a72a-91c6">1</characteristic>
+        <characteristic name="Anti-Tank" typeId="cdbe-98f7-65a7-594b">19</characteristic>
+        <characteristic name="Firepower" typeId="7652-d756-e787-4570">Auto Pass</characteristic>
+        <characteristic name="Rules" typeId="714d-f3d8-725d-ce79"/>
+      </characteristics>
+    </profile>
+    <profile name="T15E2 90mm" typeId="ad40-0c46-5bb9-f1b5" typeName="Weapon" hidden="false" id="aeac-b1b9-c1ce-304e" publicationId="966c-0e9c-72c7-cb80">
+      <characteristics>
+        <characteristic name="Range" typeId="4ad2-407c-646a-1592">48&quot;</characteristic>
+        <characteristic name="Halted RoF" typeId="a9b6-c303-dc35-1266">1</characteristic>
+        <characteristic name="Moving RoF" typeId="b9d1-a349-a72a-91c6">1</characteristic>
+        <characteristic name="Anti-Tank" typeId="cdbe-98f7-65a7-594b">18</characteristic>
+        <characteristic name="Firepower" typeId="7652-d756-e787-4570">3+</characteristic>
+        <characteristic name="Rules" typeId="714d-f3d8-725d-ce79"/>
+      </characteristics>
+    </profile>
+    <profile name="M1 75mm" typeId="ad40-0c46-5bb9-f1b5" typeName="Weapon" hidden="false" id="afed-7cdf-882b-2e5b">
+      <characteristics>
+        <characteristic name="Range" typeId="4ad2-407c-646a-1592">28&quot;</characteristic>
+        <characteristic name="Halted RoF" typeId="a9b6-c303-dc35-1266">2</characteristic>
+        <characteristic name="Moving RoF" typeId="b9d1-a349-a72a-91c6">1</characteristic>
+        <characteristic name="Anti-Tank" typeId="cdbe-98f7-65a7-594b">10</characteristic>
+        <characteristic name="Firepower" typeId="7652-d756-e787-4570">3+</characteristic>
+        <characteristic name="Rules" typeId="714d-f3d8-725d-ce79"/>
+      </characteristics>
+    </profile>
+    <profile name="M1 76mm" typeId="ad40-0c46-5bb9-f1b5" typeName="Weapon" hidden="false" id="2168-8ed4-ead1-ee29">
+      <characteristics>
+        <characteristic name="Range" typeId="4ad2-407c-646a-1592">36&quot;</characteristic>
+        <characteristic name="Halted RoF" typeId="a9b6-c303-dc35-1266">2</characteristic>
+        <characteristic name="Moving RoF" typeId="b9d1-a349-a72a-91c6">1</characteristic>
+        <characteristic name="Anti-Tank" typeId="cdbe-98f7-65a7-594b">13</characteristic>
+        <characteristic name="Firepower" typeId="7652-d756-e787-4570">3+</characteristic>
+        <characteristic name="Rules" typeId="714d-f3d8-725d-ce79"/>
+      </characteristics>
+    </profile>
+    <profile name="M58 120mm" typeId="ad40-0c46-5bb9-f1b5" typeName="Weapon" hidden="false" id="773f-e645-759a-b8ba">
+      <characteristics>
+        <characteristic name="Range" typeId="4ad2-407c-646a-1592">48&quot;</characteristic>
+        <characteristic name="Halted RoF" typeId="a9b6-c303-dc35-1266">2</characteristic>
+        <characteristic name="Moving RoF" typeId="b9d1-a349-a72a-91c6">1</characteristic>
+        <characteristic name="Anti-Tank" typeId="cdbe-98f7-65a7-594b">20</characteristic>
+        <characteristic name="Firepower" typeId="7652-d756-e787-4570">2+</characteristic>
+        <characteristic name="Rules" typeId="714d-f3d8-725d-ce79"/>
+      </characteristics>
+    </profile>
+    <profile name="M41/T139 90mm" typeId="ad40-0c46-5bb9-f1b5" typeName="Weapon" hidden="false" id="9a16-2201-faa7-1ad2">
+      <characteristics>
+        <characteristic name="Range" typeId="4ad2-407c-646a-1592">40&quot;</characteristic>
+        <characteristic name="Halted RoF" typeId="a9b6-c303-dc35-1266">2</characteristic>
+        <characteristic name="Moving RoF" typeId="b9d1-a349-a72a-91c6">1</characteristic>
+        <characteristic name="Anti-Tank" typeId="cdbe-98f7-65a7-594b">16</characteristic>
+        <characteristic name="Firepower" typeId="7652-d756-e787-4570">3+</characteristic>
+        <characteristic name="Rules" typeId="714d-f3d8-725d-ce79"/>
+      </characteristics>
+    </profile>
+    <profile name="T179 120mm" typeId="ad40-0c46-5bb9-f1b5" typeName="Weapon" hidden="false" id="bde4-caf7-f03c-be7b">
+      <characteristics>
+        <characteristic name="Range" typeId="4ad2-407c-646a-1592">48&quot;</characteristic>
+        <characteristic name="Halted RoF" typeId="a9b6-c303-dc35-1266">2</characteristic>
+        <characteristic name="Moving RoF" typeId="b9d1-a349-a72a-91c6">1</characteristic>
+        <characteristic name="Anti-Tank" typeId="cdbe-98f7-65a7-594b">20</characteristic>
+        <characteristic name="Firepower" typeId="7652-d756-e787-4570">2+</characteristic>
+        <characteristic name="Rules" typeId="714d-f3d8-725d-ce79"/>
+      </characteristics>
+    </profile>
+    <profile name="M68 105mm" typeId="ad40-0c46-5bb9-f1b5" typeName="Weapon" hidden="false" id="fd4a-9d5b-fc09-14a9">
+      <characteristics>
+        <characteristic name="Range" typeId="4ad2-407c-646a-1592">40&quot;</characteristic>
+        <characteristic name="Halted RoF" typeId="a9b6-c303-dc35-1266">2</characteristic>
+        <characteristic name="Moving RoF" typeId="b9d1-a349-a72a-91c6">1</characteristic>
+        <characteristic name="Anti-Tank" typeId="cdbe-98f7-65a7-594b">18</characteristic>
+        <characteristic name="Firepower" typeId="7652-d756-e787-4570">2+</characteristic>
+        <characteristic name="Rules" typeId="714d-f3d8-725d-ce79"/>
+      </characteristics>
+    </profile>
+  </sharedProfiles>
+  <sharedSelectionEntries>
+    <selectionEntry type="model" import="true" name="T26E5 Assault Pershing" hidden="false" id="ce85-34db-f07f-21e4">
+      <profiles>
+        <profile name=" " typeId="fccf-277e-9fc7-d0aa" typeName="Movement" hidden="false" id="cbff-df80-ec45-0463">
+          <characteristics>
+            <characteristic name="Tactical Movement" typeId="a396-374c-81e9-5f5f">8&quot;</characteristic>
+            <characteristic name="Terrain Dash" typeId="f3f8-04d6-3c8e-f1a8">12&quot;</characteristic>
+            <characteristic name="Cross Country Dash" typeId="52a6-e4b5-0f9f-a03f">14&quot;</characteristic>
+            <characteristic name="Road Dash" typeId="2f39-530f-147a-6047">16&quot;</characteristic>
+            <characteristic name="Cross" typeId="4b0b-344f-5855-7b4a">2+</characteristic>
+            <characteristic name="Rules" typeId="32a6-5556-ec1f-4c53"/>
+          </characteristics>
+        </profile>
+        <profile name="T26E5 Assault Pershing" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="a991-34ab-266e-42af" publicationId="966c-0e9c-72c7-cb80" page="17">
+          <characteristics>
+            <characteristic name="Motivation" typeId="98a1-7f3c-e44a-e07c">4+</characteristic>
+            <characteristic name="Skill" typeId="7ded-aabd-e9c2-b354">4+</characteristic>
+            <characteristic name="Is Hit On" typeId="e594-fa9d-1533-0010">4+</characteristic>
+            <characteristic name="Front Armour" typeId="d5a9-1e7c-bf60-14e8">16</characteristic>
+            <characteristic name="Side/Rear Armour" typeId="a95f-ed0f-af72-1676">6</characteristic>
+            <characteristic name="Rules" typeId="df60-b123-e568-f503"/>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink name="M3 90mm" id="aa32-630c-f92e-6e9d" hidden="false" type="profile" targetId="7a26-ff06-7bf8-e412"/>
+      </infoLinks>
+    </selectionEntry>
+    <selectionEntry type="model" import="true" name="T28" hidden="false" id="61ef-ff10-56fe-f284">
+      <profiles>
+        <profile name=" " typeId="fccf-277e-9fc7-d0aa" typeName="Movement" hidden="false" id="feff-0f2d-c3a9-c570">
+          <characteristics>
+            <characteristic name="Tactical Movement" typeId="a396-374c-81e9-5f5f">8&quot;</characteristic>
+            <characteristic name="Terrain Dash" typeId="f3f8-04d6-3c8e-f1a8">10&quot;</characteristic>
+            <characteristic name="Cross Country Dash" typeId="52a6-e4b5-0f9f-a03f">12&quot;</characteristic>
+            <characteristic name="Road Dash" typeId="2f39-530f-147a-6047">12&quot;</characteristic>
+            <characteristic name="Cross" typeId="4b0b-344f-5855-7b4a">2+</characteristic>
+            <characteristic name="Rules" typeId="32a6-5556-ec1f-4c53"/>
+          </characteristics>
+        </profile>
+        <profile name="T28" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="3969-a0cc-eff3-7a1d">
+          <characteristics>
+            <characteristic name="Motivation" typeId="98a1-7f3c-e44a-e07c">4+</characteristic>
+            <characteristic name="Skill" typeId="7ded-aabd-e9c2-b354">4+</characteristic>
+            <characteristic name="Is Hit On" typeId="e594-fa9d-1533-0010">4+</characteristic>
+            <characteristic name="Front Armour" typeId="d5a9-1e7c-bf60-14e8">17</characteristic>
+            <characteristic name="Side/Rear Armour" typeId="a95f-ed0f-af72-1676">8</characteristic>
+            <characteristic name="Rules" typeId="df60-b123-e568-f503"/>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink name="T5E1 105mm" id="5638-eaeb-34e1-099c" hidden="false" type="profile" targetId="9138-1abb-02ef-a4af">
+          <modifiers>
+            <modifier type="set" value="Assault Gun, Slow Firing" field="714d-f3d8-725d-ce79"/>
+            <modifier type="set" value="1" field="a9b6-c303-dc35-1266"/>
+          </modifiers>
+        </infoLink>
+        <infoLink name="Assault Gun" id="4b9f-55e9-154e-b152" hidden="false" type="rule" targetId="bee6-2ba7-9518-20c0"/>
+        <infoLink name="Slow Firing" id="fee2-6600-01b8-11fc" hidden="false" type="rule" targetId="f6d5-b2f5-f2c8-5f04"/>
+      </infoLinks>
+    </selectionEntry>
+    <selectionEntry type="model" import="true" name="T29" hidden="false" id="8598-bc72-1f2f-c8c5">
+      <profiles>
+        <profile name=" " typeId="fccf-277e-9fc7-d0aa" typeName="Movement" hidden="false" id="ad8d-6380-61b5-b06c" noindex="false">
+          <characteristics>
+            <characteristic name="Tactical Movement" typeId="a396-374c-81e9-5f5f">10&quot;</characteristic>
+            <characteristic name="Terrain Dash" typeId="f3f8-04d6-3c8e-f1a8">12&quot;</characteristic>
+            <characteristic name="Cross Country Dash" typeId="52a6-e4b5-0f9f-a03f">16&quot;</characteristic>
+            <characteristic name="Road Dash" typeId="2f39-530f-147a-6047">16&quot;</characteristic>
+            <characteristic name="Cross" typeId="4b0b-344f-5855-7b4a">3+</characteristic>
+            <characteristic name="Rules" typeId="32a6-5556-ec1f-4c53"/>
+          </characteristics>
+        </profile>
+        <profile name="T29" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="9099-c8e7-d49d-83a2">
+          <characteristics>
+            <characteristic name="Motivation" typeId="98a1-7f3c-e44a-e07c">4+</characteristic>
+            <characteristic name="Skill" typeId="7ded-aabd-e9c2-b354">4+</characteristic>
+            <characteristic name="Is Hit On" typeId="e594-fa9d-1533-0010">4+</characteristic>
+            <characteristic name="Front Armour" typeId="d5a9-1e7c-bf60-14e8">14</characteristic>
+            <characteristic name="Side/Rear Armour" typeId="a95f-ed0f-af72-1676">7</characteristic>
+            <characteristic name="Rules" typeId="df60-b123-e568-f503"/>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink name="Slow Firing" id="0a76-b0d1-8a30-1880" hidden="false" type="rule" targetId="f6d5-b2f5-f2c8-5f04"/>
+        <infoLink name="T5E1 105mm" id="39c9-4713-ac67-d064" hidden="false" type="profile" targetId="9138-1abb-02ef-a4af">
+          <modifiers>
+            <modifier type="set" value="Slow Firing" field="714d-f3d8-725d-ce79"/>
+          </modifiers>
+        </infoLink>
+      </infoLinks>
+    </selectionEntry>
+    <selectionEntry type="model" import="true" name="M24 Chaffee" hidden="false" id="b2dd-9b8e-c185-b71c">
+      <profiles>
+        <profile name="M24 Chaffee" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="8801-c7e0-2a30-94bd">
+          <characteristics>
+            <characteristic name="Motivation" typeId="98a1-7f3c-e44a-e07c">4+</characteristic>
+            <characteristic name="Skill" typeId="7ded-aabd-e9c2-b354">3+</characteristic>
+            <characteristic name="Is Hit On" typeId="e594-fa9d-1533-0010">4+</characteristic>
+            <characteristic name="Front Armour" typeId="d5a9-1e7c-bf60-14e8">4</characteristic>
+            <characteristic name="Side/Rear Armour" typeId="a95f-ed0f-af72-1676">3</characteristic>
+            <characteristic name="Rules" typeId="df60-b123-e568-f503"/>
+          </characteristics>
+        </profile>
+        <profile name=" " typeId="fccf-277e-9fc7-d0aa" typeName="Movement" hidden="false" id="0b96-eebc-b946-6e84">
+          <characteristics>
+            <characteristic name="Tactical Movement" typeId="a396-374c-81e9-5f5f">12&quot;</characteristic>
+            <characteristic name="Terrain Dash" typeId="f3f8-04d6-3c8e-f1a8">14&quot;</characteristic>
+            <characteristic name="Cross Country Dash" typeId="52a6-e4b5-0f9f-a03f">20&quot;</characteristic>
+            <characteristic name="Road Dash" typeId="2f39-530f-147a-6047">28&quot;</characteristic>
+            <characteristic name="Cross" typeId="4b0b-344f-5855-7b4a">3+</characteristic>
+            <characteristic name="Rules" typeId="32a6-5556-ec1f-4c53"/>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink name="M1 75mm" id="cada-da72-3569-a74a" hidden="false" type="profile" targetId="afed-7cdf-882b-2e5b">
+          <modifiers>
+            <modifier type="set" value="2" field="b9d1-a349-a72a-91c6"/>
+            <modifier type="set" value="Stabiliser" field="714d-f3d8-725d-ce79"/>
+          </modifiers>
+        </infoLink>
+        <infoLink name="Stabiliser" id="dd12-0984-3681-db28" hidden="false" type="rule" targetId="e269-c2af-0f93-ee40"/>
+      </infoLinks>
+    </selectionEntry>
+    <selectionEntry type="model" import="true" name="M18 Hellcat" hidden="false" id="0280-a4b1-3955-458e">
+      <profiles>
+        <profile name="M18 Hellcat" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="084b-cd5d-711e-a014">
+          <characteristics>
+            <characteristic name="Motivation" typeId="98a1-7f3c-e44a-e07c">4+</characteristic>
+            <characteristic name="Skill" typeId="7ded-aabd-e9c2-b354">3+</characteristic>
+            <characteristic name="Is Hit On" typeId="e594-fa9d-1533-0010">4+</characteristic>
+            <characteristic name="Front Armour" typeId="d5a9-1e7c-bf60-14e8">2</characteristic>
+            <characteristic name="Side/Rear Armour" typeId="a95f-ed0f-af72-1676">1</characteristic>
+            <characteristic name="Rules" typeId="df60-b123-e568-f503"/>
+          </characteristics>
+        </profile>
+        <profile name=" " typeId="fccf-277e-9fc7-d0aa" typeName="Movement" hidden="false" id="ab7d-bdc1-337f-c4a9">
+          <characteristics>
+            <characteristic name="Tactical Movement" typeId="a396-374c-81e9-5f5f">12&quot;</characteristic>
+            <characteristic name="Terrain Dash" typeId="f3f8-04d6-3c8e-f1a8">18&quot;</characteristic>
+            <characteristic name="Cross Country Dash" typeId="52a6-e4b5-0f9f-a03f">28&quot;</characteristic>
+            <characteristic name="Road Dash" typeId="2f39-530f-147a-6047">32&quot;</characteristic>
+            <characteristic name="Cross" typeId="4b0b-344f-5855-7b4a">3+</characteristic>
+            <characteristic name="Rules" typeId="32a6-5556-ec1f-4c53"/>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink name="M1 76mm" id="e820-d48f-d25c-5bdc" hidden="false" type="profile" targetId="2168-8ed4-ead1-ee29"/>
+      </infoLinks>
+    </selectionEntry>
+    <selectionEntry type="model" import="true" name="M4A3E2 Jumbo" hidden="false" id="4678-b415-b20b-0b17">
+      <profiles>
+        <profile name="M4A3E2 Jumbo" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="d02b-9faf-60d8-1fa6">
+          <characteristics>
+            <characteristic name="Motivation" typeId="98a1-7f3c-e44a-e07c">4+</characteristic>
+            <characteristic name="Skill" typeId="7ded-aabd-e9c2-b354">4+</characteristic>
+            <characteristic name="Is Hit On" typeId="e594-fa9d-1533-0010">4+</characteristic>
+            <characteristic name="Front Armour" typeId="d5a9-1e7c-bf60-14e8">11</characteristic>
+            <characteristic name="Side/Rear Armour" typeId="a95f-ed0f-af72-1676">8</characteristic>
+            <characteristic name="Rules" typeId="df60-b123-e568-f503">Protected Ammo (3)</characteristic>
+          </characteristics>
+        </profile>
+        <profile name=" " typeId="fccf-277e-9fc7-d0aa" typeName="Movement" hidden="false" id="2df2-72c3-82f1-dad5">
+          <characteristics>
+            <characteristic name="Tactical Movement" typeId="a396-374c-81e9-5f5f">10&quot;</characteristic>
+            <characteristic name="Terrain Dash" typeId="f3f8-04d6-3c8e-f1a8">14&quot;</characteristic>
+            <characteristic name="Cross Country Dash" typeId="52a6-e4b5-0f9f-a03f">18&quot;</characteristic>
+            <characteristic name="Road Dash" typeId="2f39-530f-147a-6047">20&quot;</characteristic>
+            <characteristic name="Cross" typeId="4b0b-344f-5855-7b4a">2+</characteristic>
+            <characteristic name="Rules" typeId="32a6-5556-ec1f-4c53"/>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink name="M1 76mm" id="a868-2566-9abc-c46c" hidden="false" type="profile" targetId="2168-8ed4-ead1-ee29">
+          <modifiers>
+            <modifier type="set" value="2" field="b9d1-a349-a72a-91c6"/>
+            <modifier type="set" value="Stabiliser" field="714d-f3d8-725d-ce79"/>
+          </modifiers>
+        </infoLink>
+        <infoLink name="Stabiliser" id="2f97-71ba-6dbc-8b96" hidden="false" type="rule" targetId="e269-c2af-0f93-ee40"/>
+        <infoLink name="Protected Ammo" id="e3c4-940c-18d8-0632" hidden="false" type="rule" targetId="8942-bf87-800c-b3f7"/>
+      </infoLinks>
+    </selectionEntry>
+    <selectionEntry type="model" import="true" name="M36 Jackson" hidden="false" id="e08b-d5a4-de8c-2052">
+      <profiles>
+        <profile name="M36 Jackson" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="0c9a-ab5b-6ca0-0118">
+          <characteristics>
+            <characteristic name="Motivation" typeId="98a1-7f3c-e44a-e07c">4+</characteristic>
+            <characteristic name="Skill" typeId="7ded-aabd-e9c2-b354">3+</characteristic>
+            <characteristic name="Is Hit On" typeId="e594-fa9d-1533-0010">4+</characteristic>
+            <characteristic name="Front Armour" typeId="d5a9-1e7c-bf60-14e8">5</characteristic>
+            <characteristic name="Side/Rear Armour" typeId="a95f-ed0f-af72-1676">2</characteristic>
+            <characteristic name="Rules" typeId="df60-b123-e568-f503"/>
+          </characteristics>
+        </profile>
+        <profile name=" " typeId="fccf-277e-9fc7-d0aa" typeName="Movement" hidden="false" id="7e5d-a588-b91f-dd12">
+          <characteristics>
+            <characteristic name="Tactical Movement" typeId="a396-374c-81e9-5f5f">10&quot;</characteristic>
+            <characteristic name="Terrain Dash" typeId="f3f8-04d6-3c8e-f1a8">14&quot;</characteristic>
+            <characteristic name="Cross Country Dash" typeId="52a6-e4b5-0f9f-a03f">18&quot;</characteristic>
+            <characteristic name="Road Dash" typeId="2f39-530f-147a-6047">20&quot;</characteristic>
+            <characteristic name="Cross" typeId="4b0b-344f-5855-7b4a">3+</characteristic>
+            <characteristic name="Rules" typeId="32a6-5556-ec1f-4c53"/>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink name="M3 90mm" id="b76d-c785-9ed6-aeec" hidden="false" type="profile" targetId="7a26-ff06-7bf8-e412"/>
+      </infoLinks>
+    </selectionEntry>
+    <selectionEntry type="model" import="true" name="M4A3E8 Easy Eight" hidden="false" id="b669-96be-d19f-4533">
+      <profiles>
+        <profile name="M4A3E8 Easy Eight" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="7231-fe3a-5eb1-d340">
+          <characteristics>
+            <characteristic name="Motivation" typeId="98a1-7f3c-e44a-e07c">4+</characteristic>
+            <characteristic name="Skill" typeId="7ded-aabd-e9c2-b354">4+</characteristic>
+            <characteristic name="Is Hit On" typeId="e594-fa9d-1533-0010">4+</characteristic>
+            <characteristic name="Front Armour" typeId="d5a9-1e7c-bf60-14e8">7</characteristic>
+            <characteristic name="Side/Rear Armour" typeId="a95f-ed0f-af72-1676">4</characteristic>
+            <characteristic name="Rules" typeId="df60-b123-e568-f503">Protected Ammo (3)</characteristic>
+          </characteristics>
+        </profile>
+        <profile name=" " typeId="fccf-277e-9fc7-d0aa" typeName="Movement" hidden="false" id="cd8b-2235-2a5c-e123">
+          <characteristics>
+            <characteristic name="Tactical Movement" typeId="a396-374c-81e9-5f5f">10&quot;</characteristic>
+            <characteristic name="Terrain Dash" typeId="f3f8-04d6-3c8e-f1a8">14&quot;</characteristic>
+            <characteristic name="Cross Country Dash" typeId="52a6-e4b5-0f9f-a03f">18&quot;</characteristic>
+            <characteristic name="Road Dash" typeId="2f39-530f-147a-6047">20&quot;</characteristic>
+            <characteristic name="Cross" typeId="4b0b-344f-5855-7b4a">2+</characteristic>
+            <characteristic name="Rules" typeId="32a6-5556-ec1f-4c53"/>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink name="M1 76mm" id="6f46-e8cf-e99e-4c00" hidden="false" type="profile" targetId="2168-8ed4-ead1-ee29">
+          <modifiers>
+            <modifier type="set" value="2" field="b9d1-a349-a72a-91c6"/>
+            <modifier type="set" value="Stabiliser, Smooth Ride" field="714d-f3d8-725d-ce79"/>
+          </modifiers>
+        </infoLink>
+        <infoLink name="Smooth Ride" id="2524-49f2-d950-d3e5" hidden="false" type="rule" targetId="50cb-5385-66bb-4887"/>
+        <infoLink name="Stabiliser" id="b873-d5f4-21ca-df47" hidden="false" type="rule" targetId="e269-c2af-0f93-ee40"/>
+        <infoLink name="Protected Ammo" id="da8e-d763-8ef9-ef4a" hidden="false" type="rule" targetId="8942-bf87-800c-b3f7"/>
+      </infoLinks>
+    </selectionEntry>
+    <selectionEntry type="model" import="true" name="M26 Pershing" hidden="false" id="b72f-d788-ff62-2610">
+      <profiles>
+        <profile name=" " typeId="fccf-277e-9fc7-d0aa" typeName="Movement" hidden="false" id="1e88-e9a8-774c-c646" noindex="false">
+          <characteristics>
+            <characteristic name="Tactical Movement" typeId="a396-374c-81e9-5f5f">10&quot;</characteristic>
+            <characteristic name="Terrain Dash" typeId="f3f8-04d6-3c8e-f1a8">12&quot;</characteristic>
+            <characteristic name="Cross Country Dash" typeId="52a6-e4b5-0f9f-a03f">16&quot;</characteristic>
+            <characteristic name="Road Dash" typeId="2f39-530f-147a-6047">18&quot;</characteristic>
+            <characteristic name="Cross" typeId="4b0b-344f-5855-7b4a">2+</characteristic>
+            <characteristic name="Rules" typeId="32a6-5556-ec1f-4c53"/>
+          </characteristics>
+        </profile>
+        <profile name="M26 Pershing" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="7746-72c8-0b0a-6be0">
+          <characteristics>
+            <characteristic name="Motivation" typeId="98a1-7f3c-e44a-e07c">4+</characteristic>
+            <characteristic name="Skill" typeId="7ded-aabd-e9c2-b354">4+</characteristic>
+            <characteristic name="Is Hit On" typeId="e594-fa9d-1533-0010">4+</characteristic>
+            <characteristic name="Front Armour" typeId="d5a9-1e7c-bf60-14e8">9</characteristic>
+            <characteristic name="Side/Rear Armour" typeId="a95f-ed0f-af72-1676">6</characteristic>
+            <characteristic name="Rules" typeId="df60-b123-e568-f503"/>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink name="M3 90mm" id="4c61-eb2b-34a0-29bb" hidden="false" type="profile" targetId="7a26-ff06-7bf8-e412"/>
+      </infoLinks>
+    </selectionEntry>
+    <selectionEntry type="model" import="true" name="T26E4 Super Pershing" hidden="false" id="c90b-11e4-e7ae-c168">
+      <profiles>
+        <profile name=" " typeId="fccf-277e-9fc7-d0aa" typeName="Movement" hidden="false" id="55bb-12fc-3b52-a2bf" noindex="false">
+          <characteristics>
+            <characteristic name="Tactical Movement" typeId="a396-374c-81e9-5f5f">10&quot;</characteristic>
+            <characteristic name="Terrain Dash" typeId="f3f8-04d6-3c8e-f1a8">12&quot;</characteristic>
+            <characteristic name="Cross Country Dash" typeId="52a6-e4b5-0f9f-a03f">16&quot;</characteristic>
+            <characteristic name="Road Dash" typeId="2f39-530f-147a-6047">18&quot;</characteristic>
+            <characteristic name="Cross" typeId="4b0b-344f-5855-7b4a">5+</characteristic>
+            <characteristic name="Rules" typeId="32a6-5556-ec1f-4c53"/>
+          </characteristics>
+        </profile>
+        <profile name="T26E4 Super Pershing" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="a038-45b8-0c80-4fe2">
+          <characteristics>
+            <characteristic name="Motivation" typeId="98a1-7f3c-e44a-e07c">4+</characteristic>
+            <characteristic name="Skill" typeId="7ded-aabd-e9c2-b354">4+</characteristic>
+            <characteristic name="Is Hit On" typeId="e594-fa9d-1533-0010">4+</characteristic>
+            <characteristic name="Front Armour" typeId="d5a9-1e7c-bf60-14e8">13</characteristic>
+            <characteristic name="Side/Rear Armour" typeId="a95f-ed0f-af72-1676">6</characteristic>
+            <characteristic name="Rules" typeId="df60-b123-e568-f503"/>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink name="Slow Firing" id="1c3f-3ce7-d49c-61f8" hidden="false" type="rule" targetId="f6d5-b2f5-f2c8-5f04"/>
+        <infoLink name="T15E2 90mm" id="a308-b870-a28b-8cf1" hidden="false" type="profile" targetId="aeac-b1b9-c1ce-304e">
+          <modifiers>
+            <modifier type="set" value="Slow Firing" field="714d-f3d8-725d-ce79"/>
+          </modifiers>
+        </infoLink>
+      </infoLinks>
+    </selectionEntry>
+    <selectionEntry type="model" import="true" name="T34" hidden="false" id="01a6-0aa6-44f7-48d0">
+      <profiles>
+        <profile name=" " typeId="fccf-277e-9fc7-d0aa" typeName="Movement" hidden="false" id="d041-101b-8d45-7599" noindex="false">
+          <characteristics>
+            <characteristic name="Tactical Movement" typeId="a396-374c-81e9-5f5f">10&quot;</characteristic>
+            <characteristic name="Terrain Dash" typeId="f3f8-04d6-3c8e-f1a8">12&quot;</characteristic>
+            <characteristic name="Cross Country Dash" typeId="52a6-e4b5-0f9f-a03f">16&quot;</characteristic>
+            <characteristic name="Road Dash" typeId="2f39-530f-147a-6047">16&quot;</characteristic>
+            <characteristic name="Cross" typeId="4b0b-344f-5855-7b4a">3+</characteristic>
+            <characteristic name="Rules" typeId="32a6-5556-ec1f-4c53"/>
+          </characteristics>
+        </profile>
+        <profile name="T34" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="fe08-3d6a-a9c2-41b6">
+          <characteristics>
+            <characteristic name="Motivation" typeId="98a1-7f3c-e44a-e07c">4+</characteristic>
+            <characteristic name="Skill" typeId="7ded-aabd-e9c2-b354">4+</characteristic>
+            <characteristic name="Is Hit On" typeId="e594-fa9d-1533-0010">4+</characteristic>
+            <characteristic name="Front Armour" typeId="d5a9-1e7c-bf60-14e8">14</characteristic>
+            <characteristic name="Side/Rear Armour" typeId="a95f-ed0f-af72-1676">7</characteristic>
+            <characteristic name="Rules" typeId="df60-b123-e568-f503"/>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink name="Slow Firing" id="fd5c-8e2d-acfb-bd7d" hidden="false" type="rule" targetId="f6d5-b2f5-f2c8-5f04"/>
+        <infoLink name="M58 120mm" id="c9af-de85-e8cd-69a2" hidden="false" type="profile" targetId="773f-e645-759a-b8ba">
+          <modifiers>
+            <modifier type="set" value="Slow Firing" field="714d-f3d8-725d-ce79"/>
+          </modifiers>
+        </infoLink>
+      </infoLinks>
+    </selectionEntry>
+    <selectionEntry type="model" import="true" name="T30" hidden="false" id="d5f5-12f1-47b6-86bf">
+      <profiles>
+        <profile name=" " typeId="fccf-277e-9fc7-d0aa" typeName="Movement" hidden="false" id="9986-41f6-d983-9b1c" noindex="false">
+          <characteristics>
+            <characteristic name="Tactical Movement" typeId="a396-374c-81e9-5f5f">10&quot;</characteristic>
+            <characteristic name="Terrain Dash" typeId="f3f8-04d6-3c8e-f1a8">12&quot;</characteristic>
+            <characteristic name="Cross Country Dash" typeId="52a6-e4b5-0f9f-a03f">16&quot;</characteristic>
+            <characteristic name="Road Dash" typeId="2f39-530f-147a-6047">16&quot;</characteristic>
+            <characteristic name="Cross" typeId="4b0b-344f-5855-7b4a">3+</characteristic>
+            <characteristic name="Rules" typeId="32a6-5556-ec1f-4c53"/>
+          </characteristics>
+        </profile>
+        <profile name="T30" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="8eb9-10e3-cca8-5619">
+          <characteristics>
+            <characteristic name="Motivation" typeId="98a1-7f3c-e44a-e07c">4+</characteristic>
+            <characteristic name="Skill" typeId="7ded-aabd-e9c2-b354">4+</characteristic>
+            <characteristic name="Is Hit On" typeId="e594-fa9d-1533-0010">4+</characteristic>
+            <characteristic name="Front Armour" typeId="d5a9-1e7c-bf60-14e8">14</characteristic>
+            <characteristic name="Side/Rear Armour" typeId="a95f-ed0f-af72-1676">7</characteristic>
+            <characteristic name="Rules" typeId="df60-b123-e568-f503"/>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink name="Slow Firing" id="9e11-f339-9e8b-5316" hidden="false" type="rule" targetId="f6d5-b2f5-f2c8-5f04"/>
+        <infoLink name="T7 155mm" id="7326-c1e7-a5dc-a553" hidden="false" type="profile" targetId="7c8b-5d86-5dc1-2cee">
+          <modifiers>
+            <modifier type="set" value="Slow Firing" field="714d-f3d8-725d-ce79"/>
+          </modifiers>
+        </infoLink>
+      </infoLinks>
+    </selectionEntry>
+    <selectionEntry type="model" import="true" name="T57" hidden="false" id="a5dd-a853-6b09-dccf">
+      <profiles>
+        <profile name=" " typeId="fccf-277e-9fc7-d0aa" typeName="Movement" hidden="false" id="32de-bc7e-d724-17ba" noindex="false">
+          <characteristics>
+            <characteristic name="Tactical Movement" typeId="a396-374c-81e9-5f5f">10&quot;</characteristic>
+            <characteristic name="Terrain Dash" typeId="f3f8-04d6-3c8e-f1a8">12&quot;</characteristic>
+            <characteristic name="Cross Country Dash" typeId="52a6-e4b5-0f9f-a03f">16&quot;</characteristic>
+            <characteristic name="Road Dash" typeId="2f39-530f-147a-6047">16&quot;</characteristic>
+            <characteristic name="Cross" typeId="4b0b-344f-5855-7b4a">3+</characteristic>
+            <characteristic name="Rules" typeId="32a6-5556-ec1f-4c53"/>
+          </characteristics>
+        </profile>
+        <profile name="T57" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="fc4f-6ff1-901e-f78f">
+          <characteristics>
+            <characteristic name="Motivation" typeId="98a1-7f3c-e44a-e07c">4+</characteristic>
+            <characteristic name="Skill" typeId="7ded-aabd-e9c2-b354">4+</characteristic>
+            <characteristic name="Is Hit On" typeId="e594-fa9d-1533-0010">4+</characteristic>
+            <characteristic name="Front Armour" typeId="d5a9-1e7c-bf60-14e8">15</characteristic>
+            <characteristic name="Side/Rear Armour" typeId="a95f-ed0f-af72-1676">8</characteristic>
+            <characteristic name="Rules" typeId="df60-b123-e568-f503"/>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink name="T179 120mm" id="6934-495d-5777-33a9" hidden="false" type="profile" targetId="bde4-caf7-f03c-be7b">
+          <modifiers>
+            <modifier type="set" value="Accurate" field="714d-f3d8-725d-ce79"/>
+          </modifiers>
+        </infoLink>
+        <infoLink name="Accurate" id="eca2-c225-ae03-187f" hidden="false" type="rule" targetId="bbde-b019-6eaa-cd72"/>
+      </infoLinks>
+    </selectionEntry>
+    <selectionEntry type="model" import="true" name="M103" hidden="false" id="4a15-f020-2d9e-f6b7">
+      <profiles>
+        <profile name=" " typeId="fccf-277e-9fc7-d0aa" typeName="Movement" hidden="false" id="27b7-a8e9-954d-fc6d" noindex="false">
+          <characteristics>
+            <characteristic name="Tactical Movement" typeId="a396-374c-81e9-5f5f">10&quot;</characteristic>
+            <characteristic name="Terrain Dash" typeId="f3f8-04d6-3c8e-f1a8">12&quot;</characteristic>
+            <characteristic name="Cross Country Dash" typeId="52a6-e4b5-0f9f-a03f">16&quot;</characteristic>
+            <characteristic name="Road Dash" typeId="2f39-530f-147a-6047">16&quot;</characteristic>
+            <characteristic name="Cross" typeId="4b0b-344f-5855-7b4a">3+</characteristic>
+            <characteristic name="Rules" typeId="32a6-5556-ec1f-4c53"/>
+          </characteristics>
+        </profile>
+        <profile name="M103" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="138f-f5a3-f4d4-a9fd">
+          <characteristics>
+            <characteristic name="Motivation" typeId="98a1-7f3c-e44a-e07c">4+</characteristic>
+            <characteristic name="Skill" typeId="7ded-aabd-e9c2-b354">4+</characteristic>
+            <characteristic name="Is Hit On" typeId="e594-fa9d-1533-0010">4+</characteristic>
+            <characteristic name="Front Armour" typeId="d5a9-1e7c-bf60-14e8">14</characteristic>
+            <characteristic name="Side/Rear Armour" typeId="a95f-ed0f-af72-1676">6</characteristic>
+            <characteristic name="Rules" typeId="df60-b123-e568-f503"/>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink name="Slow Firing" id="443a-1e1d-3622-fc0b" hidden="false" type="rule" targetId="f6d5-b2f5-f2c8-5f04"/>
+        <infoLink name="M58 120mm" id="1f67-801b-24d2-8fd2" hidden="false" type="profile" targetId="773f-e645-759a-b8ba">
+          <modifiers>
+            <modifier type="set" value="Slow Firing, Accurate" field="714d-f3d8-725d-ce79"/>
+          </modifiers>
+        </infoLink>
+        <infoLink name="Accurate" id="16af-75c2-44e7-6319" hidden="false" type="rule" targetId="bbde-b019-6eaa-cd72"/>
+      </infoLinks>
+    </selectionEntry>
+    <selectionEntry type="model" import="true" name="M48 Patton" hidden="false" id="7ee3-d064-d08b-4614">
+      <profiles>
+        <profile name=" " typeId="fccf-277e-9fc7-d0aa" typeName="Movement" hidden="false" id="aae4-cb8e-3a61-9600" noindex="false">
+          <characteristics>
+            <characteristic name="Tactical Movement" typeId="a396-374c-81e9-5f5f">10&quot;</characteristic>
+            <characteristic name="Terrain Dash" typeId="f3f8-04d6-3c8e-f1a8">14&quot;</characteristic>
+            <characteristic name="Cross Country Dash" typeId="52a6-e4b5-0f9f-a03f">20&quot;</characteristic>
+            <characteristic name="Road Dash" typeId="2f39-530f-147a-6047">24&quot;</characteristic>
+            <characteristic name="Cross" typeId="4b0b-344f-5855-7b4a">2+</characteristic>
+            <characteristic name="Rules" typeId="32a6-5556-ec1f-4c53"/>
+          </characteristics>
+        </profile>
+        <profile name="M48 Patton" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="8cac-78c8-2bff-27a4">
+          <characteristics>
+            <characteristic name="Motivation" typeId="98a1-7f3c-e44a-e07c">4+</characteristic>
+            <characteristic name="Skill" typeId="7ded-aabd-e9c2-b354">4+</characteristic>
+            <characteristic name="Is Hit On" typeId="e594-fa9d-1533-0010">4+</characteristic>
+            <characteristic name="Front Armour" typeId="d5a9-1e7c-bf60-14e8">13</characteristic>
+            <characteristic name="Side/Rear Armour" typeId="a95f-ed0f-af72-1676">8</characteristic>
+            <characteristic name="Rules" typeId="df60-b123-e568-f503"/>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink name="M41/T139 90mm" id="3a5d-6a66-fc91-df97" hidden="false" type="profile" targetId="9a16-2201-faa7-1ad2">
+          <modifiers>
+            <modifier type="set" value="Accurate" field="714d-f3d8-725d-ce79"/>
+          </modifiers>
+        </infoLink>
+        <infoLink name="Accurate" id="3cd6-ede5-c5e7-238e" hidden="false" type="rule" targetId="bbde-b019-6eaa-cd72"/>
+      </infoLinks>
+    </selectionEntry>
+    <selectionEntry type="model" import="true" name="M60 Patton" hidden="false" id="def3-628c-88f7-49ab">
+      <profiles>
+        <profile name=" " typeId="fccf-277e-9fc7-d0aa" typeName="Movement" hidden="false" id="059e-69a2-d0b4-5b77" noindex="false">
+          <characteristics>
+            <characteristic name="Tactical Movement" typeId="a396-374c-81e9-5f5f">10&quot;</characteristic>
+            <characteristic name="Terrain Dash" typeId="f3f8-04d6-3c8e-f1a8">14&quot;</characteristic>
+            <characteristic name="Cross Country Dash" typeId="52a6-e4b5-0f9f-a03f">20&quot;</characteristic>
+            <characteristic name="Road Dash" typeId="2f39-530f-147a-6047">24&quot;</characteristic>
+            <characteristic name="Cross" typeId="4b0b-344f-5855-7b4a">2+</characteristic>
+            <characteristic name="Rules" typeId="32a6-5556-ec1f-4c53"/>
+          </characteristics>
+        </profile>
+        <profile name="M60 Patton" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="2342-61b5-ffca-41d5">
+          <characteristics>
+            <characteristic name="Motivation" typeId="98a1-7f3c-e44a-e07c">4+</characteristic>
+            <characteristic name="Skill" typeId="7ded-aabd-e9c2-b354">4+</characteristic>
+            <characteristic name="Is Hit On" typeId="e594-fa9d-1533-0010">4+</characteristic>
+            <characteristic name="Front Armour" typeId="d5a9-1e7c-bf60-14e8">15</characteristic>
+            <characteristic name="Side/Rear Armour" typeId="a95f-ed0f-af72-1676">8</characteristic>
+            <characteristic name="Rules" typeId="df60-b123-e568-f503"/>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink name="M68 105mm" id="ff76-d809-8fd7-7d31" hidden="false" type="profile" targetId="fd4a-9d5b-fc09-14a9">
+          <modifiers>
+            <modifier type="set" value="Accurate" field="714d-f3d8-725d-ce79"/>
+          </modifiers>
+        </infoLink>
+        <infoLink name="Accurate" id="cb6b-7dc7-ef54-a34b" hidden="false" type="rule" targetId="bbde-b019-6eaa-cd72"/>
+      </infoLinks>
+    </selectionEntry>
+  </sharedSelectionEntries>
+</catalogue>

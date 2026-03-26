@@ -1,0 +1,1748 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue library="false" id="331a-91ea-70fa-3bcc" name="German Forces" gameSystemId="sys-b3a3-585f-272b-852a" gameSystemRevision="1" revision="1" battleScribeVersion="2.03" type="catalogue" xmlns="http://www.battlescribe.net/schema/catalogueSchema" publicationId="ac93-79cd-a151-c7f6">
+  <sharedProfiles>
+    <profile name="8.8cm KwK36" typeId="ad40-0c46-5bb9-f1b5" typeName="Weapon" hidden="false" id="d3b1-aa72-2dd4-06ce">
+      <characteristics>
+        <characteristic name="Range" typeId="4ad2-407c-646a-1592">40&quot;</characteristic>
+        <characteristic name="Halted RoF" typeId="a9b6-c303-dc35-1266">2</characteristic>
+        <characteristic name="Moving RoF" typeId="b9d1-a349-a72a-91c6">1</characteristic>
+        <characteristic name="Anti-Tank" typeId="cdbe-98f7-65a7-594b">14</characteristic>
+        <characteristic name="Firepower" typeId="7652-d756-e787-4570">3+</characteristic>
+        <characteristic name="Rules" typeId="714d-f3d8-725d-ce79"/>
+      </characteristics>
+    </profile>
+    <profile name="7.5cm KwK42" typeId="ad40-0c46-5bb9-f1b5" typeName="Weapon" hidden="false" id="4407-c9f7-2134-0a69">
+      <characteristics>
+        <characteristic name="Range" typeId="4ad2-407c-646a-1592">40&quot;</characteristic>
+        <characteristic name="Halted RoF" typeId="a9b6-c303-dc35-1266">2</characteristic>
+        <characteristic name="Moving RoF" typeId="b9d1-a349-a72a-91c6">1</characteristic>
+        <characteristic name="Anti-Tank" typeId="cdbe-98f7-65a7-594b">14</characteristic>
+        <characteristic name="Firepower" typeId="7652-d756-e787-4570">3+</characteristic>
+        <characteristic name="Rules" typeId="714d-f3d8-725d-ce79"/>
+      </characteristics>
+    </profile>
+    <profile name="5cm KwK39" typeId="ad40-0c46-5bb9-f1b5" typeName="Weapon" hidden="false" id="01d2-d99f-0073-a6e1">
+      <characteristics>
+        <characteristic name="Range" typeId="4ad2-407c-646a-1592">28&quot;</characteristic>
+        <characteristic name="Halted RoF" typeId="a9b6-c303-dc35-1266">2</characteristic>
+        <characteristic name="Moving RoF" typeId="b9d1-a349-a72a-91c6">1</characteristic>
+        <characteristic name="Anti-Tank" typeId="cdbe-98f7-65a7-594b">9</characteristic>
+        <characteristic name="Firepower" typeId="7652-d756-e787-4570">4+</characteristic>
+        <characteristic name="Rules" typeId="714d-f3d8-725d-ce79"/>
+      </characteristics>
+    </profile>
+    <profile name="7.5cm PaK40" typeId="ad40-0c46-5bb9-f1b5" typeName="Weapon" hidden="false" id="37c4-616b-e8a7-fe16">
+      <characteristics>
+        <characteristic name="Range" typeId="4ad2-407c-646a-1592">36&quot;</characteristic>
+        <characteristic name="Halted RoF" typeId="a9b6-c303-dc35-1266">2</characteristic>
+        <characteristic name="Moving RoF" typeId="b9d1-a349-a72a-91c6">1</characteristic>
+        <characteristic name="Anti-Tank" typeId="cdbe-98f7-65a7-594b">12</characteristic>
+        <characteristic name="Firepower" typeId="7652-d756-e787-4570">3+</characteristic>
+        <characteristic name="Rules" typeId="714d-f3d8-725d-ce79"/>
+      </characteristics>
+    </profile>
+    <profile name="17cm Stu.K. L/63" typeId="ad40-0c46-5bb9-f1b5" typeName="Weapon" hidden="false" id="97dd-3080-4b48-2df5">
+      <characteristics>
+        <characteristic name="Range" typeId="4ad2-407c-646a-1592">32&quot;</characteristic>
+        <characteristic name="Halted RoF" typeId="a9b6-c303-dc35-1266">2</characteristic>
+        <characteristic name="Moving RoF" typeId="b9d1-a349-a72a-91c6">1</characteristic>
+        <characteristic name="Anti-Tank" typeId="cdbe-98f7-65a7-594b">25</characteristic>
+        <characteristic name="Firepower" typeId="7652-d756-e787-4570">Auto Pass</characteristic>
+        <characteristic name="Rules" typeId="714d-f3d8-725d-ce79"/>
+      </characteristics>
+    </profile>
+    <profile name="7.5cm PaK42" typeId="ad40-0c46-5bb9-f1b5" typeName="Weapon" hidden="false" id="1e4c-0cd9-e922-8f33">
+      <characteristics>
+        <characteristic name="Range" typeId="4ad2-407c-646a-1592">40&quot;</characteristic>
+        <characteristic name="Halted RoF" typeId="a9b6-c303-dc35-1266">2</characteristic>
+        <characteristic name="Moving RoF" typeId="b9d1-a349-a72a-91c6">1</characteristic>
+        <characteristic name="Anti-Tank" typeId="cdbe-98f7-65a7-594b">14</characteristic>
+        <characteristic name="Firepower" typeId="7652-d756-e787-4570">3+</characteristic>
+        <characteristic name="Rules" typeId="714d-f3d8-725d-ce79"/>
+      </characteristics>
+    </profile>
+    <profile name="8.8cm PaK43" typeId="ad40-0c46-5bb9-f1b5" typeName="Weapon" hidden="false" id="885d-ef01-2a1b-9385">
+      <characteristics>
+        <characteristic name="Range" typeId="4ad2-407c-646a-1592">48&quot;</characteristic>
+        <characteristic name="Halted RoF" typeId="a9b6-c303-dc35-1266">2</characteristic>
+        <characteristic name="Moving RoF" typeId="b9d1-a349-a72a-91c6">1</characteristic>
+        <characteristic name="Anti-Tank" typeId="cdbe-98f7-65a7-594b">17</characteristic>
+        <characteristic name="Firepower" typeId="7652-d756-e787-4570">3+</characteristic>
+        <characteristic name="Rules" typeId="714d-f3d8-725d-ce79"/>
+      </characteristics>
+    </profile>
+    <profile name="8.8cm KwK43" typeId="ad40-0c46-5bb9-f1b5" typeName="Weapon" hidden="false" id="7f7a-a553-9133-6692">
+      <characteristics>
+        <characteristic name="Range" typeId="4ad2-407c-646a-1592">48&quot;</characteristic>
+        <characteristic name="Halted RoF" typeId="a9b6-c303-dc35-1266">2</characteristic>
+        <characteristic name="Moving RoF" typeId="b9d1-a349-a72a-91c6">1</characteristic>
+        <characteristic name="Anti-Tank" typeId="cdbe-98f7-65a7-594b">17</characteristic>
+        <characteristic name="Firepower" typeId="7652-d756-e787-4570">3+</characteristic>
+        <characteristic name="Rules" typeId="714d-f3d8-725d-ce79"/>
+      </characteristics>
+    </profile>
+    <profile name="12.8cm PaK44" typeId="ad40-0c46-5bb9-f1b5" typeName="Weapon" hidden="false" id="25ad-47cb-054d-5358">
+      <characteristics>
+        <characteristic name="Range" typeId="4ad2-407c-646a-1592">48&quot;</characteristic>
+        <characteristic name="Halted RoF" typeId="a9b6-c303-dc35-1266">2</characteristic>
+        <characteristic name="Moving RoF" typeId="b9d1-a349-a72a-91c6">1</characteristic>
+        <characteristic name="Anti-Tank" typeId="cdbe-98f7-65a7-594b">18</characteristic>
+        <characteristic name="Firepower" typeId="7652-d756-e787-4570">2+</characteristic>
+        <characteristic name="Rules" typeId="714d-f3d8-725d-ce79"/>
+      </characteristics>
+    </profile>
+    <profile name="12.8cm KwK44 L/55" typeId="ad40-0c46-5bb9-f1b5" typeName="Weapon" hidden="false" id="f888-d18a-a3f7-5c31">
+      <characteristics>
+        <characteristic name="Range" typeId="4ad2-407c-646a-1592">48&quot;</characteristic>
+        <characteristic name="Halted RoF" typeId="a9b6-c303-dc35-1266">2</characteristic>
+        <characteristic name="Moving RoF" typeId="b9d1-a349-a72a-91c6">1</characteristic>
+        <characteristic name="Anti-Tank" typeId="cdbe-98f7-65a7-594b">18</characteristic>
+        <characteristic name="Firepower" typeId="7652-d756-e787-4570">2+</characteristic>
+        <characteristic name="Rules" typeId="714d-f3d8-725d-ce79"/>
+      </characteristics>
+    </profile>
+    <profile name="12.8cm K 43 L/51" typeId="ad40-0c46-5bb9-f1b5" typeName="Weapon" hidden="false" id="d5e8-efb0-a32f-a03b">
+      <characteristics>
+        <characteristic name="Range" typeId="4ad2-407c-646a-1592">48&quot;</characteristic>
+        <characteristic name="Halted RoF" typeId="a9b6-c303-dc35-1266">2</characteristic>
+        <characteristic name="Moving RoF" typeId="b9d1-a349-a72a-91c6">1</characteristic>
+        <characteristic name="Anti-Tank" typeId="cdbe-98f7-65a7-594b">18</characteristic>
+        <characteristic name="Firepower" typeId="7652-d756-e787-4570">2+</characteristic>
+        <characteristic name="Rules" typeId="714d-f3d8-725d-ce79"/>
+      </characteristics>
+    </profile>
+    <profile name="12.8cm KwK44" typeId="ad40-0c46-5bb9-f1b5" typeName="Weapon" hidden="false" id="6e4a-bb2d-1c51-e98e">
+      <characteristics>
+        <characteristic name="Range" typeId="4ad2-407c-646a-1592">48&quot;</characteristic>
+        <characteristic name="Halted RoF" typeId="a9b6-c303-dc35-1266">2</characteristic>
+        <characteristic name="Moving RoF" typeId="b9d1-a349-a72a-91c6">1</characteristic>
+        <characteristic name="Anti-Tank" typeId="cdbe-98f7-65a7-594b">18</characteristic>
+        <characteristic name="Firepower" typeId="7652-d756-e787-4570">2+</characteristic>
+        <characteristic name="Rules" typeId="714d-f3d8-725d-ce79"/>
+      </characteristics>
+    </profile>
+    <profile name="15cm Stu.K. L/68" typeId="ad40-0c46-5bb9-f1b5" typeName="Weapon" hidden="false" id="2d01-78f3-ca0b-84d1">
+      <characteristics>
+        <characteristic name="Range" typeId="4ad2-407c-646a-1592">36&quot;</characteristic>
+        <characteristic name="Halted RoF" typeId="a9b6-c303-dc35-1266">2</characteristic>
+        <characteristic name="Moving RoF" typeId="b9d1-a349-a72a-91c6">1</characteristic>
+        <characteristic name="Anti-Tank" typeId="cdbe-98f7-65a7-594b">26</characteristic>
+        <characteristic name="Firepower" typeId="7652-d756-e787-4570">Auto Pass</characteristic>
+        <characteristic name="Rules" typeId="714d-f3d8-725d-ce79"/>
+      </characteristics>
+    </profile>
+    <profile name="105mm L7A3 L/52" typeId="ad40-0c46-5bb9-f1b5" typeName="Weapon" hidden="false" id="be3a-cbc9-dabb-2cda">
+      <characteristics>
+        <characteristic name="Range" typeId="4ad2-407c-646a-1592">40&quot;</characteristic>
+        <characteristic name="Halted RoF" typeId="a9b6-c303-dc35-1266">2</characteristic>
+        <characteristic name="Moving RoF" typeId="b9d1-a349-a72a-91c6">1</characteristic>
+        <characteristic name="Anti-Tank" typeId="cdbe-98f7-65a7-594b">18</characteristic>
+        <characteristic name="Firepower" typeId="7652-d756-e787-4570">2+</characteristic>
+        <characteristic name="Rules" typeId="714d-f3d8-725d-ce79"/>
+      </characteristics>
+    </profile>
+  </sharedProfiles>
+  <sharedSelectionEntries>
+    <selectionEntry type="model" import="true" name="Panzer IV/70" hidden="false" id="8ac0-979c-e8fb-4367">
+      <profiles>
+        <profile name="Panzer IV/70" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="4250-22a7-7493-4f02">
+          <characteristics>
+            <characteristic name="Motivation" typeId="98a1-7f3c-e44a-e07c">4+</characteristic>
+            <characteristic name="Skill" typeId="7ded-aabd-e9c2-b354">3+</characteristic>
+            <characteristic name="Is Hit On" typeId="e594-fa9d-1533-0010">4+</characteristic>
+            <characteristic name="Front Armour" typeId="d5a9-1e7c-bf60-14e8">9</characteristic>
+            <characteristic name="Side/Rear Armour" typeId="a95f-ed0f-af72-1676">4</characteristic>
+            <characteristic name="Rules" typeId="df60-b123-e568-f503"/>
+          </characteristics>
+        </profile>
+        <profile name=" " typeId="fccf-277e-9fc7-d0aa" typeName="Movement" hidden="false" id="0eb0-d5dc-3256-5fe5">
+          <characteristics>
+            <characteristic name="Tactical Movement" typeId="a396-374c-81e9-5f5f">10&quot;</characteristic>
+            <characteristic name="Terrain Dash" typeId="f3f8-04d6-3c8e-f1a8">12&quot;</characteristic>
+            <characteristic name="Cross Country Dash" typeId="52a6-e4b5-0f9f-a03f">16&quot;</characteristic>
+            <characteristic name="Road Dash" typeId="2f39-530f-147a-6047">18&quot;</characteristic>
+            <characteristic name="Cross" typeId="4b0b-344f-5855-7b4a">5+</characteristic>
+            <characteristic name="Rules" typeId="32a6-5556-ec1f-4c53">Stormtroopers</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink name="Stormtroopers" id="45ce-687e-372c-f291" hidden="false" type="rule" targetId="a72f-7554-662a-c9f2"/>
+        <infoLink id="0e8c-dcfc-92a3-26aa" hidden="false" type="rule" targetId="bee6-2ba7-9518-20c0" name="Assault Gun"/>
+        <infoLink name="7.5cm PaK42" id="2e2e-fffb-b3bd-8ec0" hidden="false" type="profile" targetId="1e4c-0cd9-e922-8f33">
+          <modifiers>
+            <modifier type="set" value="Assault Gun" field="714d-f3d8-725d-ce79"/>
+          </modifiers>
+        </infoLink>
+      </infoLinks>
+    </selectionEntry>
+    <selectionEntry type="model" import="true" name="Nashorn" hidden="false" id="6cca-43b8-60d4-cc89">
+      <profiles>
+        <profile name="Nashorn" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="db8b-02b1-865b-1a42">
+          <characteristics>
+            <characteristic name="Motivation" typeId="98a1-7f3c-e44a-e07c">4+</characteristic>
+            <characteristic name="Skill" typeId="7ded-aabd-e9c2-b354">3+</characteristic>
+            <characteristic name="Is Hit On" typeId="e594-fa9d-1533-0010">4+</characteristic>
+            <characteristic name="Front Armour" typeId="d5a9-1e7c-bf60-14e8">2</characteristic>
+            <characteristic name="Side/Rear Armour" typeId="a95f-ed0f-af72-1676">1</characteristic>
+            <characteristic name="Rules" typeId="df60-b123-e568-f503"/>
+          </characteristics>
+        </profile>
+        <profile name=" " typeId="fccf-277e-9fc7-d0aa" typeName="Movement" hidden="false" id="0b50-6d00-abba-a7e4">
+          <characteristics>
+            <characteristic name="Tactical Movement" typeId="a396-374c-81e9-5f5f">10&quot;</characteristic>
+            <characteristic name="Terrain Dash" typeId="f3f8-04d6-3c8e-f1a8">14&quot;</characteristic>
+            <characteristic name="Cross Country Dash" typeId="52a6-e4b5-0f9f-a03f">18&quot;</characteristic>
+            <characteristic name="Road Dash" typeId="2f39-530f-147a-6047">20&quot;</characteristic>
+            <characteristic name="Cross" typeId="4b0b-344f-5855-7b4a">3+</characteristic>
+            <characteristic name="Rules" typeId="32a6-5556-ec1f-4c53">Stormtroopers</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink name="Stormtroopers" id="0845-9541-a65c-2574" hidden="false" type="rule" targetId="a72f-7554-662a-c9f2"/>
+        <infoLink name="Assault Gun" id="e9a1-c6dc-0597-b843" hidden="false" type="rule" targetId="bee6-2ba7-9518-20c0"/>
+        <infoLink name="8.8cm PaK43" id="419a-7160-6d16-1ac8" hidden="false" type="profile" targetId="885d-ef01-2a1b-9385">
+          <modifiers>
+            <modifier type="set" value="Assault Gun" field="714d-f3d8-725d-ce79"/>
+          </modifiers>
+        </infoLink>
+      </infoLinks>
+    </selectionEntry>
+    <selectionEntry type="model" import="true" name="Jagdpanther" hidden="false" id="e02b-58a3-ea48-c343">
+      <profiles>
+        <profile name="Jagdpanther" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="b2f9-43c9-520d-4c6e">
+          <characteristics>
+            <characteristic name="Motivation" typeId="98a1-7f3c-e44a-e07c">4+</characteristic>
+            <characteristic name="Skill" typeId="7ded-aabd-e9c2-b354">3+</characteristic>
+            <characteristic name="Is Hit On" typeId="e594-fa9d-1533-0010">4+</characteristic>
+            <characteristic name="Front Armour" typeId="d5a9-1e7c-bf60-14e8">9</characteristic>
+            <characteristic name="Side/Rear Armour" typeId="a95f-ed0f-af72-1676">5</characteristic>
+            <characteristic name="Rules" typeId="df60-b123-e568-f503"/>
+          </characteristics>
+        </profile>
+        <profile name=" " typeId="fccf-277e-9fc7-d0aa" typeName="Movement" hidden="false" id="bc33-d363-8d45-693a">
+          <characteristics>
+            <characteristic name="Tactical Movement" typeId="a396-374c-81e9-5f5f">10&quot;</characteristic>
+            <characteristic name="Terrain Dash" typeId="f3f8-04d6-3c8e-f1a8">14&quot;</characteristic>
+            <characteristic name="Cross Country Dash" typeId="52a6-e4b5-0f9f-a03f">20&quot;</characteristic>
+            <characteristic name="Road Dash" typeId="2f39-530f-147a-6047">24&quot;</characteristic>
+            <characteristic name="Cross" typeId="4b0b-344f-5855-7b4a">3+</characteristic>
+            <characteristic name="Rules" typeId="32a6-5556-ec1f-4c53">Stormtroopers</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink name="Stormtroopers" id="da49-4156-be5c-490b" hidden="false" type="rule" targetId="a72f-7554-662a-c9f2"/>
+        <infoLink name="Assault Gun" id="234d-1782-51fd-51f9" hidden="false" type="rule" targetId="bee6-2ba7-9518-20c0"/>
+        <infoLink name="8.8cm PaK43" id="1915-f4a6-1eaf-72b7" hidden="false" type="profile" targetId="885d-ef01-2a1b-9385">
+          <modifiers>
+            <modifier type="set" value="Assault Gun" field="714d-f3d8-725d-ce79"/>
+          </modifiers>
+        </infoLink>
+      </infoLinks>
+    </selectionEntry>
+    <selectionEntry type="upgrade" import="true" name="Puma" hidden="false" id="1c82-050e-221d-87c9">
+      <profiles>
+        <profile name="Puma" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="a2b0-c3b4-02a2-cb35">
+          <characteristics>
+            <characteristic name="Motivation" typeId="98a1-7f3c-e44a-e07c">5+</characteristic>
+            <characteristic name="Skill" typeId="7ded-aabd-e9c2-b354">3+</characteristic>
+            <characteristic name="Is Hit On" typeId="e594-fa9d-1533-0010">4+</characteristic>
+            <characteristic name="Front Armour" typeId="d5a9-1e7c-bf60-14e8">3</characteristic>
+            <characteristic name="Side/Rear Armour" typeId="a95f-ed0f-af72-1676">1</characteristic>
+            <characteristic name="Rules" typeId="df60-b123-e568-f503"/>
+          </characteristics>
+        </profile>
+        <profile name=" " typeId="fccf-277e-9fc7-d0aa" typeName="Movement" hidden="false" id="2308-ce84-dd80-b56a">
+          <characteristics>
+            <characteristic name="Tactical Movement" typeId="a396-374c-81e9-5f5f">10&quot;</characteristic>
+            <characteristic name="Terrain Dash" typeId="f3f8-04d6-3c8e-f1a8">12&quot;</characteristic>
+            <characteristic name="Cross Country Dash" typeId="52a6-e4b5-0f9f-a03f">18&quot;</characteristic>
+            <characteristic name="Road Dash" typeId="2f39-530f-147a-6047">36&quot;</characteristic>
+            <characteristic name="Cross" typeId="4b0b-344f-5855-7b4a">4+</characteristic>
+            <characteristic name="Rules" typeId="32a6-5556-ec1f-4c53">Stormtroopers, Spearhead, Scout</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink name="Stormtroopers" id="656c-6a0b-55f0-daaf" hidden="false" type="rule" targetId="a72f-7554-662a-c9f2"/>
+        <infoLink name="Spearhead" id="e4a4-954a-f729-1e31" hidden="false" type="rule" targetId="5a50-b216-2180-0137"/>
+        <infoLink name="Scout" id="5473-eb86-2f96-ce39" hidden="false" type="rule" targetId="db5a-ce16-fd98-5538"/>
+        <infoLink name="5cm KwK39" id="720f-01b9-066e-8111" hidden="false" type="profile" targetId="01d2-d99f-0073-a6e1"/>
+      </infoLinks>
+    </selectionEntry>
+    <selectionEntry type="upgrade" import="true" name="Sd Kfz 234/4" hidden="false" id="7bd6-e966-07c7-8500">
+      <profiles>
+        <profile name="Sd Kfz 234/4" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="3243-114f-ad1f-0276">
+          <characteristics>
+            <characteristic name="Motivation" typeId="98a1-7f3c-e44a-e07c">5+</characteristic>
+            <characteristic name="Skill" typeId="7ded-aabd-e9c2-b354">3+</characteristic>
+            <characteristic name="Is Hit On" typeId="e594-fa9d-1533-0010">4+</characteristic>
+            <characteristic name="Front Armour" typeId="d5a9-1e7c-bf60-14e8">3</characteristic>
+            <characteristic name="Side/Rear Armour" typeId="a95f-ed0f-af72-1676">1</characteristic>
+            <characteristic name="Rules" typeId="df60-b123-e568-f503"/>
+          </characteristics>
+        </profile>
+        <profile name=" " typeId="fccf-277e-9fc7-d0aa" typeName="Movement" hidden="false" id="17de-dc39-5625-1c72">
+          <characteristics>
+            <characteristic name="Tactical Movement" typeId="a396-374c-81e9-5f5f">10&quot;</characteristic>
+            <characteristic name="Terrain Dash" typeId="f3f8-04d6-3c8e-f1a8">12&quot;</characteristic>
+            <characteristic name="Cross Country Dash" typeId="52a6-e4b5-0f9f-a03f">18&quot;</characteristic>
+            <characteristic name="Road Dash" typeId="2f39-530f-147a-6047">36&quot;</characteristic>
+            <characteristic name="Cross" typeId="4b0b-344f-5855-7b4a">4+</characteristic>
+            <characteristic name="Rules" typeId="32a6-5556-ec1f-4c53">Stormtroopers, Spearhead, Scout</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink name="Stormtroopers" id="bb0d-b4ee-49a1-7746" hidden="false" type="rule" targetId="a72f-7554-662a-c9f2"/>
+        <infoLink name="Spearhead" id="d70e-6f55-c4eb-c749" hidden="false" type="rule" targetId="5a50-b216-2180-0137"/>
+        <infoLink name="Scout" id="2fe9-df12-5b41-d246" hidden="false" type="rule" targetId="db5a-ce16-fd98-5538"/>
+        <infoLink name="7.5cm PaK40" id="ac2b-56e4-f793-8d77" hidden="false" type="profile" targetId="37c4-616b-e8a7-fe16">
+          <modifiers>
+            <modifier type="set" value="Assault Gun" field="714d-f3d8-725d-ce79"/>
+          </modifiers>
+        </infoLink>
+        <infoLink name="Assault Gun" id="88cc-8a8e-24b1-579b" hidden="false" type="rule" targetId="bee6-2ba7-9518-20c0"/>
+      </infoLinks>
+    </selectionEntry>
+    <selectionEntry type="upgrade" import="true" name="Panther" hidden="false" id="b49b-1e06-a40a-ea6e">
+      <profiles>
+        <profile name="Panther" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="fcb6-57a6-49b9-6f09">
+          <characteristics>
+            <characteristic name="Motivation" typeId="98a1-7f3c-e44a-e07c">4+</characteristic>
+            <characteristic name="Skill" typeId="7ded-aabd-e9c2-b354">3+</characteristic>
+            <characteristic name="Is Hit On" typeId="e594-fa9d-1533-0010">4+</characteristic>
+            <characteristic name="Front Armour" typeId="d5a9-1e7c-bf60-14e8">10</characteristic>
+            <characteristic name="Side/Rear Armour" typeId="a95f-ed0f-af72-1676">5</characteristic>
+            <characteristic name="Rules" typeId="df60-b123-e568-f503"/>
+          </characteristics>
+        </profile>
+        <profile name=" " typeId="fccf-277e-9fc7-d0aa" typeName="Movement" hidden="false" id="25b5-a9d8-f2b5-d14f">
+          <characteristics>
+            <characteristic name="Tactical Movement" typeId="a396-374c-81e9-5f5f">10&quot;</characteristic>
+            <characteristic name="Terrain Dash" typeId="f3f8-04d6-3c8e-f1a8">14&quot;</characteristic>
+            <characteristic name="Cross Country Dash" typeId="52a6-e4b5-0f9f-a03f">20&quot;</characteristic>
+            <characteristic name="Road Dash" typeId="2f39-530f-147a-6047">24&quot;</characteristic>
+            <characteristic name="Cross" typeId="4b0b-344f-5855-7b4a">2+</characteristic>
+            <characteristic name="Rules" typeId="32a6-5556-ec1f-4c53">Stormtroopers</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink name="7.5cm KwK42" id="54e2-4ed8-e2d7-13c8" hidden="false" type="profile" targetId="4407-c9f7-2134-0a69"/>
+        <infoLink name="Stormtroopers" id="0c16-886f-302f-1341" hidden="false" type="rule" targetId="a72f-7554-662a-c9f2"/>
+      </infoLinks>
+    </selectionEntry>
+    <selectionEntry type="upgrade" import="true" name="Jagdtiger" hidden="false" id="e3ca-2a0a-9e6b-41f7">
+      <profiles>
+        <profile name="Jagdtiger" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="2706-08ef-3f9d-681f">
+          <characteristics>
+            <characteristic name="Motivation" typeId="98a1-7f3c-e44a-e07c">4+</characteristic>
+            <characteristic name="Skill" typeId="7ded-aabd-e9c2-b354">3+</characteristic>
+            <characteristic name="Is Hit On" typeId="e594-fa9d-1533-0010">4+</characteristic>
+            <characteristic name="Front Armour" typeId="d5a9-1e7c-bf60-14e8">17</characteristic>
+            <characteristic name="Side/Rear Armour" typeId="a95f-ed0f-af72-1676">8</characteristic>
+            <characteristic name="Rules" typeId="df60-b123-e568-f503"/>
+          </characteristics>
+        </profile>
+        <profile name=" " typeId="fccf-277e-9fc7-d0aa" typeName="Movement" hidden="false" id="99b3-50ef-b6d8-b206">
+          <characteristics>
+            <characteristic name="Tactical Movement" typeId="a396-374c-81e9-5f5f">8&quot;</characteristic>
+            <characteristic name="Terrain Dash" typeId="f3f8-04d6-3c8e-f1a8">12&quot;</characteristic>
+            <characteristic name="Cross Country Dash" typeId="52a6-e4b5-0f9f-a03f">14&quot;</characteristic>
+            <characteristic name="Road Dash" typeId="2f39-530f-147a-6047">16&quot;</characteristic>
+            <characteristic name="Cross" typeId="4b0b-344f-5855-7b4a">3+</characteristic>
+            <characteristic name="Rules" typeId="32a6-5556-ec1f-4c53">Stormtroopers</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink name="12.8cm PaK44" id="f2c2-3bd3-54cb-ba4b" hidden="false" type="profile" targetId="25ad-47cb-054d-5358">
+          <modifiers>
+            <modifier type="set" value="Assault Gun, Slow Firing" field="714d-f3d8-725d-ce79"/>
+          </modifiers>
+        </infoLink>
+        <infoLink name="Stormtroopers" id="4f9a-50b8-7398-2108" hidden="false" type="rule" targetId="a72f-7554-662a-c9f2"/>
+        <infoLink name="Assault Gun" id="79fa-38b3-108f-e5ce" hidden="false" type="rule" targetId="bee6-2ba7-9518-20c0"/>
+        <infoLink name="Slow Firing" id="6d15-e958-ce39-ad99" hidden="false" type="rule" targetId="f6d5-b2f5-f2c8-5f04"/>
+      </infoLinks>
+    </selectionEntry>
+    <selectionEntry type="upgrade" import="true" name="Panther 88" hidden="false" id="38db-c3c5-56d8-6a01">
+      <profiles>
+        <profile name="Panther" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="729f-b929-dc1c-34a9">
+          <characteristics>
+            <characteristic name="Motivation" typeId="98a1-7f3c-e44a-e07c">4+</characteristic>
+            <characteristic name="Skill" typeId="7ded-aabd-e9c2-b354">3+</characteristic>
+            <characteristic name="Is Hit On" typeId="e594-fa9d-1533-0010">4+</characteristic>
+            <characteristic name="Front Armour" typeId="d5a9-1e7c-bf60-14e8">10</characteristic>
+            <characteristic name="Side/Rear Armour" typeId="a95f-ed0f-af72-1676">5</characteristic>
+            <characteristic name="Rules" typeId="df60-b123-e568-f503"/>
+          </characteristics>
+        </profile>
+        <profile name=" " typeId="fccf-277e-9fc7-d0aa" typeName="Movement" hidden="false" id="0187-29c0-2f3f-7846">
+          <characteristics>
+            <characteristic name="Tactical Movement" typeId="a396-374c-81e9-5f5f">10&quot;</characteristic>
+            <characteristic name="Terrain Dash" typeId="f3f8-04d6-3c8e-f1a8">14&quot;</characteristic>
+            <characteristic name="Cross Country Dash" typeId="52a6-e4b5-0f9f-a03f">20&quot;</characteristic>
+            <characteristic name="Road Dash" typeId="2f39-530f-147a-6047">24&quot;</characteristic>
+            <characteristic name="Cross" typeId="4b0b-344f-5855-7b4a">2+</characteristic>
+            <characteristic name="Rules" typeId="32a6-5556-ec1f-4c53">Stormtroopers</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink name="8.8cm KwK43" id="e916-d6c6-3e77-11bf" hidden="false" type="profile" targetId="7f7a-a553-9133-6692">
+          <modifiers>
+            <modifier type="set" value="Accurate" field="714d-f3d8-725d-ce79"/>
+          </modifiers>
+        </infoLink>
+        <infoLink name="Stormtroopers" id="c785-82d1-ad25-f640" hidden="false" type="rule" targetId="a72f-7554-662a-c9f2"/>
+        <infoLink name="Accurate" id="0ab0-18f3-f0e2-8eb9" hidden="false" type="rule" targetId="bbde-b019-6eaa-cd72"/>
+      </infoLinks>
+    </selectionEntry>
+    <selectionEntry type="upgrade" import="true" name="Tiger" hidden="false" id="caec-3ffd-ac51-d284">
+      <profiles>
+        <profile name="Tiger" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="deea-313d-e78a-c01b">
+          <characteristics>
+            <characteristic name="Motivation" typeId="98a1-7f3c-e44a-e07c">4+</characteristic>
+            <characteristic name="Skill" typeId="7ded-aabd-e9c2-b354">3+</characteristic>
+            <characteristic name="Is Hit On" typeId="e594-fa9d-1533-0010">4+</characteristic>
+            <characteristic name="Front Armour" typeId="d5a9-1e7c-bf60-14e8">9</characteristic>
+            <characteristic name="Side/Rear Armour" typeId="a95f-ed0f-af72-1676">8</characteristic>
+            <characteristic name="Rules" typeId="df60-b123-e568-f503">Protected Ammo</characteristic>
+          </characteristics>
+        </profile>
+        <profile name=" " typeId="fccf-277e-9fc7-d0aa" typeName="Movement" hidden="false" id="17c8-0a2f-c7ab-0906">
+          <characteristics>
+            <characteristic name="Tactical Movement" typeId="a396-374c-81e9-5f5f">10&quot;</characteristic>
+            <characteristic name="Terrain Dash" typeId="f3f8-04d6-3c8e-f1a8">12&quot;</characteristic>
+            <characteristic name="Cross Country Dash" typeId="52a6-e4b5-0f9f-a03f">18&quot;</characteristic>
+            <characteristic name="Road Dash" typeId="2f39-530f-147a-6047">20&quot;</characteristic>
+            <characteristic name="Cross" typeId="4b0b-344f-5855-7b4a">2+</characteristic>
+            <characteristic name="Rules" typeId="32a6-5556-ec1f-4c53">Stormtroopers</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink name="8.8cm KwK36" id="6e42-c735-eaff-4b35" hidden="false" type="profile" targetId="d3b1-aa72-2dd4-06ce"/>
+        <infoLink name="Stormtroopers" id="0cc2-62d2-594b-52e6" hidden="false" type="rule" targetId="a72f-7554-662a-c9f2"/>
+        <infoLink name="Protected Ammo" id="8e9d-7f89-e81c-bf59" hidden="false" type="rule" targetId="8942-bf87-800c-b3f7"/>
+      </infoLinks>
+    </selectionEntry>
+    <selectionEntry type="upgrade" import="true" name="King Tiger" hidden="false" id="74ae-c241-f60f-4484">
+      <profiles>
+        <profile name="King Tiger" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="f844-82a0-fa58-f31b">
+          <characteristics>
+            <characteristic name="Motivation" typeId="98a1-7f3c-e44a-e07c">4+</characteristic>
+            <characteristic name="Skill" typeId="7ded-aabd-e9c2-b354">3+</characteristic>
+            <characteristic name="Is Hit On" typeId="e594-fa9d-1533-0010">4+</characteristic>
+            <characteristic name="Front Armour" typeId="d5a9-1e7c-bf60-14e8">16</characteristic>
+            <characteristic name="Side/Rear Armour" typeId="a95f-ed0f-af72-1676">8</characteristic>
+            <characteristic name="Rules" typeId="df60-b123-e568-f503"/>
+          </characteristics>
+        </profile>
+        <profile name=" " typeId="fccf-277e-9fc7-d0aa" typeName="Movement" hidden="false" id="8781-405e-1524-2e24">
+          <characteristics>
+            <characteristic name="Tactical Movement" typeId="a396-374c-81e9-5f5f">10&quot;</characteristic>
+            <characteristic name="Terrain Dash" typeId="f3f8-04d6-3c8e-f1a8">12&quot;</characteristic>
+            <characteristic name="Cross Country Dash" typeId="52a6-e4b5-0f9f-a03f">16&quot;</characteristic>
+            <characteristic name="Road Dash" typeId="2f39-530f-147a-6047">28&quot;</characteristic>
+            <characteristic name="Cross" typeId="4b0b-344f-5855-7b4a">3+</characteristic>
+            <characteristic name="Rules" typeId="32a6-5556-ec1f-4c53">Stormtroopers</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink name="8.8cm KwK43" id="6f7c-4de6-8972-bc2a" hidden="false" type="profile" targetId="7f7a-a553-9133-6692"/>
+        <infoLink name="Stormtroopers" id="d541-204f-c581-e618" hidden="false" type="rule" targetId="a72f-7554-662a-c9f2"/>
+      </infoLinks>
+    </selectionEntry>
+    <selectionEntry type="upgrade" import="true" name="Maus" hidden="false" id="bd10-7c71-672e-898a">
+      <profiles>
+        <profile name="Maus" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="a0b1-5a1e-0f00-7c3c">
+          <characteristics>
+            <characteristic name="Motivation" typeId="98a1-7f3c-e44a-e07c">4+</characteristic>
+            <characteristic name="Skill" typeId="7ded-aabd-e9c2-b354">3+</characteristic>
+            <characteristic name="Is Hit On" typeId="e594-fa9d-1533-0010">4+</characteristic>
+            <characteristic name="Front Armour" typeId="d5a9-1e7c-bf60-14e8">20</characteristic>
+            <characteristic name="Side/Rear Armour" typeId="a95f-ed0f-af72-1676">13</characteristic>
+            <characteristic name="Rules" typeId="df60-b123-e568-f503"/>
+          </characteristics>
+        </profile>
+        <profile name=" " typeId="fccf-277e-9fc7-d0aa" typeName="Movement" hidden="false" id="3a62-cf56-1450-a507">
+          <characteristics>
+            <characteristic name="Tactical Movement" typeId="a396-374c-81e9-5f5f">8&quot;</characteristic>
+            <characteristic name="Terrain Dash" typeId="f3f8-04d6-3c8e-f1a8">10&quot;</characteristic>
+            <characteristic name="Cross Country Dash" typeId="52a6-e4b5-0f9f-a03f">12&quot;</characteristic>
+            <characteristic name="Road Dash" typeId="2f39-530f-147a-6047">12&quot;</characteristic>
+            <characteristic name="Cross" typeId="4b0b-344f-5855-7b4a">2+</characteristic>
+            <characteristic name="Rules" typeId="32a6-5556-ec1f-4c53">Stormtroopers</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink name="12.8cm KwK44" id="a33e-3a59-6b9a-c1e3" hidden="false" type="profile" targetId="6e4a-bb2d-1c51-e98e">
+          <modifiers>
+            <modifier type="set" value="Slow Firing" field="714d-f3d8-725d-ce79"/>
+          </modifiers>
+        </infoLink>
+        <infoLink name="Stormtroopers" id="9000-6858-4b21-c9c5" hidden="false" type="rule" targetId="a72f-7554-662a-c9f2"/>
+        <infoLink name="Slow Firing" id="d51f-d5d5-323f-2358" hidden="false" type="rule" targetId="f6d5-b2f5-f2c8-5f04"/>
+      </infoLinks>
+    </selectionEntry>
+    <selectionEntry type="upgrade" import="true" name="Skorpion" hidden="false" id="7ddb-5e46-45c2-b159">
+      <profiles>
+        <profile name="Skorpion" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="07c1-f796-4e82-7dd2">
+          <characteristics>
+            <characteristic name="Motivation" typeId="98a1-7f3c-e44a-e07c">4+</characteristic>
+            <characteristic name="Skill" typeId="7ded-aabd-e9c2-b354">3+</characteristic>
+            <characteristic name="Is Hit On" typeId="e594-fa9d-1533-0010">4+</characteristic>
+            <characteristic name="Front Armour" typeId="d5a9-1e7c-bf60-14e8">4</characteristic>
+            <characteristic name="Side/Rear Armour" typeId="a95f-ed0f-af72-1676">2</characteristic>
+            <characteristic name="Rules" typeId="df60-b123-e568-f503"/>
+          </characteristics>
+        </profile>
+        <profile name=" " typeId="fccf-277e-9fc7-d0aa" typeName="Movement" hidden="false" id="5718-53a0-ba8a-63af">
+          <characteristics>
+            <characteristic name="Tactical Movement" typeId="a396-374c-81e9-5f5f">10&quot;</characteristic>
+            <characteristic name="Terrain Dash" typeId="f3f8-04d6-3c8e-f1a8">14&quot;</characteristic>
+            <characteristic name="Cross Country Dash" typeId="52a6-e4b5-0f9f-a03f">20&quot;</characteristic>
+            <characteristic name="Road Dash" typeId="2f39-530f-147a-6047">24&quot;</characteristic>
+            <characteristic name="Cross" typeId="4b0b-344f-5855-7b4a">3+</characteristic>
+            <characteristic name="Rules" typeId="32a6-5556-ec1f-4c53">Stormtroopers</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink name="12.8cm K 43 L/51" id="ec16-53f8-2b80-52bd" hidden="false" type="profile" targetId="d5e8-efb0-a32f-a03b">
+          <modifiers>
+            <modifier type="set" value="Slow Firing" field="714d-f3d8-725d-ce79"/>
+          </modifiers>
+        </infoLink>
+        <infoLink name="Stormtroopers" id="5c23-3d6f-d8a6-9ae0" hidden="false" type="rule" targetId="a72f-7554-662a-c9f2"/>
+        <infoLink name="Slow Firing" id="9e8c-87e1-bd2f-3bd2" hidden="false" type="rule" targetId="f6d5-b2f5-f2c8-5f04"/>
+      </infoLinks>
+    </selectionEntry>
+    <selectionEntry type="upgrade" import="true" name="E-100" hidden="false" id="509e-7059-94cc-3eb0">
+      <profiles>
+        <profile name="E-100" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="d9cc-0282-1074-251b">
+          <characteristics>
+            <characteristic name="Motivation" typeId="98a1-7f3c-e44a-e07c">4+</characteristic>
+            <characteristic name="Skill" typeId="7ded-aabd-e9c2-b354">3+</characteristic>
+            <characteristic name="Is Hit On" typeId="e594-fa9d-1533-0010">4+</characteristic>
+            <characteristic name="Front Armour" typeId="d5a9-1e7c-bf60-14e8">18</characteristic>
+            <characteristic name="Side/Rear Armour" typeId="a95f-ed0f-af72-1676">9</characteristic>
+            <characteristic name="Rules" typeId="df60-b123-e568-f503"/>
+          </characteristics>
+        </profile>
+        <profile name=" " typeId="fccf-277e-9fc7-d0aa" typeName="Movement" hidden="false" id="f9cd-790f-009d-352d">
+          <characteristics>
+            <characteristic name="Tactical Movement" typeId="a396-374c-81e9-5f5f">10&quot;</characteristic>
+            <characteristic name="Terrain Dash" typeId="f3f8-04d6-3c8e-f1a8">14&quot;</characteristic>
+            <characteristic name="Cross Country Dash" typeId="52a6-e4b5-0f9f-a03f">18&quot;</characteristic>
+            <characteristic name="Road Dash" typeId="2f39-530f-147a-6047">20&quot;</characteristic>
+            <characteristic name="Cross" typeId="4b0b-344f-5855-7b4a">2+</characteristic>
+            <characteristic name="Rules" typeId="32a6-5556-ec1f-4c53">Stormtroopers, Infra-Red (IR)</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink name="12.8cm KwK44 L/55" id="82bc-668d-fb83-7ce8" hidden="false" type="profile" targetId="f888-d18a-a3f7-5c31">
+          <modifiers>
+            <modifier type="set" value="Slow Firing, Accurate" field="714d-f3d8-725d-ce79"/>
+          </modifiers>
+        </infoLink>
+        <infoLink name="Stormtroopers" id="3e90-eddd-a84a-58b9" hidden="false" type="rule" targetId="a72f-7554-662a-c9f2"/>
+        <infoLink name="Slow Firing" id="02f3-1f1b-4e29-401c" hidden="false" type="rule" targetId="f6d5-b2f5-f2c8-5f04"/>
+        <infoLink name="Infra-Red (IR)" id="fcee-b131-3fba-70e6" hidden="false" type="rule" targetId="5a9d-29ba-a2c2-49fc"/>
+        <infoLink name="Accurate" id="9fb5-c518-4f6b-438d" hidden="false" type="rule" targetId="bbde-b019-6eaa-cd72"/>
+      </infoLinks>
+    </selectionEntry>
+    <selectionEntry type="upgrade" import="true" name="E-100 15cm" hidden="false" id="bf26-61a8-37a6-66f8">
+      <profiles>
+        <profile name="E-100" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="454d-7b34-0218-4356">
+          <characteristics>
+            <characteristic name="Motivation" typeId="98a1-7f3c-e44a-e07c">4+</characteristic>
+            <characteristic name="Skill" typeId="7ded-aabd-e9c2-b354">3+</characteristic>
+            <characteristic name="Is Hit On" typeId="e594-fa9d-1533-0010">4+</characteristic>
+            <characteristic name="Front Armour" typeId="d5a9-1e7c-bf60-14e8">18</characteristic>
+            <characteristic name="Side/Rear Armour" typeId="a95f-ed0f-af72-1676">9</characteristic>
+            <characteristic name="Rules" typeId="df60-b123-e568-f503"/>
+          </characteristics>
+        </profile>
+        <profile name=" " typeId="fccf-277e-9fc7-d0aa" typeName="Movement" hidden="false" id="55c9-d183-8322-5f95">
+          <characteristics>
+            <characteristic name="Tactical Movement" typeId="a396-374c-81e9-5f5f">10&quot;</characteristic>
+            <characteristic name="Terrain Dash" typeId="f3f8-04d6-3c8e-f1a8">14&quot;</characteristic>
+            <characteristic name="Cross Country Dash" typeId="52a6-e4b5-0f9f-a03f">18&quot;</characteristic>
+            <characteristic name="Road Dash" typeId="2f39-530f-147a-6047">20&quot;</characteristic>
+            <characteristic name="Cross" typeId="4b0b-344f-5855-7b4a">2+</characteristic>
+            <characteristic name="Rules" typeId="32a6-5556-ec1f-4c53">Stormtroopers, Infra-Red (IR)</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink name="15cm Stu.K. L/68" id="de2f-3b51-6b82-e0a7" hidden="false" type="profile" targetId="2d01-78f3-ca0b-84d1">
+          <modifiers>
+            <modifier type="set" value="Accurate" field="714d-f3d8-725d-ce79"/>
+            <modifier type="set" value="1" field="a9b6-c303-dc35-1266"/>
+            <modifier type="set" value="0" field="b9d1-a349-a72a-91c6"/>
+          </modifiers>
+        </infoLink>
+        <infoLink name="Stormtroopers" id="43c4-3165-8775-8066" hidden="false" type="rule" targetId="a72f-7554-662a-c9f2"/>
+        <infoLink name="Infra-Red (IR)" id="d798-4d19-4986-40c2" hidden="false" type="rule" targetId="5a9d-29ba-a2c2-49fc"/>
+        <infoLink name="Accurate" id="a912-7e97-9b38-1ad6" hidden="false" type="rule" targetId="bbde-b019-6eaa-cd72"/>
+      </infoLinks>
+    </selectionEntry>
+    <selectionEntry type="upgrade" import="true" name="E-100 Jagdpanzer" hidden="false" id="d388-d030-d2c3-37e0">
+      <profiles>
+        <profile name="E-100 Jagdpanzer" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="b238-80c0-4de7-0eee">
+          <characteristics>
+            <characteristic name="Motivation" typeId="98a1-7f3c-e44a-e07c">4+</characteristic>
+            <characteristic name="Skill" typeId="7ded-aabd-e9c2-b354">3+</characteristic>
+            <characteristic name="Is Hit On" typeId="e594-fa9d-1533-0010">4+</characteristic>
+            <characteristic name="Front Armour" typeId="d5a9-1e7c-bf60-14e8">18</characteristic>
+            <characteristic name="Side/Rear Armour" typeId="a95f-ed0f-af72-1676">9</characteristic>
+            <characteristic name="Rules" typeId="df60-b123-e568-f503"/>
+          </characteristics>
+        </profile>
+        <profile name=" " typeId="fccf-277e-9fc7-d0aa" typeName="Movement" hidden="false" id="cbdb-5b58-3ef8-e0ff">
+          <characteristics>
+            <characteristic name="Tactical Movement" typeId="a396-374c-81e9-5f5f">10&quot;</characteristic>
+            <characteristic name="Terrain Dash" typeId="f3f8-04d6-3c8e-f1a8">12&quot;</characteristic>
+            <characteristic name="Cross Country Dash" typeId="52a6-e4b5-0f9f-a03f">16&quot;</characteristic>
+            <characteristic name="Road Dash" typeId="2f39-530f-147a-6047">16&quot;</characteristic>
+            <characteristic name="Cross" typeId="4b0b-344f-5855-7b4a">2+</characteristic>
+            <characteristic name="Rules" typeId="32a6-5556-ec1f-4c53">Stormtroopers, Infra-Red (IR)</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink name="17cm Stu.K. L/63" id="9a70-01bf-704e-8313" hidden="false" type="profile" targetId="97dd-3080-4b48-2df5">
+          <modifiers>
+            <modifier type="set" value="Accurate, Slow Firing, Assault Gun" field="714d-f3d8-725d-ce79"/>
+            <modifier type="set" value="1" field="a9b6-c303-dc35-1266"/>
+          </modifiers>
+        </infoLink>
+        <infoLink name="Stormtroopers" id="5356-eeed-c368-3b8a" hidden="false" type="rule" targetId="a72f-7554-662a-c9f2"/>
+        <infoLink name="Infra-Red (IR)" id="db1e-6bf3-bd39-bd8f" hidden="false" type="rule" targetId="5a9d-29ba-a2c2-49fc"/>
+        <infoLink name="Accurate" id="f909-b429-fc1a-a926" hidden="false" type="rule" targetId="bbde-b019-6eaa-cd72"/>
+        <infoLink name="Slow Firing" id="fa19-a82b-4566-2be1" hidden="false" type="rule" targetId="f6d5-b2f5-f2c8-5f04"/>
+        <infoLink name="Assault Gun" id="8b88-fa5b-6762-83de" hidden="false" type="rule" targetId="bee6-2ba7-9518-20c0"/>
+      </infoLinks>
+    </selectionEntry>
+    <selectionEntry type="upgrade" import="true" name="Leopard" hidden="false" id="26e6-2d6c-ed79-218f">
+      <profiles>
+        <profile name="Leopard" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="a5ba-9ddc-a556-6c3d">
+          <characteristics>
+            <characteristic name="Motivation" typeId="98a1-7f3c-e44a-e07c">4+</characteristic>
+            <characteristic name="Skill" typeId="7ded-aabd-e9c2-b354">3+</characteristic>
+            <characteristic name="Is Hit On" typeId="e594-fa9d-1533-0010">4+</characteristic>
+            <characteristic name="Front Armour" typeId="d5a9-1e7c-bf60-14e8">8</characteristic>
+            <characteristic name="Side/Rear Armour" typeId="a95f-ed0f-af72-1676">5</characteristic>
+            <characteristic name="Rules" typeId="df60-b123-e568-f503"/>
+          </characteristics>
+        </profile>
+        <profile name=" " typeId="fccf-277e-9fc7-d0aa" typeName="Movement" hidden="false" id="d78d-293b-323e-4b18">
+          <characteristics>
+            <characteristic name="Tactical Movement" typeId="a396-374c-81e9-5f5f">12&quot;</characteristic>
+            <characteristic name="Terrain Dash" typeId="f3f8-04d6-3c8e-f1a8">18&quot;</characteristic>
+            <characteristic name="Cross Country Dash" typeId="52a6-e4b5-0f9f-a03f">28&quot;</characteristic>
+            <characteristic name="Road Dash" typeId="2f39-530f-147a-6047">32&quot;</characteristic>
+            <characteristic name="Cross" typeId="4b0b-344f-5855-7b4a">2+</characteristic>
+            <characteristic name="Rules" typeId="32a6-5556-ec1f-4c53">Stormtroopers, Infra-Red (IR)</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink name="Infra-Red (IR)" id="e8ca-7c99-8512-4b4b" hidden="false" type="rule" targetId="5a9d-29ba-a2c2-49fc"/>
+        <infoLink name="Stormtroopers" id="d059-75a7-cb67-8521" hidden="false" type="rule" targetId="a72f-7554-662a-c9f2"/>
+        <infoLink name="105mm L7A3 L/52" id="db48-4e07-2f71-24c1" hidden="false" type="profile" targetId="be3a-cbc9-dabb-2cda">
+          <modifiers>
+            <modifier type="set" value="Accurate" field="714d-f3d8-725d-ce79"/>
+            <modifier type="set" value="2" field="b9d1-a349-a72a-91c6"/>
+          </modifiers>
+        </infoLink>
+        <infoLink name="Accurate" id="208b-989a-ed7f-3d05" hidden="false" type="rule" targetId="bbde-b019-6eaa-cd72"/>
+      </infoLinks>
+    </selectionEntry>
+  </sharedSelectionEntries>
+  <selectionEntries>
+    <selectionEntry type="upgrade" import="true" name="Panzer IV/70 Tank-Hunter Platoon" hidden="true" id="6f77-e7e3-2cdc-f220">
+      <modifierGroups>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="set" value="7" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="3" field="selections" scope="self" childId="8ac0-979c-e8fb-4367" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="9" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="4" field="selections" scope="self" childId="8ac0-979c-e8fb-4367" shared="true"/>
+              </conditions>
+            </modifier>
+          </modifiers>
+        </modifierGroup>
+      </modifierGroups>
+      <modifiers>
+        <modifier type="set" value="false" field="hidden">
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition type="instanceOf" value="1" field="selections" scope="force" childId="eabb-ab75-efd6-9faf" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifier>
+      </modifiers>
+      <categoryLinks>
+        <categoryLink targetId="d848-a65e-d12d-753a" id="b7ce-731f-ad8d-8ada" primary="true" name="Support Units"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink import="true" name="Panzer IV/70" hidden="false" id="dd29-e46f-eb64-43db" type="selectionEntry" targetId="8ac0-979c-e8fb-4367" defaultAmount="3">
+          <constraints>
+            <constraint type="min" value="3" field="selections" scope="parent" shared="true" id="f035-a555-dd07-6ad2" includeChildSelections="false"/>
+            <constraint type="max" value="4" field="selections" scope="parent" shared="true" id="f534-3193-737c-cf21" includeChildSelections="false"/>
+          </constraints>
+        </entryLink>
+      </entryLinks>
+    </selectionEntry>
+    <selectionEntry type="upgrade" import="true" name="Jagdpanther Tank-Hunter Platoon" hidden="true" id="2b38-283c-9268-bc41">
+      <modifierGroups>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="set" value="13" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="3" field="selections" scope="self" childId="e02b-58a3-ea48-c343" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="17" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="4" field="selections" scope="self" childId="e02b-58a3-ea48-c343" shared="true"/>
+              </conditions>
+            </modifier>
+          </modifiers>
+        </modifierGroup>
+      </modifierGroups>
+      <modifiers>
+        <modifier type="set" value="false" field="hidden">
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition type="instanceOf" value="1" field="selections" scope="force" childId="eabb-ab75-efd6-9faf" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifier>
+      </modifiers>
+      <categoryLinks>
+        <categoryLink targetId="d848-a65e-d12d-753a" id="71c9-8f1b-8da9-8b07" primary="true" name="Support Units"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink import="true" name="Jagdpanther" hidden="false" id="8b30-067b-e815-9520" type="selectionEntry" targetId="e02b-58a3-ea48-c343" defaultAmount="3">
+          <constraints>
+            <constraint type="min" value="3" field="selections" scope="parent" shared="true" id="9abb-36c6-ab33-619f" includeChildSelections="false"/>
+            <constraint type="max" value="4" field="selections" scope="parent" shared="true" id="d442-7d6f-4b14-fd75" includeChildSelections="false"/>
+          </constraints>
+        </entryLink>
+      </entryLinks>
+    </selectionEntry>
+    <selectionEntry type="upgrade" import="true" name="Nashorn Tank-Hunter Platoon" hidden="true" id="a33a-87b1-74a4-cfd6">
+      <modifierGroups>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="set" value="9" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="3" field="selections" scope="self" childId="6cca-43b8-60d4-cc89" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="12" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="4" field="selections" scope="self" childId="6cca-43b8-60d4-cc89" shared="true"/>
+              </conditions>
+            </modifier>
+          </modifiers>
+        </modifierGroup>
+      </modifierGroups>
+      <modifiers>
+        <modifier type="set" value="false" field="hidden">
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition type="instanceOf" value="1" field="selections" scope="force" childId="eabb-ab75-efd6-9faf" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifier>
+      </modifiers>
+      <categoryLinks>
+        <categoryLink targetId="d848-a65e-d12d-753a" id="89ed-da41-e66b-2eb4" primary="true" name="Support Units"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink import="true" name="Nashorn" hidden="false" id="fe4b-60e4-de2b-a651" type="selectionEntry" targetId="6cca-43b8-60d4-cc89" defaultAmount="3">
+          <constraints>
+            <constraint type="min" value="3" field="selections" scope="parent" shared="true" id="98b7-d321-563e-1410" includeChildSelections="false"/>
+            <constraint type="max" value="4" field="selections" scope="parent" shared="true" id="6f45-2af8-d0bb-226b" includeChildSelections="false"/>
+          </constraints>
+        </entryLink>
+      </entryLinks>
+    </selectionEntry>
+    <selectionEntry type="upgrade" import="true" name="Puma Scout Troop" hidden="true" id="4f00-8d41-137d-1f27">
+      <modifierGroups>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="set" value="2" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="1" field="selections" scope="self" childId="7bd6-e966-07c7-8500" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="3" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="2" field="selections" scope="self" childId="7bd6-e966-07c7-8500" shared="true"/>
+              </conditions>
+            </modifier>
+          </modifiers>
+        </modifierGroup>
+      </modifierGroups>
+      <modifiers>
+        <modifier type="set" value="false" field="hidden">
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition type="instanceOf" value="1" field="selections" scope="force" childId="eabb-ab75-efd6-9faf" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifier>
+      </modifiers>
+      <categoryLinks>
+        <categoryLink targetId="d848-a65e-d12d-753a" id="eb36-4c77-0f99-530d" primary="true" name="Support Units"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink import="true" name="Puma" hidden="false" id="4db7-b72d-487a-f5a7" type="selectionEntry" targetId="1c82-050e-221d-87c9" collapsible="true" collective="true">
+          <constraints>
+            <constraint type="min" value="2" field="selections" scope="parent" shared="true" id="e548-f70d-7dbf-c268-min" includeChildSelections="false"/>
+            <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="e548-f70d-7dbf-c268-max" includeChildSelections="false"/>
+          </constraints>
+        </entryLink>
+        <entryLink import="true" name="Sd Kfz 234/4" hidden="false" id="09b0-d829-6fb5-9006" type="selectionEntry" targetId="7bd6-e966-07c7-8500">
+          <constraints>
+            <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="43af-394f-3ebd-3de8" includeChildSelections="false"/>
+            <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="2204-3f88-98c6-fb91" includeChildSelections="false"/>
+          </constraints>
+        </entryLink>
+      </entryLinks>
+    </selectionEntry>
+    <selectionEntry type="upgrade" import="true" name="Jagdtiger Tank-Hunter Platoon" hidden="false" id="bb9c-44f6-7ed1-13a7">
+      <categoryLinks>
+        <categoryLink targetId="d848-a65e-d12d-753a" id="a584-10f8-4401-b716" primary="true" name="Support Units"/>
+      </categoryLinks>
+      <modifierGroups>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="add" value="5d61-0258-0ff7-f8d6" field="category"/>
+            <modifier type="remove" value="d848-a65e-d12d-753a" field="category"/>
+            <modifier type="set-primary" value="5d61-0258-0ff7-f8d6" field="category"/>
+          </modifiers>
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition type="instanceOf" value="1" field="selections" scope="force" childId="eabb-ab75-efd6-9faf" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifierGroup>
+      </modifierGroups>
+      <entryLinks>
+        <entryLink import="true" name="Jagdtiger" hidden="false" id="532e-1eec-408f-ae45" type="selectionEntry" targetId="e3ca-2a0a-9e6b-41f7" defaultAmount="2">
+          <constraints>
+            <constraint type="min" value="2" field="selections" scope="parent" shared="true" id="7bb7-0079-d529-7378" includeChildSelections="false"/>
+            <constraint type="max" value="4" field="selections" scope="parent" shared="true" id="b577-0505-dafb-b7a6" includeChildSelections="false"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="10"/>
+          </costs>
+        </entryLink>
+      </entryLinks>
+    </selectionEntry>
+    <selectionEntry type="upgrade" import="true" name="Panther 88 Platoon" hidden="false" id="15b9-4dda-02a6-8955">
+      <categoryLinks>
+        <categoryLink targetId="d848-a65e-d12d-753a" id="c6a3-7d6b-7dc6-321c" primary="true" name="Support Units"/>
+      </categoryLinks>
+      <modifierGroups>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="add" value="5d61-0258-0ff7-f8d6" field="category"/>
+            <modifier type="remove" value="d848-a65e-d12d-753a" field="category"/>
+            <modifier type="set-primary" value="5d61-0258-0ff7-f8d6" field="category"/>
+          </modifiers>
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition type="instanceOf" value="1" field="selections" scope="force" childId="eabb-ab75-efd6-9faf" shared="true" includeChildSelections="true"/>
+                <condition type="instanceOf" value="1" field="selections" scope="force" childId="514b-3158-1404-e7fa" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifierGroup>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="set" value="18" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="3" field="selections" scope="self" childId="38db-c3c5-56d8-6a01" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="24" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="4" field="selections" scope="self" childId="38db-c3c5-56d8-6a01" shared="true"/>
+              </conditions>
+            </modifier>
+          </modifiers>
+        </modifierGroup>
+      </modifierGroups>
+      <entryLinks>
+        <entryLink import="true" name="Panther 88" hidden="false" id="818e-f45a-8582-52c0" type="selectionEntry" targetId="38db-c3c5-56d8-6a01" defaultAmount="3">
+          <constraints>
+            <constraint type="min" value="3" field="selections" scope="parent" shared="true" id="185f-78cf-e7b1-3778" includeChildSelections="false"/>
+            <constraint type="max" value="4" field="selections" scope="parent" shared="true" id="2eb6-4e05-e121-a3af" includeChildSelections="false"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="0"/>
+          </costs>
+          <modifiers>
+            <modifier type="set" value="Stormtroopers, Infra-Red (IR)" field="32a6-5556-ec1f-4c53" affects="profiles.Movement"/>
+          </modifiers>
+          <infoLinks>
+            <infoLink name="Infra-Red (IR)" id="23eb-48e7-37bd-fe30" hidden="false" type="rule" targetId="5a9d-29ba-a2c2-49fc"/>
+          </infoLinks>
+        </entryLink>
+      </entryLinks>
+    </selectionEntry>
+    <selectionEntry type="upgrade" import="true" name="Panther Scout Troop" hidden="false" id="b64d-3cda-5190-9a30">
+      <modifierGroups>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="set" value="12" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="3" field="selections" scope="self" childId="b49b-1e06-a40a-ea6e" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="15" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="4" field="selections" scope="self" childId="b49b-1e06-a40a-ea6e" shared="true"/>
+              </conditions>
+            </modifier>
+          </modifiers>
+        </modifierGroup>
+      </modifierGroups>
+      <categoryLinks>
+        <categoryLink targetId="d848-a65e-d12d-753a" id="634c-f09c-96e7-5555" primary="true" name="Support Units"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink import="true" name="Panther" hidden="false" id="ac83-355e-ff2f-abbd" type="selectionEntry" targetId="b49b-1e06-a40a-ea6e" defaultAmount="3">
+          <constraints>
+            <constraint type="min" value="3" field="selections" scope="parent" shared="true" id="24b7-6c90-ecc9-6f5a" includeChildSelections="false"/>
+            <constraint type="max" value="4" field="selections" scope="parent" shared="true" id="797b-3975-8dc7-9be5" includeChildSelections="false"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="0"/>
+          </costs>
+          <modifiers>
+            <modifier type="set" value="Stormtroopers, Infra-Red (IR), Spearhead" field="32a6-5556-ec1f-4c53" affects="profiles.Movement"/>
+          </modifiers>
+          <infoLinks>
+            <infoLink name="Spearhead" id="b294-35cc-0d19-a11a" hidden="false" type="rule" targetId="5a50-b216-2180-0137"/>
+            <infoLink name="Infra-Red (IR)" id="22c2-da4c-8411-22db" hidden="false" type="rule" targetId="5a9d-29ba-a2c2-49fc"/>
+          </infoLinks>
+        </entryLink>
+      </entryLinks>
+    </selectionEntry>
+    <selectionEntry type="upgrade" import="true" name="Panther Platoon" hidden="false" id="cb2a-597f-d907-a1b4">
+      <categoryLinks>
+        <categoryLink targetId="d848-a65e-d12d-753a" id="2692-b59d-8b75-0d95" primary="true" name="Support Units"/>
+      </categoryLinks>
+      <modifierGroups>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="add" value="5d61-0258-0ff7-f8d6" field="category"/>
+            <modifier type="remove" value="d848-a65e-d12d-753a" field="category"/>
+            <modifier type="set-primary" value="5d61-0258-0ff7-f8d6" field="category"/>
+          </modifiers>
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition type="instanceOf" value="1" field="selections" scope="force" childId="eabb-ab75-efd6-9faf" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifierGroup>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="set" value="11" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="3" field="selections" scope="self" childId="b49b-1e06-a40a-ea6e" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="14" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="4" field="selections" scope="self" childId="b49b-1e06-a40a-ea6e" shared="true"/>
+              </conditions>
+            </modifier>
+          </modifiers>
+        </modifierGroup>
+      </modifierGroups>
+      <entryLinks>
+        <entryLink import="true" name="Panther" hidden="false" id="4f1a-a017-7821-d2e9" type="selectionEntry" targetId="b49b-1e06-a40a-ea6e" defaultAmount="3">
+          <constraints>
+            <constraint type="min" value="3" field="selections" scope="parent" shared="true" id="610d-529e-ee7b-4b3e" includeChildSelections="false"/>
+            <constraint type="max" value="4" field="selections" scope="parent" shared="true" id="efbf-443b-aa74-824c" includeChildSelections="false"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="0"/>
+          </costs>
+          <modifiers>
+            <modifier type="set" value="Stormtroopers, Infra-Red (IR)" field="32a6-5556-ec1f-4c53" affects="profiles.Movement"/>
+          </modifiers>
+          <infoLinks>
+            <infoLink name="Infra-Red (IR)" id="4878-a23c-c3ce-19c8" hidden="false" type="rule" targetId="5a9d-29ba-a2c2-49fc"/>
+          </infoLinks>
+        </entryLink>
+      </entryLinks>
+    </selectionEntry>
+    <selectionEntry type="upgrade" import="true" name="Tiger Platoon" hidden="false" id="a7d9-bf62-789a-4d90">
+      <categoryLinks>
+        <categoryLink targetId="d848-a65e-d12d-753a" id="f741-8283-bbea-395b" primary="true" name="Support Units"/>
+      </categoryLinks>
+      <modifierGroups>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="add" value="5d61-0258-0ff7-f8d6" field="category"/>
+            <modifier type="remove" value="d848-a65e-d12d-753a" field="category"/>
+            <modifier type="set-primary" value="5d61-0258-0ff7-f8d6" field="category"/>
+          </modifiers>
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition type="instanceOf" value="1" field="selections" scope="force" childId="eabb-ab75-efd6-9faf" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifierGroup>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="set" value="7" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="2" field="selections" scope="self" childId="caec-3ffd-ac51-d284" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="10" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="3" field="selections" scope="self" childId="caec-3ffd-ac51-d284" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="13" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="4" field="selections" scope="self" childId="caec-3ffd-ac51-d284" shared="true"/>
+              </conditions>
+            </modifier>
+          </modifiers>
+        </modifierGroup>
+      </modifierGroups>
+      <entryLinks>
+        <entryLink import="true" name="Tiger" hidden="false" id="6cd3-8ded-f096-346b" type="selectionEntry" targetId="caec-3ffd-ac51-d284" defaultAmount="2">
+          <constraints>
+            <constraint type="min" value="2" field="selections" scope="parent" shared="true" id="b13e-31e5-07b3-db5f" includeChildSelections="false"/>
+            <constraint type="max" value="4" field="selections" scope="parent" shared="true" id="9daa-dcfc-44a8-5153" includeChildSelections="false"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="0"/>
+          </costs>
+        </entryLink>
+      </entryLinks>
+    </selectionEntry>
+    <selectionEntry type="upgrade" import="true" name="King Tiger Heavy Platoon" hidden="false" id="1672-fbb6-bc6f-29fc">
+      <categoryLinks>
+        <categoryLink targetId="d848-a65e-d12d-753a" id="a233-f74b-e55b-c4c3" primary="true" name="Support Units"/>
+      </categoryLinks>
+      <modifierGroups>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="add" value="5d61-0258-0ff7-f8d6" field="category"/>
+            <modifier type="remove" value="d848-a65e-d12d-753a" field="category"/>
+            <modifier type="set-primary" value="5d61-0258-0ff7-f8d6" field="category"/>
+          </modifiers>
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition type="instanceOf" value="1" field="selections" scope="force" childId="eabb-ab75-efd6-9faf" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifierGroup>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="set" value="19" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="2" field="selections" scope="self" childId="74ae-c241-f60f-4484" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="28" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="3" field="selections" scope="self" childId="74ae-c241-f60f-4484" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="38" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="4" field="selections" scope="self" childId="74ae-c241-f60f-4484" shared="true"/>
+              </conditions>
+            </modifier>
+          </modifiers>
+        </modifierGroup>
+      </modifierGroups>
+      <entryLinks>
+        <entryLink import="true" name="Tiger II" hidden="false" id="f579-0894-5ba0-080c" type="selectionEntry" targetId="74ae-c241-f60f-4484" defaultAmount="2">
+          <constraints>
+            <constraint type="min" value="2" field="selections" scope="parent" shared="true" id="aecd-3131-5ffb-db6a" includeChildSelections="false"/>
+            <constraint type="max" value="4" field="selections" scope="parent" shared="true" id="9f58-22f7-152e-5a6e" includeChildSelections="false"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="0"/>
+          </costs>
+        </entryLink>
+      </entryLinks>
+    </selectionEntry>
+    <selectionEntry type="upgrade" import="true" name="Maus Heavy Platoon" hidden="false" id="2579-3dc5-f65f-51e9">
+      <categoryLinks>
+        <categoryLink targetId="d848-a65e-d12d-753a" id="8541-58c7-136d-2f5b" primary="true" name="Support Units"/>
+      </categoryLinks>
+      <modifierGroups>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="add" value="5d61-0258-0ff7-f8d6" field="category"/>
+            <modifier type="remove" value="d848-a65e-d12d-753a" field="category"/>
+            <modifier type="set-primary" value="5d61-0258-0ff7-f8d6" field="category"/>
+          </modifiers>
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition type="instanceOf" value="1" field="selections" scope="force" childId="eabb-ab75-efd6-9faf" shared="true" includeChildSelections="true"/>
+                <condition type="instanceOf" value="1" field="selections" scope="force" childId="514b-3158-1404-e7fa" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifierGroup>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="set" value="26" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="2" field="selections" scope="self" childId="bd10-7c71-672e-898a" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="40" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="3" field="selections" scope="self" childId="bd10-7c71-672e-898a" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="53" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="4" field="selections" scope="self" childId="bd10-7c71-672e-898a" shared="true"/>
+              </conditions>
+            </modifier>
+          </modifiers>
+        </modifierGroup>
+      </modifierGroups>
+      <entryLinks>
+        <entryLink import="true" name="Maus" hidden="false" id="da1f-cce0-0019-5324" type="selectionEntry" targetId="bd10-7c71-672e-898a" defaultAmount="2">
+          <constraints>
+            <constraint type="min" value="2" field="selections" scope="parent" shared="true" id="2cd1-ca34-9b6c-4ad6" includeChildSelections="false"/>
+            <constraint type="max" value="4" field="selections" scope="parent" shared="true" id="c37c-f3d5-7fba-fe1c" includeChildSelections="false"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="0"/>
+          </costs>
+        </entryLink>
+      </entryLinks>
+    </selectionEntry>
+    <selectionEntry type="upgrade" import="true" name="Maus HQ" hidden="true" id="ae6e-711b-5c13-f9b4">
+      <categoryLinks>
+        <categoryLink targetId="a812-7443-1e32-9656" id="9647-496f-61da-476e" primary="true" name="Headquarters"/>
+      </categoryLinks>
+      <modifierGroups>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="set" value="false" field="hidden"/>
+          </modifiers>
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition type="instanceOf" value="1" field="selections" scope="force" childId="eabb-ab75-efd6-9faf" shared="true" includeChildSelections="true"/>
+                <condition type="instanceOf" value="1" field="selections" scope="force" childId="514b-3158-1404-e7fa" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifierGroup>
+      </modifierGroups>
+      <selectionEntryGroups>
+        <selectionEntryGroup name="Configuration" id="3711-ce0f-7b17-a793" hidden="false">
+          <entryLinks>
+            <entryLink import="true" name="Maus" hidden="false" id="3539-92d2-9217-250c" type="selectionEntry" targetId="bd10-7c71-672e-898a" defaultAmount="1">
+              <constraints>
+                <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="826f-caf3-a18d-334e" includeChildSelections="false"/>
+                <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="a3ec-170b-b7be-c993" includeChildSelections="false"/>
+              </constraints>
+              <costs>
+                <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="13"/>
+              </costs>
+            </entryLink>
+            <entryLink import="true" name="Commander Abilities" hidden="false" id="1bea-40c9-eb98-e646" type="selectionEntryGroup" targetId="bbb5-2553-4bf9-ec5a"/>
+          </entryLinks>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+    </selectionEntry>
+    <selectionEntry type="upgrade" import="true" name="Panther 88 HQ" hidden="true" id="090f-7479-54da-1a64">
+      <categoryLinks>
+        <categoryLink targetId="a812-7443-1e32-9656" id="f67a-e919-9895-7331" primary="true" name="Headquarters"/>
+      </categoryLinks>
+      <modifierGroups>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="set" value="false" field="hidden"/>
+          </modifiers>
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition type="instanceOf" value="1" field="selections" scope="force" childId="eabb-ab75-efd6-9faf" shared="true" includeChildSelections="true"/>
+                <condition type="instanceOf" value="1" field="selections" scope="force" childId="514b-3158-1404-e7fa" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifierGroup>
+      </modifierGroups>
+      <selectionEntryGroups>
+        <selectionEntryGroup name="Configuration" id="aaeb-2d3f-f149-2dd1" hidden="false">
+          <entryLinks>
+            <entryLink import="true" name="Panther 88" hidden="false" id="0b69-c481-790c-8578" type="selectionEntry" targetId="38db-c3c5-56d8-6a01" defaultAmount="1">
+              <constraints>
+                <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="d1fb-b8b9-bd26-4f00" includeChildSelections="false"/>
+                <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="1f29-68e6-1ffb-3694" includeChildSelections="false"/>
+              </constraints>
+              <costs>
+                <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="6"/>
+              </costs>
+            </entryLink>
+            <entryLink import="true" name="Commander Abilities" hidden="false" id="f447-221b-7dac-5326" type="selectionEntryGroup" targetId="bbb5-2553-4bf9-ec5a"/>
+          </entryLinks>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+    </selectionEntry>
+    <selectionEntry type="upgrade" import="true" name="King Tiger HQ" hidden="true" id="97cb-c17f-8a66-4c5a">
+      <categoryLinks>
+        <categoryLink targetId="a812-7443-1e32-9656" id="e0cd-4577-4f50-5371" primary="true" name="Headquarters"/>
+      </categoryLinks>
+      <modifierGroups>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="set" value="false" field="hidden"/>
+          </modifiers>
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition type="instanceOf" value="1" field="selections" scope="force" childId="eabb-ab75-efd6-9faf" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifierGroup>
+      </modifierGroups>
+      <selectionEntryGroups>
+        <selectionEntryGroup name="Configuration" id="a4d2-33b2-ec9f-0a0a" hidden="false">
+          <entryLinks>
+            <entryLink import="true" name="Tiger II" hidden="false" id="f8d4-1e0b-1d4d-be7b" type="selectionEntry" targetId="74ae-c241-f60f-4484" defaultAmount="1">
+              <constraints>
+                <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="2413-b3cc-9070-7d3e" includeChildSelections="false"/>
+                <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="351c-ebad-88a0-d3ff" includeChildSelections="false"/>
+              </constraints>
+              <costs>
+                <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="10"/>
+              </costs>
+              <modifiers>
+                <modifier type="set" value="9.5" field="da7c-c0bb-4deb-9f7c">
+                  <conditions>
+                    <condition type="atLeast" value="2" field="selections" scope="parent" childId="74ae-c241-f60f-4484" shared="true"/>
+                  </conditions>
+                </modifier>
+              </modifiers>
+            </entryLink>
+            <entryLink import="true" name="Commander Abilities" hidden="false" id="25be-c78f-6d85-5a0d" type="selectionEntryGroup" targetId="bbb5-2553-4bf9-ec5a"/>
+          </entryLinks>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+    </selectionEntry>
+    <selectionEntry type="upgrade" import="true" name="Skorpion Tank-Hunter Platoon" hidden="false" id="ca12-ffd1-ea1b-836c">
+      <categoryLinks>
+        <categoryLink targetId="d848-a65e-d12d-753a" id="e156-6609-3fec-bf21" primary="true" name="Support Units"/>
+      </categoryLinks>
+      <modifierGroups>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="add" value="5d61-0258-0ff7-f8d6" field="category"/>
+            <modifier type="remove" value="d848-a65e-d12d-753a" field="category"/>
+            <modifier type="set-primary" value="5d61-0258-0ff7-f8d6" field="category"/>
+          </modifiers>
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition type="instanceOf" value="1" field="selections" scope="force" childId="514b-3158-1404-e7fa" shared="true" includeChildSelections="true"/>
+                <condition type="instanceOf" value="1" field="selections" scope="force" childId="default-force" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifierGroup>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="set" value="17" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="3" field="selections" scope="self" childId="7ddb-5e46-45c2-b159" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="22" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="4" field="selections" scope="self" childId="7ddb-5e46-45c2-b159" shared="true"/>
+              </conditions>
+            </modifier>
+          </modifiers>
+        </modifierGroup>
+      </modifierGroups>
+      <entryLinks>
+        <entryLink import="true" name="Skorpion" hidden="false" id="4d53-8f90-f991-c2c4" type="selectionEntry" targetId="7ddb-5e46-45c2-b159" defaultAmount="3">
+          <constraints>
+            <constraint type="min" value="3" field="selections" scope="parent" shared="true" id="677c-f1b2-586b-8a46" includeChildSelections="false"/>
+            <constraint type="max" value="4" field="selections" scope="parent" shared="true" id="8393-a1ba-9d4a-7fb6" includeChildSelections="false"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="0"/>
+          </costs>
+        </entryLink>
+      </entryLinks>
+    </selectionEntry>
+    <selectionEntry type="upgrade" import="true" name="E-100 Heavy Platoon" hidden="false" id="8d73-f0b6-7800-bb09">
+      <categoryLinks>
+        <categoryLink targetId="d848-a65e-d12d-753a" id="715b-5d4f-f658-99bc" primary="true" name="Support Units"/>
+      </categoryLinks>
+      <modifierGroups>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="add" value="5d61-0258-0ff7-f8d6" field="category"/>
+            <modifier type="remove" value="d848-a65e-d12d-753a" field="category"/>
+            <modifier type="set-primary" value="5d61-0258-0ff7-f8d6" field="category"/>
+          </modifiers>
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition type="instanceOf" value="1" field="selections" scope="force" childId="514b-3158-1404-e7fa" shared="true" includeChildSelections="true"/>
+                <condition type="instanceOf" value="1" field="selections" scope="force" childId="default-force" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifierGroup>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="set" value="31" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="2" field="selections" scope="self" childId="509e-7059-94cc-3eb0" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="46" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="3" field="selections" scope="self" childId="509e-7059-94cc-3eb0" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="61" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="4" field="selections" scope="self" childId="509e-7059-94cc-3eb0" shared="true"/>
+              </conditions>
+            </modifier>
+          </modifiers>
+        </modifierGroup>
+      </modifierGroups>
+      <entryLinks>
+        <entryLink import="true" name="E-100" hidden="false" id="8f39-8951-e876-7c6a" type="selectionEntry" targetId="509e-7059-94cc-3eb0" defaultAmount="2">
+          <constraints>
+            <constraint type="min" value="2" field="selections" scope="parent" shared="true" id="85a7-c3d8-a289-9479" includeChildSelections="false"/>
+            <constraint type="max" value="4" field="selections" scope="parent" shared="true" id="387c-b2b9-448a-77c3" includeChildSelections="false"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="0"/>
+          </costs>
+        </entryLink>
+      </entryLinks>
+    </selectionEntry>
+    <selectionEntry type="upgrade" import="true" name="E-100 15cm Heavy Platoon" hidden="false" id="f673-51a8-2f7a-a1c5">
+      <categoryLinks>
+        <categoryLink targetId="d848-a65e-d12d-753a" id="50cc-762b-0573-e8b1" primary="true" name="Support Units"/>
+      </categoryLinks>
+      <modifierGroups>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="add" value="5d61-0258-0ff7-f8d6" field="category"/>
+            <modifier type="remove" value="d848-a65e-d12d-753a" field="category"/>
+            <modifier type="set-primary" value="5d61-0258-0ff7-f8d6" field="category"/>
+          </modifiers>
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition type="instanceOf" value="1" field="selections" scope="force" childId="514b-3158-1404-e7fa" shared="true" includeChildSelections="true"/>
+                <condition type="instanceOf" value="1" field="selections" scope="force" childId="default-force" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifierGroup>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="set" value="39" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="2" field="selections" scope="self" childId="bf26-61a8-37a6-66f8" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="59" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="3" field="selections" scope="self" childId="bf26-61a8-37a6-66f8" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="79" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="4" field="selections" scope="self" childId="bf26-61a8-37a6-66f8" shared="true"/>
+              </conditions>
+            </modifier>
+          </modifiers>
+        </modifierGroup>
+      </modifierGroups>
+      <entryLinks>
+        <entryLink import="true" name="E-100 15cm" hidden="false" id="6a8f-ef48-cd75-8dde" type="selectionEntry" targetId="bf26-61a8-37a6-66f8" defaultAmount="2">
+          <constraints>
+            <constraint type="min" value="2" field="selections" scope="parent" shared="true" id="6c6f-c9c5-6c2a-ebf4" includeChildSelections="false"/>
+            <constraint type="max" value="4" field="selections" scope="parent" shared="true" id="397f-b1f2-cc65-eddb" includeChildSelections="false"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="0"/>
+          </costs>
+        </entryLink>
+      </entryLinks>
+    </selectionEntry>
+    <selectionEntry type="upgrade" import="true" name="E-100 HQ" hidden="true" id="fe59-4ca0-61c4-0940">
+      <categoryLinks>
+        <categoryLink targetId="a812-7443-1e32-9656" id="3a08-b66a-b1c6-85f8" primary="true" name="Headquarters"/>
+      </categoryLinks>
+      <modifierGroups>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="set" value="false" field="hidden"/>
+          </modifiers>
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition type="instanceOf" value="1" field="selections" scope="force" childId="514b-3158-1404-e7fa" shared="true" includeChildSelections="true"/>
+                <condition type="instanceOf" value="1" field="selections" scope="force" childId="default-force" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifierGroup>
+      </modifierGroups>
+      <selectionEntryGroups>
+        <selectionEntryGroup name="Configuration" id="e960-3c65-fd90-352c" hidden="false">
+          <entryLinks>
+            <entryLink import="true" name="E-100" hidden="false" id="8f14-c189-a2c9-07c2" type="selectionEntry" targetId="509e-7059-94cc-3eb0" defaultAmount="1">
+              <constraints>
+                <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="17bc-2514-44cc-baae" includeChildSelections="false"/>
+                <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="2831-b104-724d-2250" includeChildSelections="false"/>
+              </constraints>
+              <costs>
+                <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="15"/>
+              </costs>
+              <modifiers>
+                <modifier type="set" value="15.5" field="da7c-c0bb-4deb-9f7c">
+                  <conditions>
+                    <condition type="atLeast" value="2" field="selections" scope="parent" childId="509e-7059-94cc-3eb0" shared="true"/>
+                  </conditions>
+                </modifier>
+              </modifiers>
+            </entryLink>
+            <entryLink import="true" name="Commander Abilities" hidden="false" id="45cd-2339-d1c1-4fa8" type="selectionEntryGroup" targetId="bbb5-2553-4bf9-ec5a"/>
+          </entryLinks>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+    </selectionEntry>
+    <selectionEntry type="upgrade" import="true" name="E-100 15cm HQ" hidden="true" id="0a46-9476-6e0d-7c86">
+      <categoryLinks>
+        <categoryLink targetId="a812-7443-1e32-9656" id="1dff-46e7-f77a-0b2b" primary="true" name="Headquarters"/>
+      </categoryLinks>
+      <modifierGroups>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="set" value="false" field="hidden"/>
+          </modifiers>
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition type="instanceOf" value="1" field="selections" scope="force" childId="514b-3158-1404-e7fa" shared="true" includeChildSelections="true"/>
+                <condition type="instanceOf" value="1" field="selections" scope="force" childId="default-force" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifierGroup>
+      </modifierGroups>
+      <selectionEntryGroups>
+        <selectionEntryGroup name="Configuration" id="0c82-c101-90ef-cbba" hidden="false">
+          <entryLinks>
+            <entryLink import="true" name="E-100 15cm" hidden="false" id="47f5-5365-aeea-a6ad" type="selectionEntry" targetId="bf26-61a8-37a6-66f8" defaultAmount="1">
+              <constraints>
+                <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="9347-4177-7076-9c7c" includeChildSelections="false"/>
+                <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="d126-ad36-8cfa-71a1" includeChildSelections="false"/>
+              </constraints>
+              <costs>
+                <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="20"/>
+              </costs>
+              <modifiers>
+                <modifier type="set" value="19.5" field="da7c-c0bb-4deb-9f7c">
+                  <conditions>
+                    <condition type="atLeast" value="2" field="selections" scope="parent" childId="bf26-61a8-37a6-66f8" shared="true"/>
+                  </conditions>
+                </modifier>
+              </modifiers>
+            </entryLink>
+            <entryLink import="true" name="Commander Abilities" hidden="false" id="5e91-2aa7-63bf-75e6" type="selectionEntryGroup" targetId="bbb5-2553-4bf9-ec5a"/>
+          </entryLinks>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+    </selectionEntry>
+    <selectionEntry type="upgrade" import="true" name="Skorpion HQ" hidden="true" id="1722-25b3-20b0-e999">
+      <categoryLinks>
+        <categoryLink targetId="a812-7443-1e32-9656" id="3b1e-15a9-fc1e-2729" primary="true" name="Headquarters"/>
+      </categoryLinks>
+      <modifierGroups>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="set" value="false" field="hidden"/>
+          </modifiers>
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition type="instanceOf" value="1" field="selections" scope="force" childId="514b-3158-1404-e7fa" shared="true" includeChildSelections="true"/>
+                <condition type="instanceOf" value="1" field="selections" scope="force" childId="default-force" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifierGroup>
+      </modifierGroups>
+      <selectionEntryGroups>
+        <selectionEntryGroup name="Configuration" id="8c61-53b5-f913-625e" hidden="false">
+          <entryLinks>
+            <entryLink import="true" name="Skorpion" hidden="false" id="60f0-499a-b1b7-108c" type="selectionEntry" targetId="7ddb-5e46-45c2-b159" defaultAmount="1">
+              <constraints>
+                <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="65bc-d3e2-9b2e-382a" includeChildSelections="false"/>
+                <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="f96e-3bd8-f9f0-fac8" includeChildSelections="false"/>
+              </constraints>
+              <costs>
+                <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="6"/>
+              </costs>
+              <modifiers>
+                <modifier type="set" value="5.5" field="da7c-c0bb-4deb-9f7c">
+                  <conditions>
+                    <condition type="atLeast" value="2" field="selections" scope="parent" childId="7ddb-5e46-45c2-b159" shared="true"/>
+                  </conditions>
+                </modifier>
+              </modifiers>
+            </entryLink>
+            <entryLink import="true" name="Commander Abilities" hidden="false" id="a14b-bebe-8d39-c5ee" type="selectionEntryGroup" targetId="bbb5-2553-4bf9-ec5a"/>
+          </entryLinks>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+    </selectionEntry>
+    <selectionEntry type="upgrade" import="true" name="Leopard Platoon" hidden="false" id="637e-a160-2779-37cd">
+      <categoryLinks>
+        <categoryLink targetId="d848-a65e-d12d-753a" id="fc16-3b6c-6bdc-d9fc" primary="true" name="Support Units"/>
+      </categoryLinks>
+      <modifierGroups>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="add" value="5d61-0258-0ff7-f8d6" field="category"/>
+            <modifier type="remove" value="d848-a65e-d12d-753a" field="category"/>
+            <modifier type="set-primary" value="5d61-0258-0ff7-f8d6" field="category"/>
+          </modifiers>
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition type="instanceOf" value="1" field="selections" scope="force" childId="default-force" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifierGroup>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="set" value="16" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="2" field="selections" scope="self" childId="26e6-2d6c-ed79-218f" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="24" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="3" field="selections" scope="self" childId="26e6-2d6c-ed79-218f" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="32" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="4" field="selections" scope="self" childId="26e6-2d6c-ed79-218f" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="40" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="5" field="selections" scope="self" childId="26e6-2d6c-ed79-218f" shared="true"/>
+              </conditions>
+            </modifier>
+          </modifiers>
+        </modifierGroup>
+      </modifierGroups>
+      <entryLinks>
+        <entryLink import="true" name="Leopard" hidden="false" id="d92d-6241-95e5-b2be" type="selectionEntry" targetId="26e6-2d6c-ed79-218f" defaultAmount="2">
+          <constraints>
+            <constraint type="min" value="2" field="selections" scope="parent" shared="true" id="3433-6174-eef3-733d" includeChildSelections="false"/>
+            <constraint type="max" value="5" field="selections" scope="parent" shared="true" id="f1d5-5c4a-20a7-f727" includeChildSelections="false"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="0"/>
+          </costs>
+        </entryLink>
+      </entryLinks>
+    </selectionEntry>
+    <selectionEntry type="upgrade" import="true" name="Leopard HQ" hidden="true" id="5d0a-20da-aff6-dc4c">
+      <categoryLinks>
+        <categoryLink targetId="a812-7443-1e32-9656" id="0eab-608f-1f67-e525" primary="true" name="Headquarters"/>
+      </categoryLinks>
+      <modifierGroups>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="set" value="false" field="hidden"/>
+          </modifiers>
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition type="instanceOf" value="1" field="selections" scope="force" childId="default-force" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifierGroup>
+      </modifierGroups>
+      <selectionEntryGroups>
+        <selectionEntryGroup name="Configuration" id="904a-8705-3cfc-4079" hidden="false">
+          <entryLinks>
+            <entryLink import="true" name="Leopard" hidden="false" id="aa2c-67d2-284e-bd55" type="selectionEntry" targetId="26e6-2d6c-ed79-218f" defaultAmount="1">
+              <constraints>
+                <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="ab14-fb27-5e7f-d893" includeChildSelections="false"/>
+                <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="08d5-b3d7-5c47-eb53" includeChildSelections="false"/>
+              </constraints>
+              <costs>
+                <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="8"/>
+              </costs>
+            </entryLink>
+            <entryLink import="true" name="Commander Abilities" hidden="false" id="a769-2016-9e8c-6e91" type="selectionEntryGroup" targetId="bbb5-2553-4bf9-ec5a"/>
+          </entryLinks>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+    </selectionEntry>
+    <selectionEntry type="upgrade" import="true" name="E-100 Jagdpanzer Platoon" hidden="false" id="b483-38c9-d1bc-f2d6">
+      <categoryLinks>
+        <categoryLink targetId="d848-a65e-d12d-753a" id="e2e8-d203-0efa-7c57" primary="true" name="Support Units"/>
+      </categoryLinks>
+      <modifierGroups>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="add" value="5d61-0258-0ff7-f8d6" field="category"/>
+            <modifier type="remove" value="d848-a65e-d12d-753a" field="category"/>
+            <modifier type="set-primary" value="5d61-0258-0ff7-f8d6" field="category"/>
+          </modifiers>
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition type="instanceOf" value="1" field="selections" scope="force" childId="default-force" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifierGroup>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="set" value="35" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="2" field="selections" scope="self" childId="d388-d030-d2c3-37e0" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="52" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="3" field="selections" scope="self" childId="d388-d030-d2c3-37e0" shared="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="set" value="69" field="da7c-c0bb-4deb-9f7c">
+              <conditions>
+                <condition type="equalTo" value="4" field="selections" scope="self" childId="d388-d030-d2c3-37e0" shared="true"/>
+              </conditions>
+            </modifier>
+          </modifiers>
+        </modifierGroup>
+      </modifierGroups>
+      <entryLinks>
+        <entryLink import="true" name="E-100 Jagdpanzer" hidden="false" id="510d-5824-b33d-0ea4" type="selectionEntry" targetId="d388-d030-d2c3-37e0" defaultAmount="2">
+          <constraints>
+            <constraint type="min" value="2" field="selections" scope="parent" shared="true" id="7e7c-d8b2-082f-92cc" includeChildSelections="false"/>
+            <constraint type="max" value="4" field="selections" scope="parent" shared="true" id="8514-593b-4214-787f" includeChildSelections="false"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="0"/>
+          </costs>
+        </entryLink>
+      </entryLinks>
+    </selectionEntry>
+    <selectionEntry type="upgrade" import="true" name="E-100 Jagdpanzer HQ" hidden="true" id="ee51-ea84-567b-7e55">
+      <categoryLinks>
+        <categoryLink targetId="a812-7443-1e32-9656" id="20f3-8d37-e119-ddfe" primary="true" name="Headquarters"/>
+      </categoryLinks>
+      <modifierGroups>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="set" value="false" field="hidden"/>
+          </modifiers>
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition type="instanceOf" value="1" field="selections" scope="force" childId="default-force" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifierGroup>
+      </modifierGroups>
+      <selectionEntryGroups>
+        <selectionEntryGroup name="Configuration" id="2c8f-d509-79ba-3c46" hidden="false">
+          <entryLinks>
+            <entryLink import="true" name="E-100 Jagdpanzer" hidden="false" id="3bbe-198f-12cc-2af8" type="selectionEntry" targetId="d388-d030-d2c3-37e0" defaultAmount="1">
+              <constraints>
+                <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="9e74-b418-cb92-c66c" includeChildSelections="false"/>
+                <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="decf-673d-a841-6c99" includeChildSelections="false"/>
+              </constraints>
+              <costs>
+                <cost name="Points" typeId="da7c-c0bb-4deb-9f7c" value="17"/>
+              </costs>
+              <modifiers>
+                <modifier type="set" value="17.5" field="da7c-c0bb-4deb-9f7c">
+                  <conditions>
+                    <condition type="atLeast" value="2" field="selections" scope="parent" childId="d388-d030-d2c3-37e0" shared="true"/>
+                  </conditions>
+                </modifier>
+              </modifiers>
+            </entryLink>
+            <entryLink import="true" name="Commander Abilities" hidden="false" id="4cab-3aac-7776-7381" type="selectionEntryGroup" targetId="bbb5-2553-4bf9-ec5a"/>
+          </entryLinks>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+    </selectionEntry>
+  </selectionEntries>
+</catalogue>
