@@ -1,7 +1,7 @@
 # Clash of Steel #
 
 
-[![Latest release](https://img.shields.io/github/release/BSData/clash-of-steel.svg?style=flat-square)](https://github.com/dafrandle/clash-of-steel/releases/latest)
+[![Latest release](https://img.shields.io/github/release/dafrandle/clash-of-steel.svg?style=flat-square)](https://github.com/dafrandle/clash-of-steel/releases/latest)
 [![Commits (since latest release)](https://img.shields.io/github/commits-since/dafrandle/clash-of-steel/latest.svg?style=flat-square)](https://github.com/dafrandle/clash-of-steel/releases)
 [![Open bugs](https://img.shields.io/github/issues/dafrandle/clash-of-steel/bug.svg?style=flat-square&label=bugs)](https://github.com/dafrandle/clash-of-steel/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
 [![Contributors](https://img.shields.io/github/contributors/dafrandle/clash-of-steel.svg?style=flat-square)](https://github.com/dafrandle/clash-of-steel/graphs/contributors)
