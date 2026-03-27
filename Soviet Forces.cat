@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue library="false" id="6ba6-a3cf-f21e-28ee" name="Soviet Forces" gameSystemId="sys-b3a3-585f-272b-852a" gameSystemRevision="1" revision="1" battleScribeVersion="2.03" type="catalogue" xmlns="http://www.battlescribe.net/schema/catalogueSchema" publicationId="20c6-6e7c-b0f8-556d">
+<catalogue library="false" id="6ba6-a3cf-f21e-28ee" name="Soviet Forces" gameSystemId="sys-b3a3-585f-272b-852a" gameSystemRevision="1" revision="2" battleScribeVersion="2.03" type="catalogue" xmlns="http://www.battlescribe.net/schema/catalogueSchema" publicationId="20c6-6e7c-b0f8-556d">
   <selectionEntries>
     <selectionEntry type="unit" import="true" name="SU-100 Tank-Killer Battery" hidden="false" id="8e4e-9367-a7a1-c618">
       <modifierGroups>
