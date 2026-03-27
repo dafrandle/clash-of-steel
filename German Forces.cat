@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue library="false" id="331a-91ea-70fa-3bcc" name="German Forces" gameSystemId="sys-b3a3-585f-272b-852a" gameSystemRevision="1" revision="1" battleScribeVersion="2.03" type="catalogue" xmlns="http://www.battlescribe.net/schema/catalogueSchema" publicationId="ac93-79cd-a151-c7f6">
+<catalogue library="false" id="331a-91ea-70fa-3bcc" name="German Forces" gameSystemId="sys-b3a3-585f-272b-852a" gameSystemRevision="1" revision="2" battleScribeVersion="2.03" type="catalogue" xmlns="http://www.battlescribe.net/schema/catalogueSchema" publicationId="ac93-79cd-a151-c7f6">
   <sharedProfiles>
     <profile name="8.8cm KwK36" typeId="ad40-0c46-5bb9-f1b5" typeName="Weapon" hidden="false" id="d3b1-aa72-2dd4-06ce">
       <characteristics>
@@ -242,7 +242,7 @@
         </infoLink>
       </infoLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="Puma" hidden="false" id="1c82-050e-221d-87c9">
+    <selectionEntry type="model" import="true" name="Puma" hidden="false" id="1c82-050e-221d-87c9">
       <profiles>
         <profile name="Puma" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="a2b0-c3b4-02a2-cb35">
           <characteristics>
@@ -272,7 +272,7 @@
         <infoLink name="5cm KwK39" id="720f-01b9-066e-8111" hidden="false" type="profile" targetId="01d2-d99f-0073-a6e1"/>
       </infoLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="Sd Kfz 234/4" hidden="false" id="7bd6-e966-07c7-8500">
+    <selectionEntry type="model" import="true" name="Sd Kfz 234/4" hidden="false" id="7bd6-e966-07c7-8500">
       <profiles>
         <profile name="Sd Kfz 234/4" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="3243-114f-ad1f-0276">
           <characteristics>
@@ -307,7 +307,7 @@
         <infoLink name="Assault Gun" id="88cc-8a8e-24b1-579b" hidden="false" type="rule" targetId="bee6-2ba7-9518-20c0"/>
       </infoLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="Panther" hidden="false" id="b49b-1e06-a40a-ea6e">
+    <selectionEntry type="model" import="true" name="Panther" hidden="false" id="b49b-1e06-a40a-ea6e">
       <profiles>
         <profile name="Panther" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="fcb6-57a6-49b9-6f09">
           <characteristics>
@@ -335,7 +335,7 @@
         <infoLink name="Stormtroopers" id="0c16-886f-302f-1341" hidden="false" type="rule" targetId="a72f-7554-662a-c9f2"/>
       </infoLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="Jagdtiger" hidden="false" id="e3ca-2a0a-9e6b-41f7">
+    <selectionEntry type="model" import="true" name="Jagdtiger" hidden="false" id="e3ca-2a0a-9e6b-41f7">
       <profiles>
         <profile name="Jagdtiger" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="2706-08ef-3f9d-681f">
           <characteristics>
@@ -369,7 +369,7 @@
         <infoLink name="Slow Firing" id="6d15-e958-ce39-ad99" hidden="false" type="rule" targetId="f6d5-b2f5-f2c8-5f04"/>
       </infoLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="Panther 88" hidden="false" id="38db-c3c5-56d8-6a01">
+    <selectionEntry type="model" import="true" name="Panther 88" hidden="false" id="38db-c3c5-56d8-6a01">
       <profiles>
         <profile name="Panther" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="729f-b929-dc1c-34a9">
           <characteristics>
@@ -402,7 +402,7 @@
         <infoLink name="Accurate" id="0ab0-18f3-f0e2-8eb9" hidden="false" type="rule" targetId="bbde-b019-6eaa-cd72"/>
       </infoLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="Tiger" hidden="false" id="caec-3ffd-ac51-d284">
+    <selectionEntry type="model" import="true" name="Tiger" hidden="false" id="caec-3ffd-ac51-d284">
       <profiles>
         <profile name="Tiger" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="deea-313d-e78a-c01b">
           <characteristics>
@@ -431,7 +431,7 @@
         <infoLink name="Protected Ammo" id="8e9d-7f89-e81c-bf59" hidden="false" type="rule" targetId="8942-bf87-800c-b3f7"/>
       </infoLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="King Tiger" hidden="false" id="74ae-c241-f60f-4484">
+    <selectionEntry type="model" import="true" name="King Tiger" hidden="false" id="74ae-c241-f60f-4484">
       <profiles>
         <profile name="King Tiger" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="f844-82a0-fa58-f31b">
           <characteristics>
@@ -459,7 +459,7 @@
         <infoLink name="Stormtroopers" id="d541-204f-c581-e618" hidden="false" type="rule" targetId="a72f-7554-662a-c9f2"/>
       </infoLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="Maus" hidden="false" id="bd10-7c71-672e-898a">
+    <selectionEntry type="model" import="true" name="Maus" hidden="false" id="bd10-7c71-672e-898a">
       <profiles>
         <profile name="Maus" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="a0b1-5a1e-0f00-7c3c">
           <characteristics>
@@ -492,7 +492,7 @@
         <infoLink name="Slow Firing" id="d51f-d5d5-323f-2358" hidden="false" type="rule" targetId="f6d5-b2f5-f2c8-5f04"/>
       </infoLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="Skorpion" hidden="false" id="7ddb-5e46-45c2-b159">
+    <selectionEntry type="model" import="true" name="Skorpion" hidden="false" id="7ddb-5e46-45c2-b159">
       <profiles>
         <profile name="Skorpion" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="07c1-f796-4e82-7dd2">
           <characteristics>
@@ -525,7 +525,7 @@
         <infoLink name="Slow Firing" id="9e8c-87e1-bd2f-3bd2" hidden="false" type="rule" targetId="f6d5-b2f5-f2c8-5f04"/>
       </infoLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="E-100" hidden="false" id="509e-7059-94cc-3eb0">
+    <selectionEntry type="model" import="true" name="E-100" hidden="false" id="509e-7059-94cc-3eb0">
       <profiles>
         <profile name="E-100" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="d9cc-0282-1074-251b">
           <characteristics>
@@ -560,7 +560,7 @@
         <infoLink name="Accurate" id="9fb5-c518-4f6b-438d" hidden="false" type="rule" targetId="bbde-b019-6eaa-cd72"/>
       </infoLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="E-100 15cm" hidden="false" id="bf26-61a8-37a6-66f8">
+    <selectionEntry type="model" import="true" name="E-100 15cm" hidden="false" id="bf26-61a8-37a6-66f8">
       <profiles>
         <profile name="E-100" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="454d-7b34-0218-4356">
           <characteristics>
@@ -596,7 +596,7 @@
         <infoLink name="Accurate" id="a912-7e97-9b38-1ad6" hidden="false" type="rule" targetId="bbde-b019-6eaa-cd72"/>
       </infoLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="E-100 Jagdpanzer" hidden="false" id="d388-d030-d2c3-37e0">
+    <selectionEntry type="model" import="true" name="E-100 Jagdpanzer" hidden="false" id="d388-d030-d2c3-37e0">
       <profiles>
         <profile name="E-100 Jagdpanzer" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="b238-80c0-4de7-0eee">
           <characteristics>
@@ -633,7 +633,7 @@
         <infoLink name="Assault Gun" id="8b88-fa5b-6762-83de" hidden="false" type="rule" targetId="bee6-2ba7-9518-20c0"/>
       </infoLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="Leopard" hidden="false" id="26e6-2d6c-ed79-218f">
+    <selectionEntry type="model" import="true" name="Leopard" hidden="false" id="26e6-2d6c-ed79-218f">
       <profiles>
         <profile name="Leopard" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="a5ba-9ddc-a556-6c3d">
           <characteristics>
@@ -670,7 +670,7 @@
     </selectionEntry>
   </sharedSelectionEntries>
   <selectionEntries>
-    <selectionEntry type="upgrade" import="true" name="Panzer IV/70 Tank-Hunter Platoon" hidden="true" id="6f77-e7e3-2cdc-f220">
+    <selectionEntry type="unit" import="true" name="Panzer IV/70 Tank-Hunter Platoon" hidden="true" id="6f77-e7e3-2cdc-f220">
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -710,7 +710,7 @@
         </entryLink>
       </entryLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="Jagdpanther Tank-Hunter Platoon" hidden="true" id="2b38-283c-9268-bc41">
+    <selectionEntry type="unit" import="true" name="Jagdpanther Tank-Hunter Platoon" hidden="true" id="2b38-283c-9268-bc41">
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -750,7 +750,7 @@
         </entryLink>
       </entryLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="Nashorn Tank-Hunter Platoon" hidden="true" id="a33a-87b1-74a4-cfd6">
+    <selectionEntry type="unit" import="true" name="Nashorn Tank-Hunter Platoon" hidden="true" id="a33a-87b1-74a4-cfd6">
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -790,7 +790,7 @@
         </entryLink>
       </entryLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="Puma Scout Troop" hidden="true" id="4f00-8d41-137d-1f27">
+    <selectionEntry type="unit" import="true" name="Puma Scout Troop" hidden="true" id="4f00-8d41-137d-1f27">
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -836,7 +836,7 @@
         </entryLink>
       </entryLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="Jagdtiger Tank-Hunter Platoon" hidden="false" id="bb9c-44f6-7ed1-13a7">
+    <selectionEntry type="unit" import="true" name="Jagdtiger Tank-Hunter Platoon" hidden="false" id="bb9c-44f6-7ed1-13a7">
       <categoryLinks>
         <categoryLink targetId="d848-a65e-d12d-753a" id="a584-10f8-4401-b716" primary="true" name="Support Units"/>
       </categoryLinks>
@@ -868,7 +868,7 @@
         </entryLink>
       </entryLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="Panther 88 Platoon" hidden="false" id="15b9-4dda-02a6-8955">
+    <selectionEntry type="unit" import="true" name="Panther 88 Platoon" hidden="false" id="15b9-4dda-02a6-8955">
       <categoryLinks>
         <categoryLink targetId="d848-a65e-d12d-753a" id="c6a3-7d6b-7dc6-321c" primary="true" name="Support Units"/>
       </categoryLinks>
@@ -921,7 +921,7 @@
         </entryLink>
       </entryLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="Panther Scout Troop" hidden="false" id="b64d-3cda-5190-9a30">
+    <selectionEntry type="unit" import="true" name="Panther Scout Troop" hidden="false" id="b64d-3cda-5190-9a30">
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -960,7 +960,7 @@
         </entryLink>
       </entryLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="Panther Platoon" hidden="false" id="cb2a-597f-d907-a1b4">
+    <selectionEntry type="unit" import="true" name="Panther Platoon" hidden="false" id="cb2a-597f-d907-a1b4">
       <categoryLinks>
         <categoryLink targetId="d848-a65e-d12d-753a" id="2692-b59d-8b75-0d95" primary="true" name="Support Units"/>
       </categoryLinks>
@@ -1012,7 +1012,7 @@
         </entryLink>
       </entryLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="Tiger Platoon" hidden="false" id="a7d9-bf62-789a-4d90">
+    <selectionEntry type="unit" import="true" name="Tiger Platoon" hidden="false" id="a7d9-bf62-789a-4d90">
       <categoryLinks>
         <categoryLink targetId="d848-a65e-d12d-753a" id="f741-8283-bbea-395b" primary="true" name="Support Units"/>
       </categoryLinks>
@@ -1063,7 +1063,7 @@
         </entryLink>
       </entryLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="King Tiger Heavy Platoon" hidden="false" id="1672-fbb6-bc6f-29fc">
+    <selectionEntry type="unit" import="true" name="King Tiger Heavy Platoon" hidden="false" id="1672-fbb6-bc6f-29fc">
       <categoryLinks>
         <categoryLink targetId="d848-a65e-d12d-753a" id="a233-f74b-e55b-c4c3" primary="true" name="Support Units"/>
       </categoryLinks>
@@ -1103,7 +1103,7 @@
         </modifierGroup>
       </modifierGroups>
       <entryLinks>
-        <entryLink import="true" name="Tiger II" hidden="false" id="f579-0894-5ba0-080c" type="selectionEntry" targetId="74ae-c241-f60f-4484" defaultAmount="2">
+        <entryLink import="true" name="King Tiger" hidden="false" id="f579-0894-5ba0-080c" type="selectionEntry" targetId="74ae-c241-f60f-4484" defaultAmount="2">
           <constraints>
             <constraint type="min" value="2" field="selections" scope="parent" shared="true" id="aecd-3131-5ffb-db6a" includeChildSelections="false"/>
             <constraint type="max" value="4" field="selections" scope="parent" shared="true" id="9f58-22f7-152e-5a6e" includeChildSelections="false"/>
@@ -1114,7 +1114,7 @@
         </entryLink>
       </entryLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="Maus Heavy Platoon" hidden="false" id="2579-3dc5-f65f-51e9">
+    <selectionEntry type="unit" import="true" name="Maus Heavy Platoon" hidden="false" id="2579-3dc5-f65f-51e9">
       <categoryLinks>
         <categoryLink targetId="d848-a65e-d12d-753a" id="8541-58c7-136d-2f5b" primary="true" name="Support Units"/>
       </categoryLinks>
@@ -1166,7 +1166,7 @@
         </entryLink>
       </entryLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="Maus HQ" hidden="true" id="ae6e-711b-5c13-f9b4">
+    <selectionEntry type="unit" import="true" name="Maus HQ" hidden="true" id="ae6e-711b-5c13-f9b4">
       <categoryLinks>
         <categoryLink targetId="a812-7443-1e32-9656" id="9647-496f-61da-476e" primary="true" name="Headquarters"/>
       </categoryLinks>
@@ -1202,7 +1202,7 @@
         </selectionEntryGroup>
       </selectionEntryGroups>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="Panther 88 HQ" hidden="true" id="090f-7479-54da-1a64">
+    <selectionEntry type="unit" import="true" name="Panther 88 HQ" hidden="true" id="090f-7479-54da-1a64">
       <categoryLinks>
         <categoryLink targetId="a812-7443-1e32-9656" id="f67a-e919-9895-7331" primary="true" name="Headquarters"/>
       </categoryLinks>
@@ -1238,7 +1238,7 @@
         </selectionEntryGroup>
       </selectionEntryGroups>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="King Tiger HQ" hidden="true" id="97cb-c17f-8a66-4c5a">
+    <selectionEntry type="unit" import="true" name="King Tiger HQ" hidden="true" id="97cb-c17f-8a66-4c5a">
       <categoryLinks>
         <categoryLink targetId="a812-7443-1e32-9656" id="e0cd-4577-4f50-5371" primary="true" name="Headquarters"/>
       </categoryLinks>
@@ -1259,7 +1259,7 @@
       <selectionEntryGroups>
         <selectionEntryGroup name="Configuration" id="a4d2-33b2-ec9f-0a0a" hidden="false">
           <entryLinks>
-            <entryLink import="true" name="Tiger II" hidden="false" id="f8d4-1e0b-1d4d-be7b" type="selectionEntry" targetId="74ae-c241-f60f-4484" defaultAmount="1">
+            <entryLink import="true" name="King Tiger" hidden="false" id="f8d4-1e0b-1d4d-be7b" type="selectionEntry" targetId="74ae-c241-f60f-4484" defaultAmount="1">
               <constraints>
                 <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="2413-b3cc-9070-7d3e" includeChildSelections="false"/>
                 <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="351c-ebad-88a0-d3ff" includeChildSelections="false"/>
@@ -1280,7 +1280,7 @@
         </selectionEntryGroup>
       </selectionEntryGroups>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="Skorpion Tank-Hunter Platoon" hidden="false" id="ca12-ffd1-ea1b-836c">
+    <selectionEntry type="unit" import="true" name="Skorpion Tank-Hunter Platoon" hidden="false" id="ca12-ffd1-ea1b-836c">
       <categoryLinks>
         <categoryLink targetId="d848-a65e-d12d-753a" id="e156-6609-3fec-bf21" primary="true" name="Support Units"/>
       </categoryLinks>
@@ -1327,7 +1327,7 @@
         </entryLink>
       </entryLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="E-100 Heavy Platoon" hidden="false" id="8d73-f0b6-7800-bb09">
+    <selectionEntry type="unit" import="true" name="E-100 Heavy Platoon" hidden="false" id="8d73-f0b6-7800-bb09">
       <categoryLinks>
         <categoryLink targetId="d848-a65e-d12d-753a" id="715b-5d4f-f658-99bc" primary="true" name="Support Units"/>
       </categoryLinks>
@@ -1379,7 +1379,7 @@
         </entryLink>
       </entryLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="E-100 15cm Heavy Platoon" hidden="false" id="f673-51a8-2f7a-a1c5">
+    <selectionEntry type="unit" import="true" name="E-100 15cm Heavy Platoon" hidden="false" id="f673-51a8-2f7a-a1c5">
       <categoryLinks>
         <categoryLink targetId="d848-a65e-d12d-753a" id="50cc-762b-0573-e8b1" primary="true" name="Support Units"/>
       </categoryLinks>
@@ -1431,7 +1431,7 @@
         </entryLink>
       </entryLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="E-100 HQ" hidden="true" id="fe59-4ca0-61c4-0940">
+    <selectionEntry type="unit" import="true" name="E-100 HQ" hidden="true" id="fe59-4ca0-61c4-0940">
       <categoryLinks>
         <categoryLink targetId="a812-7443-1e32-9656" id="3a08-b66a-b1c6-85f8" primary="true" name="Headquarters"/>
       </categoryLinks>
@@ -1474,7 +1474,7 @@
         </selectionEntryGroup>
       </selectionEntryGroups>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="E-100 15cm HQ" hidden="true" id="0a46-9476-6e0d-7c86">
+    <selectionEntry type="unit" import="true" name="E-100 15cm HQ" hidden="true" id="0a46-9476-6e0d-7c86">
       <categoryLinks>
         <categoryLink targetId="a812-7443-1e32-9656" id="1dff-46e7-f77a-0b2b" primary="true" name="Headquarters"/>
       </categoryLinks>
@@ -1517,7 +1517,7 @@
         </selectionEntryGroup>
       </selectionEntryGroups>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="Skorpion HQ" hidden="true" id="1722-25b3-20b0-e999">
+    <selectionEntry type="unit" import="true" name="Skorpion HQ" hidden="true" id="1722-25b3-20b0-e999">
       <categoryLinks>
         <categoryLink targetId="a812-7443-1e32-9656" id="3b1e-15a9-fc1e-2729" primary="true" name="Headquarters"/>
       </categoryLinks>
@@ -1560,7 +1560,7 @@
         </selectionEntryGroup>
       </selectionEntryGroups>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="Leopard Platoon" hidden="false" id="637e-a160-2779-37cd">
+    <selectionEntry type="unit" import="true" name="Leopard Platoon" hidden="false" id="637e-a160-2779-37cd">
       <categoryLinks>
         <categoryLink targetId="d848-a65e-d12d-753a" id="fc16-3b6c-6bdc-d9fc" primary="true" name="Support Units"/>
       </categoryLinks>
@@ -1616,7 +1616,7 @@
         </entryLink>
       </entryLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="Leopard HQ" hidden="true" id="5d0a-20da-aff6-dc4c">
+    <selectionEntry type="unit" import="true" name="Leopard HQ" hidden="true" id="5d0a-20da-aff6-dc4c">
       <categoryLinks>
         <categoryLink targetId="a812-7443-1e32-9656" id="0eab-608f-1f67-e525" primary="true" name="Headquarters"/>
       </categoryLinks>
@@ -1651,7 +1651,7 @@
         </selectionEntryGroup>
       </selectionEntryGroups>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="E-100 Jagdpanzer Platoon" hidden="false" id="b483-38c9-d1bc-f2d6">
+    <selectionEntry type="unit" import="true" name="E-100 Jagdpanzer Platoon" hidden="false" id="b483-38c9-d1bc-f2d6">
       <categoryLinks>
         <categoryLink targetId="d848-a65e-d12d-753a" id="e2e8-d203-0efa-7c57" primary="true" name="Support Units"/>
       </categoryLinks>
@@ -1702,7 +1702,7 @@
         </entryLink>
       </entryLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="E-100 Jagdpanzer HQ" hidden="true" id="ee51-ea84-567b-7e55">
+    <selectionEntry type="unit" import="true" name="E-100 Jagdpanzer HQ" hidden="true" id="ee51-ea84-567b-7e55">
       <categoryLinks>
         <categoryLink targetId="a812-7443-1e32-9656" id="20f3-8d37-e119-ddfe" primary="true" name="Headquarters"/>
       </categoryLinks>

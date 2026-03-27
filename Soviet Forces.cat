@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <catalogue library="false" id="6ba6-a3cf-f21e-28ee" name="Soviet Forces" gameSystemId="sys-b3a3-585f-272b-852a" gameSystemRevision="1" revision="1" battleScribeVersion="2.03" type="catalogue" xmlns="http://www.battlescribe.net/schema/catalogueSchema" publicationId="20c6-6e7c-b0f8-556d">
   <selectionEntries>
-    <selectionEntry type="upgrade" import="true" name="SU-100 Tank-Killer Battery" hidden="false" id="8e4e-9367-a7a1-c618">
+    <selectionEntry type="unit" import="true" name="SU-100 Tank-Killer Battery" hidden="false" id="8e4e-9367-a7a1-c618">
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -35,7 +35,7 @@
         </entryLink>
       </entryLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="T-34/85 Scout Company" hidden="true" id="7a67-a4e0-659a-f45a">
+    <selectionEntry type="unit" import="true" name="T-34/85 Scout Company" hidden="true" id="7a67-a4e0-659a-f45a">
       <modifiers>
         <modifier type="set" value="false" field="hidden">
           <conditionGroups>
@@ -62,7 +62,7 @@
         </entryLink>
       </entryLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="T-54-1 Company" hidden="false" id="acbb-2dda-54ae-2e21">
+    <selectionEntry type="unit" import="true" name="T-54-1 Company" hidden="false" id="acbb-2dda-54ae-2e21">
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -126,7 +126,7 @@
         </entryLink>
       </entryLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="ISU-130 Assault Gun Battery" hidden="false" id="c685-abea-18d5-895e">
+    <selectionEntry type="unit" import="true" name="ISU-130 Assault Gun Battery" hidden="false" id="c685-abea-18d5-895e">
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -175,7 +175,7 @@
         </entryLink>
       </entryLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="ISU-152 Assault Gun Battery" hidden="false" id="4a6b-e187-44f6-1ab5">
+    <selectionEntry type="unit" import="true" name="ISU-152 Assault Gun Battery" hidden="false" id="4a6b-e187-44f6-1ab5">
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -223,7 +223,7 @@
         </entryLink>
       </entryLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="ISU-122 Assault Gun Battery" hidden="false" id="5915-2fd1-1551-9ef4">
+    <selectionEntry type="unit" import="true" name="ISU-122 Assault Gun Battery" hidden="false" id="5915-2fd1-1551-9ef4">
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -271,7 +271,7 @@
         </entryLink>
       </entryLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="T-44 Scout Company" hidden="true" id="a14e-3e25-6607-89f8">
+    <selectionEntry type="unit" import="true" name="T-44 Scout Company" hidden="true" id="a14e-3e25-6607-89f8">
       <modifiers>
         <modifier type="set" value="false" field="hidden">
           <conditionGroups>
@@ -321,7 +321,7 @@
         </modifierGroup>
       </modifierGroups>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="T-44 Company" hidden="false" id="12cb-8a9f-618f-cf0c">
+    <selectionEntry type="unit" import="true" name="T-44 Company" hidden="false" id="12cb-8a9f-618f-cf0c">
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -385,7 +385,7 @@
         </entryLink>
       </entryLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="IS-3 Heavy Company" hidden="false" id="771a-fbb0-8fcc-794c">
+    <selectionEntry type="unit" import="true" name="IS-3 Heavy Company" hidden="false" id="771a-fbb0-8fcc-794c">
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -459,7 +459,7 @@
         </entryLink>
       </entryLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="IS-2 Heavy Company" hidden="false" id="4de8-faad-f226-979b">
+    <selectionEntry type="unit" import="true" name="IS-2 Heavy Company" hidden="false" id="4de8-faad-f226-979b">
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -532,7 +532,7 @@
         </entryLink>
       </entryLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="T-54-1 HQ" hidden="true" id="74fc-d166-38a1-d5a5">
+    <selectionEntry type="unit" import="true" name="T-54-1 HQ" hidden="true" id="74fc-d166-38a1-d5a5">
       <categoryLinks>
         <categoryLink targetId="a812-7443-1e32-9656" id="b376-01aa-6f21-b771" primary="true" name="Headquarters"/>
       </categoryLinks>
@@ -565,7 +565,7 @@
         </selectionEntryGroup>
       </selectionEntryGroups>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="IS-2 HQ" hidden="true" id="c486-0a13-fe95-14b5">
+    <selectionEntry type="unit" import="true" name="IS-2 HQ" hidden="true" id="c486-0a13-fe95-14b5">
       <categoryLinks>
         <categoryLink targetId="a812-7443-1e32-9656" id="ae39-4549-3baa-169c" primary="true" name="Headquarters"/>
       </categoryLinks>
@@ -597,7 +597,7 @@
         </selectionEntryGroup>
       </selectionEntryGroups>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="T-44 HQ" hidden="true" id="55b7-7ae0-663c-20f5">
+    <selectionEntry type="unit" import="true" name="T-44 HQ" hidden="true" id="55b7-7ae0-663c-20f5">
       <categoryLinks>
         <categoryLink targetId="a812-7443-1e32-9656" id="dba9-f08b-5d61-8709" primary="true" name="Headquarters"/>
       </categoryLinks>
@@ -630,7 +630,7 @@
         </selectionEntryGroup>
       </selectionEntryGroups>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="IS-3 HQ" hidden="true" id="47f3-16df-61f8-bf81">
+    <selectionEntry type="unit" import="true" name="IS-3 HQ" hidden="true" id="47f3-16df-61f8-bf81">
       <categoryLinks>
         <categoryLink targetId="a812-7443-1e32-9656" id="3895-9ed1-7bac-07fb" primary="true" name="Headquarters"/>
       </categoryLinks>
@@ -663,7 +663,7 @@
         </selectionEntryGroup>
       </selectionEntryGroups>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="IS-7 Heavy Company" hidden="false" id="087b-b9da-5caf-3222">
+    <selectionEntry type="unit" import="true" name="IS-7 Heavy Company" hidden="false" id="087b-b9da-5caf-3222">
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -737,7 +737,7 @@
         </entryLink>
       </entryLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="IS-7 HQ" hidden="true" id="68df-e520-633a-93ca">
+    <selectionEntry type="unit" import="true" name="IS-7 HQ" hidden="true" id="68df-e520-633a-93ca">
       <categoryLinks>
         <categoryLink targetId="a812-7443-1e32-9656" id="d8d1-f8ce-7d71-f469" primary="true" name="Headquarters"/>
       </categoryLinks>
@@ -770,7 +770,7 @@
         </selectionEntryGroup>
       </selectionEntryGroups>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="T-54-3 Company" hidden="false" id="1710-74d5-baed-07c2">
+    <selectionEntry type="unit" import="true" name="T-54-3 Company" hidden="false" id="1710-74d5-baed-07c2">
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -834,7 +834,7 @@
         </entryLink>
       </entryLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="T-54-3 HQ" hidden="true" id="77df-d8f4-09c4-e328">
+    <selectionEntry type="unit" import="true" name="T-54-3 HQ" hidden="true" id="77df-d8f4-09c4-e328">
       <categoryLinks>
         <categoryLink targetId="a812-7443-1e32-9656" id="bf6e-b353-cf85-1edb" primary="true" name="Headquarters"/>
       </categoryLinks>
@@ -867,7 +867,7 @@
         </selectionEntryGroup>
       </selectionEntryGroups>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="T-62 HQ" hidden="true" id="f664-5ec0-8877-3a50">
+    <selectionEntry type="unit" import="true" name="T-62 HQ" hidden="true" id="f664-5ec0-8877-3a50">
       <categoryLinks>
         <categoryLink targetId="a812-7443-1e32-9656" id="8bba-1184-8640-675f" primary="true" name="Headquarters"/>
       </categoryLinks>
@@ -899,7 +899,7 @@
         </selectionEntryGroup>
       </selectionEntryGroups>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="T-62 Company" hidden="false" id="a43a-3d2c-ad2e-afc4">
+    <selectionEntry type="unit" import="true" name="T-62 Company" hidden="false" id="a43a-3d2c-ad2e-afc4">
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -972,7 +972,7 @@
         </entryLink>
       </entryLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="T-10 Heavy Company" hidden="false" id="0763-8a08-7d7e-b80f">
+    <selectionEntry type="unit" import="true" name="T-10 Heavy Company" hidden="false" id="0763-8a08-7d7e-b80f">
       <modifierGroups>
         <modifierGroup type="and">
           <modifiers>
@@ -1045,7 +1045,7 @@
         </entryLink>
       </entryLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="T-10 HQ" hidden="true" id="cff8-081e-7d98-74d6">
+    <selectionEntry type="unit" import="true" name="T-10 HQ" hidden="true" id="cff8-081e-7d98-74d6">
       <categoryLinks>
         <categoryLink targetId="a812-7443-1e32-9656" id="e121-05c9-80c3-8784" primary="true" name="Headquarters"/>
       </categoryLinks>
@@ -1181,7 +1181,7 @@
     </profile>
   </sharedProfiles>
   <sharedSelectionEntries>
-    <selectionEntry type="upgrade" import="true" name="SU-100" hidden="false" id="b6e8-80aa-144a-bdb5">
+    <selectionEntry type="model" import="true" name="SU-100" hidden="false" id="b6e8-80aa-144a-bdb5">
       <profiles>
         <profile name="SU-100" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="420e-a44e-1538-77fa">
           <characteristics>
@@ -1214,7 +1214,7 @@
         <infoLink name="Assault Gun" id="63ce-ad27-2555-e81b" hidden="false" type="rule" targetId="bee6-2ba7-9518-20c0"/>
       </infoLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="T-34/85" hidden="false" id="67a4-3058-1a90-7cfd">
+    <selectionEntry type="model" import="true" name="T-34/85" hidden="false" id="67a4-3058-1a90-7cfd">
       <profiles>
         <profile name="T-34/85" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="bc7e-e156-cc55-e368">
           <characteristics>
@@ -1242,7 +1242,7 @@
         <infoLink name="Spearhead" id="5a88-b29b-9854-6183" hidden="false" type="rule" targetId="5a50-b216-2180-0137"/>
       </infoLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="ISU-130" hidden="false" id="7ef3-8077-24c4-5917">
+    <selectionEntry type="model" import="true" name="ISU-130" hidden="false" id="7ef3-8077-24c4-5917">
       <profiles>
         <profile name="ISU-130" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="20ff-be77-414c-b266">
           <characteristics>
@@ -1275,7 +1275,7 @@
         </infoLink>
       </infoLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="ISU-152" hidden="false" id="0ebf-2e16-577f-0d4b">
+    <selectionEntry type="model" import="true" name="ISU-152" hidden="false" id="0ebf-2e16-577f-0d4b">
       <profiles>
         <profile name="ISU-152" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="cb3d-90ef-0efc-9aeb">
           <characteristics>
@@ -1308,7 +1308,7 @@
         </infoLink>
       </infoLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="ISU-122" hidden="false" id="6e07-7e5e-cd86-030b">
+    <selectionEntry type="model" import="true" name="ISU-122" hidden="false" id="6e07-7e5e-cd86-030b">
       <profiles>
         <profile name="ISU-122" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="10bd-27f5-82e0-ae6c">
           <characteristics>
@@ -1341,7 +1341,7 @@
         </infoLink>
       </infoLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="T-54-1" hidden="false" id="3238-9ced-6bc0-0fad">
+    <selectionEntry type="model" import="true" name="T-54-1" hidden="false" id="3238-9ced-6bc0-0fad">
       <profiles>
         <profile name="T-54-1" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="0f86-f49f-df48-c28d">
           <characteristics>
@@ -1373,7 +1373,7 @@
         <infoLink name="Slow Firing" id="d436-f60f-6319-1bd9" hidden="false" type="rule" targetId="f6d5-b2f5-f2c8-5f04"/>
       </infoLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="T-44" hidden="false" id="d093-a5c1-f798-fe80">
+    <selectionEntry type="model" import="true" name="T-44" hidden="false" id="d093-a5c1-f798-fe80">
       <profiles>
         <profile name="T-44" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="f880-9bf3-1d1a-6b63">
           <characteristics>
@@ -1400,7 +1400,7 @@
         <infoLink name="85mm ZiS-S-53" id="0d95-e872-5819-c8c5" hidden="false" type="profile" targetId="718e-1179-89d7-5522"/>
       </infoLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="IS-2" hidden="false" id="d9c5-b690-677e-ffbb">
+    <selectionEntry type="model" import="true" name="IS-2" hidden="false" id="d9c5-b690-677e-ffbb">
       <profiles>
         <profile name="IS-2" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="ba09-4116-5127-1f1a">
           <characteristics>
@@ -1432,7 +1432,7 @@
         </infoLink>
       </infoLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="IS-3" hidden="false" id="c6e6-6dea-bbe4-25f6">
+    <selectionEntry type="model" import="true" name="IS-3" hidden="false" id="c6e6-6dea-bbe4-25f6">
       <profiles>
         <profile name="IS-3" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="7105-a528-d52e-81eb">
           <characteristics>
@@ -1464,7 +1464,7 @@
         </infoLink>
       </infoLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="IS-7" hidden="false" id="a5a6-62e2-c4e1-f0bf">
+    <selectionEntry type="model" import="true" name="IS-7" hidden="false" id="a5a6-62e2-c4e1-f0bf">
       <profiles>
         <profile name="IS-7" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="f617-2777-4cb1-845f">
           <characteristics>
@@ -1496,7 +1496,7 @@
         </infoLink>
       </infoLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="T-54-3" hidden="false" id="aabf-b2dc-c540-5810">
+    <selectionEntry type="model" import="true" name="T-54-3" hidden="false" id="aabf-b2dc-c540-5810">
       <profiles>
         <profile name="T-54-3" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="3066-0eb5-007e-ff0a">
           <characteristics>
@@ -1530,7 +1530,7 @@
         <infoLink name="Slow Firing" id="7867-98cb-1ec9-77a0" hidden="false" type="rule" targetId="f6d5-b2f5-f2c8-5f04"/>
       </infoLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="T-10" hidden="false" id="07f0-00be-d2af-8f99">
+    <selectionEntry type="model" import="true" name="T-10" hidden="false" id="07f0-00be-d2af-8f99">
       <profiles>
         <profile name="T-10" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="7f9e-c6c3-538c-56f6">
           <characteristics>
@@ -1557,7 +1557,7 @@
         <infoLink name="122mm D-25TA" id="3632-b878-ae98-3892" hidden="false" type="profile" targetId="61c4-48d3-2300-38ab"/>
       </infoLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="T-62" hidden="false" id="da1c-639b-a085-fb07">
+    <selectionEntry type="model" import="true" name="T-62" hidden="false" id="da1c-639b-a085-fb07">
       <profiles>
         <profile name="T-62" typeId="cf0b-9fb4-5103-6a01" typeName="Tank" hidden="false" id="d643-6dcc-ac90-7a51">
           <characteristics>
